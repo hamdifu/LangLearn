@@ -1,14 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LangSelect">
-    <Button
-        android:layout_width="wrap_content"
+    tools:context=".LangSelect"
+    android:background="@drawable/main_bg">
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Logout"
-        android:onClick="logout"/>
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/back"
+                android:padding="15dp"
+                android:layout_centerVertical="true"
+                />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/button_bg"
+                android:fontFamily="casual"
+                android:onClick="logout"
+                android:text="Logout"
+                android:textColor="#ddd"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/anton"
+
+            android:text="Languages"
+            android:textColor="#ccc"
+            android:textSize="30sp"
+            android:textAllCaps="true"
+            android:paddingLeft="15dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/card_bg"
+                android:backgroundTint="#ce4257"
+                android:layout_margin="20dp"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/baloo"
+                    android:text="French"
+                    android:textSize="30sp"
+                    android:padding="20dp"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:text="commençons"
+                    android:background="@drawable/button_bg"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="20dp"
+
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:fontFamily="@font/anton"
+                    android:textColor="#bbb"/>
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/france"
+                android:layout_marginTop="-40dp"
+                android:layout_marginRight="-10dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="20dp"/>
+
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/card_bg"
+                android:backgroundTint="#006d77"
+                android:layout_margin="20dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/baloo"
+                    android:text="Korean"
+                    android:layout_alignParentRight="true"
+                    android:textSize="30sp"
+                    android:padding="20dp"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:text="시작하자"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/button_bg"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:textColor="#bbb"/>
+            </RelativeLayout>
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/korea"
+                android:layout_marginTop="-40dp"
+                android:layout_marginLeft="-28dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginBottom="20dp"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/card_bg"
+                android:backgroundTint="#976149"
+                android:layout_margin="20dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/baloo"
+                    android:text="Spanish"
+                    android:textSize="30sp"
+                    android:padding="20dp"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:text="Empecemos"
+                    android:background="@drawable/button_bg"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:textColor="#bbb"/>
+            </RelativeLayout>
+            <ImageView
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/spanish"
+                android:layout_marginTop="-40dp"
+                android:layout_marginRight="5dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="10dp"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/card_bg"
+                android:backgroundTint="#c5d86d"
+                android:layout_margin="20dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/baloo"
+                    android:text="German"
+                    android:layout_alignParentRight="true"
+                    android:textSize="30sp"
+                    android:padding="20dp"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:text="Lasst uns beginnen"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/button_bg"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:textColor="#bbb"/>
+            </RelativeLayout>
+            <ImageView
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/german"
+                android:layout_marginTop="-40dp"
+                android:layout_marginLeft="-10dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginBottom="10dp"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -64,35 +64,29 @@ public class MainActivity extends FragmentActivity {
         viewPager.animate().translationY(0).alpha(1).setDuration(1000).setStartDelay(400).start();
     }
 
-private class MyPagerAdapter extends FragmentPagerAdapter {
+    private class MyPagerAdapter extends FragmentPagerAdapter {
 
-    public MyPagerAdapter(FragmentManager fm) {
-        super(fm);
-    }
+        public MyPagerAdapter(FragmentManager fm) {
+            super(fm);
+        }
 
-    @Override
-    public Fragment getItem(int pos) {
-        switch(pos) {
-            case 1:
-//                ((ImageView).findViewById(R.id.tab)).setImageResource(R.drawable.two);
-//                i.setImageResource(R.drawable.two);
-                return LoginTabFragment.newInstance();
+        @Override
+        public Fragment getItem(int pos) {
+            switch(pos) {
+                case 1:
+    //                ((ImageView).findViewById(R.id.tab)).setImageResource(R.drawable.two);
+    //                i.setImageResource(R.drawable.two);
+                    return LoginTabFragment.newInstance();
 
-            case 0:
-//                ((ImageView).findViewById(R.id.tab)).setImageResource(R.drawable.one);
-                return SignupTabFragment.newInstance();
-            default: return LoginTabFragment.newInstance();
+                case 0:
+    //                ((ImageView).findViewById(R.id.tab)).setImageResource(R.drawable.one);
+                    return SignupTabFragment.newInstance();
+                default: return LoginTabFragment.newInstance();
+            }
+        }
+        @Override
+        public int getCount() {
+            return 2;
         }
     }
-
-    @Override
-    public int getCount() {
-        return 2;
-    }
 }
-}
-
-//public void logout(View view){
-//    FirebaseAuth.getInstance().signOut();
-//    startActivity(new Intent(getApplicationContext(),MainActivity.class));
-//}
