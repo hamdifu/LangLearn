@@ -11,12 +11,14 @@ import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
 import com.google.android.gms.common.SignInButton;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.google.firebase.auth.FirebaseAuth;
 import com.mahfa.dnswitch.DayNightSwitch;
 import com.mahfa.dnswitch.DayNightSwitchListener;
 
@@ -25,6 +27,7 @@ public class MainActivity extends FragmentActivity {
     View daySky,nightSky;
     DayNightSwitch dayNightSwitch;
     ViewPager viewPager;
+
     float v=0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -73,12 +76,12 @@ private class MyPagerAdapter extends FragmentPagerAdapter {
             case 1:
 //                ((ImageView).findViewById(R.id.tab)).setImageResource(R.drawable.two);
 //                i.setImageResource(R.drawable.two);
-                return LoginTabFragment.newInstance("SecondFragment, Instance 1");
+                return LoginTabFragment.newInstance();
 
             case 0:
 //                ((ImageView).findViewById(R.id.tab)).setImageResource(R.drawable.one);
-                return SignupTabFragment.newInstance("SecondFragment, Instance 1");
-            default: return LoginTabFragment.newInstance("FirstFragment, Default");
+                return SignupTabFragment.newInstance();
+            default: return LoginTabFragment.newInstance();
         }
     }
 
@@ -88,3 +91,8 @@ private class MyPagerAdapter extends FragmentPagerAdapter {
     }
 }
 }
+
+//public void logout(View view){
+//    FirebaseAuth.getInstance().signOut();
+//    startActivity(new Intent(getApplicationContext(),MainActivity.class));
+//}
