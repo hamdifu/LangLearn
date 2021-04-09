@@ -20,6 +20,8 @@
                 android:src="@drawable/back"
                 android:padding="15dp"
                 android:layout_centerVertical="true"
+                android:clickable="true"
+                android:onClick="back"
                 />
 
             <Button
@@ -35,7 +37,6 @@
                 android:textStyle="bold" />
 
         </RelativeLayout>
-
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -65,6 +66,7 @@
                     android:textSize="30sp"
                     android:padding="20dp"/>
                 <Button
+                    android:id="@+id/french"
                     android:layout_width="wrap_content"
                     android:layout_height="50dp"
                     android:text="commençons"
@@ -72,11 +74,12 @@
                     android:layout_alignParentBottom="true"
                     android:layout_marginLeft="20dp"
                     android:layout_marginBottom="20dp"
-
                     android:paddingLeft="20dp"
                     android:paddingRight="20dp"
                     android:fontFamily="@font/anton"
-                    android:textColor="#bbb"/>
+                    android:textColor="#bbb"
+                    android:onClick="send_data"
+                    android:tag="french"/>
             </RelativeLayout>
 
             <ImageView
@@ -109,6 +112,7 @@
                     android:textSize="30sp"
                     android:padding="20dp"/>
                 <Button
+                    android:id="@+id/korean"
                     android:layout_width="wrap_content"
                     android:layout_height="50dp"
                     android:text="시작하자"
@@ -119,7 +123,9 @@
                     android:layout_marginBottom="20dp"
                     android:paddingLeft="20dp"
                     android:paddingRight="20dp"
-                    android:textColor="#bbb"/>
+                    android:textColor="#bbb"
+                    android:onClick="send_data"
+                    android:tag="korean"/>
             </RelativeLayout>
             <ImageView
                 android:layout_width="170dp"
@@ -148,6 +154,7 @@
                     android:textSize="30sp"
                     android:padding="20dp"/>
                 <Button
+                    android:id="@+id/spanish"
                     android:layout_width="wrap_content"
                     android:layout_height="50dp"
                     android:text="Empecemos"
@@ -157,7 +164,9 @@
                     android:layout_marginBottom="20dp"
                     android:paddingLeft="20dp"
                     android:paddingRight="20dp"
-                    android:textColor="#bbb"/>
+                    android:textColor="#bbb"
+                    android:onClick="send_data"
+                    android:tag="spanish"/>
             </RelativeLayout>
             <ImageView
                 android:layout_width="160dp"
@@ -187,6 +196,7 @@
                     android:textSize="30sp"
                     android:padding="20dp"/>
                 <Button
+                    android:id="@+id/german"
                     android:layout_width="wrap_content"
                     android:layout_height="50dp"
                     android:text="Lasst uns beginnen"
@@ -197,7 +207,9 @@
                     android:layout_marginBottom="20dp"
                     android:paddingLeft="20dp"
                     android:paddingRight="20dp"
-                    android:textColor="#bbb"/>
+                    android:textColor="#bbb"
+                    android:onClick="send_data"
+                    android:tag="german"/>
             </RelativeLayout>
             <ImageView
                 android:layout_width="160dp"
@@ -208,8 +220,5 @@
                 android:layout_alignParentLeft="true"
                 android:layout_marginBottom="10dp"/>
         </RelativeLayout>
-
     </LinearLayout>
-
-
 </ScrollView>

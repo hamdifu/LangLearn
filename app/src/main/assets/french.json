@@ -1,0 +1,2002 @@
+﻿[
+	{
+		"lang": "de",
+		"english": "of"
+	},
+	{
+		"lang": "je",
+		"english": "I"
+	},
+	{
+		"lang": "est",
+		"english": "is"
+	},
+	{
+		"lang": "pas",
+		"english": "not"
+	},
+	{
+		"lang": "le",
+		"english": "the"
+	},
+	{
+		"lang": "que",
+		"english": "than"
+	},
+	{
+		"lang": "la",
+		"english": "the"
+	},
+	{
+		"lang": "vous",
+		"english": "you"
+	},
+	{
+		"lang": "tu",
+		"english": "you"
+	},
+	{
+		"lang": "un",
+		"english": "a"
+	},
+	{
+		"lang": "c'",
+		"english": "vs'"
+	},
+	{
+		"lang": "à",
+		"english": "at"
+	},
+	{
+		"lang": "et",
+		"english": "and"
+	},
+	{
+		"lang": "il",
+		"english": "he"
+	},
+	{
+		"lang": "a",
+		"english": "at"
+	},
+	{
+		"lang": "l'",
+		"english": "the"
+	},
+	{
+		"lang": "ne",
+		"english": "born"
+	},
+	{
+		"lang": "les",
+		"english": "the"
+	},
+	{
+		"lang": "j'",
+		"english": "j '"
+	},
+	{
+		"lang": "en",
+		"english": "in"
+	},
+	{
+		"lang": "on",
+		"english": "we"
+	},
+	{
+		"lang": "ça",
+		"english": "it"
+	},
+	{
+		"lang": "une",
+		"english": "a"
+	},
+	{
+		"lang": "d'",
+		"english": "of"
+	},
+	{
+		"lang": "ce",
+		"english": "this"
+	},
+	{
+		"lang": "qu'",
+		"english": "that"
+	},
+	{
+		"lang": "pour",
+		"english": "for"
+	},
+	{
+		"lang": "ai",
+		"english": "have"
+	},
+	{
+		"lang": "n'",
+		"english": "not'"
+	},
+	{
+		"lang": "des",
+		"english": "of the"
+	},
+	{
+		"lang": "qui",
+		"english": "who"
+	},
+	{
+		"lang": "mais",
+		"english": "But"
+	},
+	{
+		"lang": "dans",
+		"english": "in"
+	},
+	{
+		"lang": "nous",
+		"english": "we"
+	},
+	{
+		"lang": "elle",
+		"english": "it"
+	},
+	{
+		"lang": "me",
+		"english": "me"
+	},
+	{
+		"lang": "bien",
+		"english": "good"
+	},
+	{
+		"lang": "si",
+		"english": "if"
+	},
+	{
+		"lang": "du",
+		"english": "of"
+	},
+	{
+		"lang": "y",
+		"english": "there"
+	},
+	{
+		"lang": "suis",
+		"english": "am"
+	},
+	{
+		"lang": "non",
+		"english": "no"
+	},
+	{
+		"lang": "t'",
+		"english": "t '"
+	},
+	{
+		"lang": "avec",
+		"english": "with"
+	},
+	{
+		"lang": "tout",
+		"english": "all"
+	},
+	{
+		"lang": "plus",
+		"english": "more"
+	},
+	{
+		"lang": "mon",
+		"english": "my"
+	},
+	{
+		"lang": "m'",
+		"english": "m '"
+	},
+	{
+		"lang": "te",
+		"english": "you"
+	},
+	{
+		"lang": "au",
+		"english": "at"
+	},
+	{
+		"lang": "fait",
+		"english": "fact"
+	},
+	{
+		"lang": "moi",
+		"english": "me"
+	},
+	{
+		"lang": "s'",
+		"english": "s'"
+	},
+	{
+		"lang": "oui",
+		"english": "Yes"
+	},
+	{
+		"lang": "va",
+		"english": "goes"
+	},
+	{
+		"lang": "était",
+		"english": "was"
+	},
+	{
+		"lang": "as",
+		"english": "ace"
+	},
+	{
+		"lang": "faire",
+		"english": "to do"
+	},
+	{
+		"lang": "ils",
+		"english": "they"
+	},
+	{
+		"lang": "sur",
+		"english": "sure"
+	},
+	{
+		"lang": "quoi",
+		"english": "what"
+	},
+	{
+		"lang": "se",
+		"english": "himself"
+	},
+	{
+		"lang": "comme",
+		"english": "as"
+	},
+	{
+		"lang": "sais",
+		"english": "know"
+	},
+	{
+		"lang": "être",
+		"english": "to be"
+	},
+	{
+		"lang": "veux",
+		"english": "want"
+	},
+	{
+		"lang": "ici",
+		"english": "here"
+	},
+	{
+		"lang": "ma",
+		"english": "my"
+	},
+	{
+		"lang": "toi",
+		"english": "you"
+	},
+	{
+		"lang": "est-ce",
+		"english": "Is"
+	},
+	{
+		"lang": "dit",
+		"english": "said"
+	},
+	{
+		"lang": "lui",
+		"english": "him"
+	},
+	{
+		"lang": "votre",
+		"english": "your"
+	},
+	{
+		"lang": "es",
+		"english": "es"
+	},
+	{
+		"lang": "pourquoi",
+		"english": "Why"
+	},
+	{
+		"lang": "où",
+		"english": "or"
+	},
+	{
+		"lang": "là",
+		"english": "the"
+	},
+	{
+		"lang": "rien",
+		"english": "nothing"
+	},
+	{
+		"lang": "cette",
+		"english": "this"
+	},
+	{
+		"lang": "sont",
+		"english": "are"
+	},
+	{
+		"lang": "quand",
+		"english": "when"
+	},
+	{
+		"lang": "peux",
+		"english": "can"
+	},
+	{
+		"lang": "dire",
+		"english": "say"
+	},
+	{
+		"lang": "son",
+		"english": "his"
+	},
+	{
+		"lang": "avez",
+		"english": "have"
+	},
+	{
+		"lang": "vais",
+		"english": "am going to"
+	},
+	{
+		"lang": "alors",
+		"english": "so"
+	},
+	{
+		"lang": "ton",
+		"english": "your"
+	},
+	{
+		"lang": "comment",
+		"english": "How? 'Or' What"
+	},
+	{
+		"lang": "par",
+		"english": "by"
+	},
+	{
+		"lang": "ou",
+		"english": "or"
+	},
+	{
+		"lang": "chose",
+		"english": "thing"
+	},
+	{
+		"lang": "bon",
+		"english": "Well"
+	},
+	{
+		"lang": "ont",
+		"english": "have"
+	},
+	{
+		"lang": "merci",
+		"english": "thank you"
+	},
+	{
+		"lang": "juste",
+		"english": "fair"
+	},
+	{
+		"lang": "très",
+		"english": "very"
+	},
+	{
+		"lang": "jamais",
+		"english": "never"
+	},
+	{
+		"lang": "été",
+		"english": "summer"
+	},
+	{
+		"lang": "aussi",
+		"english": "as well"
+	},
+	{
+		"lang": "avoir",
+		"english": "to have"
+	},
+	{
+		"lang": "vraiment",
+		"english": "really"
+	},
+	{
+		"lang": "voir",
+		"english": "see"
+	},
+	{
+		"lang": "même",
+		"english": "even"
+	},
+	{
+		"lang": "sa",
+		"english": "her"
+	},
+	{
+		"lang": "oh",
+		"english": "Oh"
+	},
+	{
+		"lang": "maintenant",
+		"english": "now"
+	},
+	{
+		"lang": "tous",
+		"english": "all"
+	},
+	{
+		"lang": "peut",
+		"english": "can"
+	},
+	{
+		"lang": "deux",
+		"english": "of them"
+	},
+	{
+		"lang": "ces",
+		"english": "these"
+	},
+	{
+		"lang": "êtes",
+		"english": "are"
+	},
+	{
+		"lang": "allez",
+		"english": "going"
+	},
+	{
+		"lang": "ta",
+		"english": "your"
+	},
+	{
+		"lang": "autre",
+		"english": "other"
+	},
+	{
+		"lang": "peu",
+		"english": "little"
+	},
+	{
+		"lang": "temps",
+		"english": "time"
+	},
+	{
+		"lang": "quelque",
+		"english": "some"
+	},
+	{
+		"lang": "fais",
+		"english": "do"
+	},
+	{
+		"lang": "toujours",
+		"english": "always"
+	},
+	{
+		"lang": "encore",
+		"english": "again"
+	},
+	{
+		"lang": "notre",
+		"english": "our"
+	},
+	{
+		"lang": "mes",
+		"english": "my"
+	},
+	{
+		"lang": "besoin",
+		"english": "need"
+	},
+	{
+		"lang": "avait",
+		"english": "had"
+	},
+	{
+		"lang": "accord",
+		"english": "agreement"
+	},
+	{
+		"lang": "faut",
+		"english": "should"
+	},
+	{
+		"lang": "dois",
+		"english": "have"
+	},
+	{
+		"lang": "vie",
+		"english": "life"
+	},
+	{
+		"lang": "peut-être",
+		"english": "perhaps"
+	},
+	{
+		"lang": "aller",
+		"english": "to go"
+	},
+	{
+		"lang": "fois",
+		"english": "times"
+	},
+	{
+		"lang": "vu",
+		"english": "seen"
+	},
+	{
+		"lang": "donc",
+		"english": "so"
+	},
+	{
+		"lang": "sans",
+		"english": "without"
+	},
+	{
+		"lang": "monde",
+		"english": "world"
+	},
+	{
+		"lang": "étais",
+		"english": "was"
+	},
+	{
+		"lang": "parce",
+		"english": "by"
+	},
+	{
+		"lang": "avant",
+		"english": "before"
+	},
+	{
+		"lang": "sûr",
+		"english": "sure"
+	},
+	{
+		"lang": "trop",
+		"english": "too much"
+	},
+	{
+		"lang": "quelqu'",
+		"english": "someone"
+	},
+	{
+		"lang": "parler",
+		"english": "talk"
+	},
+	{
+		"lang": "personne",
+		"english": "person"
+	},
+	{
+		"lang": "avais",
+		"english": "had"
+	},
+	{
+		"lang": "père",
+		"english": "dad"
+	},
+	{
+		"lang": "crois",
+		"english": "think"
+	},
+	{
+		"lang": "après",
+		"english": "after"
+	},
+	{
+		"lang": "aux",
+		"english": "to the"
+	},
+	{
+		"lang": "dieu",
+		"english": "God"
+	},
+	{
+		"lang": "ouais",
+		"english": "yeah"
+	},
+	{
+		"lang": "ses",
+		"english": "his"
+	},
+	{
+		"lang": "pense",
+		"english": "thought"
+	},
+	{
+		"lang": "eu",
+		"english": "had"
+	},
+	{
+		"lang": "aime",
+		"english": "love"
+	},
+	{
+		"lang": "leur",
+		"english": "their"
+	},
+	{
+		"lang": "homme",
+		"english": "man"
+	},
+	{
+		"lang": "viens",
+		"english": "come"
+	},
+	{
+		"lang": "vrai",
+		"english": "TRUE"
+	},
+	{
+		"lang": "femme",
+		"english": "women"
+	},
+	{
+		"lang": "ok",
+		"english": "okay"
+	},
+	{
+		"lang": "doit",
+		"english": "must"
+	},
+	{
+		"lang": "veut",
+		"english": "wants"
+	},
+	{
+		"lang": "ans",
+		"english": "years"
+	},
+	{
+		"lang": "m.",
+		"english": "m."
+	},
+	{
+		"lang": "mal",
+		"english": "wrong"
+	},
+	{
+		"lang": "chez",
+		"english": "in"
+	},
+	{
+		"lang": "déjà",
+		"english": "already"
+	},
+	{
+		"lang": "depuis",
+		"english": "since"
+	},
+	{
+		"lang": "beaucoup",
+		"english": "many"
+	},
+	{
+		"lang": "vos",
+		"english": "your"
+	},
+	{
+		"lang": "bonne",
+		"english": "good"
+	},
+	{
+		"lang": "mort",
+		"english": "death"
+	},
+	{
+		"lang": "mieux",
+		"english": "better"
+	},
+	{
+		"lang": "vas",
+		"english": "going"
+	},
+	{
+		"lang": "mère",
+		"english": "mother"
+	},
+	{
+		"lang": "sera",
+		"english": "will be"
+	},
+	{
+		"lang": "dis",
+		"english": "tell"
+	},
+	{
+		"lang": "fille",
+		"english": "girl"
+	},
+	{
+		"lang": "tes",
+		"english": "your"
+	},
+	{
+		"lang": "gens",
+		"english": "people"
+	},
+	{
+		"lang": "quel",
+		"english": "what"
+	},
+	{
+		"lang": "vois",
+		"english": "see"
+	},
+	{
+		"lang": "désolé",
+		"english": "sorry"
+	},
+	{
+		"lang": "ca",
+		"english": "it"
+	},
+	{
+		"lang": "voilà",
+		"english": "here"
+	},
+	{
+		"lang": "avons",
+		"english": "have"
+	},
+	{
+		"lang": "petit",
+		"english": "small"
+	},
+	{
+		"lang": "maison",
+		"english": "House"
+	},
+	{
+		"lang": "soit",
+		"english": "is"
+	},
+	{
+		"lang": "cela",
+		"english": "it"
+	},
+	{
+		"lang": "autres",
+		"english": "other"
+	},
+	{
+		"lang": "toute",
+		"english": "all"
+	},
+	{
+		"lang": "soir",
+		"english": "evening"
+	},
+	{
+		"lang": "passé",
+		"english": "past"
+	},
+	{
+		"lang": "prendre",
+		"english": "to take"
+	},
+	{
+		"lang": "jour",
+		"english": "day"
+	},
+	{
+		"lang": "monsieur",
+		"english": "gentleman"
+	},
+	{
+		"lang": "nos",
+		"english": "our"
+	},
+	{
+		"lang": "savoir",
+		"english": "know"
+	},
+	{
+		"lang": "choses",
+		"english": "things"
+	},
+	{
+		"lang": "salut",
+		"english": "Salvation"
+	},
+	{
+		"lang": "cet",
+		"english": "this"
+	},
+	{
+		"lang": "nom",
+		"english": "last name"
+	},
+	{
+		"lang": "argent",
+		"english": "silver"
+	},
+	{
+		"lang": "bonjour",
+		"english": "Hello"
+	},
+	{
+		"lang": "nuit",
+		"english": "night"
+	},
+	{
+		"lang": "raison",
+		"english": "reason"
+	},
+	{
+		"lang": "moins",
+		"english": "less"
+	},
+	{
+		"lang": "arrive",
+		"english": "come"
+	},
+	{
+		"lang": "maman",
+		"english": "mom"
+	},
+	{
+		"lang": "reste",
+		"english": "rest"
+	},
+	{
+		"lang": "moment",
+		"english": "moment"
+	},
+	{
+		"lang": "voulais",
+		"english": "wanted"
+	},
+	{
+		"lang": "seul",
+		"english": "alone"
+	},
+	{
+		"lang": "aider",
+		"english": "help"
+	},
+	{
+		"lang": "air",
+		"english": "air"
+	},
+	{
+		"lang": "entre",
+		"english": "Between"
+	},
+	{
+		"lang": "papa",
+		"english": "dad"
+	},
+	{
+		"lang": "passe",
+		"english": "past"
+	},
+	{
+		"lang": "aurais",
+		"english": "would"
+	},
+	{
+		"lang": "problème",
+		"english": "problem"
+	},
+	{
+		"lang": "ah",
+		"english": "ha"
+	},
+	{
+		"lang": "peur",
+		"english": "fear"
+	},
+	{
+		"lang": "regarde",
+		"english": "looked"
+	},
+	{
+		"lang": "voulez",
+		"english": "want"
+	},
+	{
+		"lang": "gars",
+		"english": "guys"
+	},
+	{
+		"lang": "trouvé",
+		"english": "find"
+	},
+	{
+		"lang": "fils",
+		"english": "son"
+	},
+	{
+		"lang": "attends",
+		"english": "hold on"
+	},
+	{
+		"lang": "savez",
+		"english": "know"
+	},
+	{
+		"lang": "jusqu'",
+		"english": "up"
+	},
+	{
+		"lang": "trouver",
+		"english": "find"
+	},
+	{
+		"lang": "trois",
+		"english": "three"
+	},
+	{
+		"lang": "assez",
+		"english": "enough"
+	},
+	{
+		"lang": "famille",
+		"english": "family"
+	},
+	{
+		"lang": "dû",
+		"english": "of"
+	},
+	{
+		"lang": "eh",
+		"english": "eh"
+	},
+	{
+		"lang": "toutes",
+		"english": "all"
+	},
+	{
+		"lang": "plaît",
+		"english": "please"
+	},
+	{
+		"lang": "pourrait",
+		"english": "could"
+	},
+	{
+		"lang": "travail",
+		"english": "job"
+	},
+	{
+		"lang": "pris",
+		"english": "taken"
+	},
+	{
+		"lang": "pu",
+		"english": "could"
+	},
+	{
+		"lang": "tête",
+		"english": "head"
+	},
+	{
+		"lang": "quelle",
+		"english": "what"
+	},
+	{
+		"lang": "sait",
+		"english": "know"
+	},
+	{
+		"lang": "sommes",
+		"english": "are"
+	},
+	{
+		"lang": "appelle",
+		"english": "call"
+	},
+	{
+		"lang": "quelques",
+		"english": "a few"
+	},
+	{
+		"lang": "faites",
+		"english": "make"
+	},
+	{
+		"lang": "partir",
+		"english": "go"
+	},
+	{
+		"lang": "vite",
+		"english": "quickly"
+	},
+	{
+		"lang": "arrête",
+		"english": "stopped"
+	},
+	{
+		"lang": "seule",
+		"english": "alone"
+	},
+	{
+		"lang": "serait",
+		"english": "would be"
+	},
+	{
+		"lang": "voiture",
+		"english": "car"
+	},
+	{
+		"lang": "enfants",
+		"english": "children"
+	},
+	{
+		"lang": "tuer",
+		"english": "kill"
+	},
+	{
+		"lang": "merde",
+		"english": "Fuck"
+	},
+	{
+		"lang": "hé",
+		"english": "Hey"
+	},
+	{
+		"lang": "pendant",
+		"english": "while"
+	},
+	{
+		"lang": "idée",
+		"english": "idea"
+	},
+	{
+		"lang": "chance",
+		"english": "luck"
+	},
+	{
+		"lang": "parle",
+		"english": "speak"
+	},
+	{
+		"lang": "aurait",
+		"english": "would have"
+	},
+	{
+		"lang": "part",
+		"english": "go"
+	},
+	{
+		"lang": "elles",
+		"english": "they"
+	},
+	{
+		"lang": "jours",
+		"english": "days"
+	},
+	{
+		"lang": "grand",
+		"english": "tall"
+	},
+	{
+		"lang": "aujourd'hui",
+		"english": "today"
+	},
+	{
+		"lang": "venir",
+		"english": "come"
+	},
+	{
+		"lang": "ami",
+		"english": "friend"
+	},
+	{
+		"lang": "demain",
+		"english": "tomorrow"
+	},
+	{
+		"lang": "hein",
+		"english": "huh"
+	},
+	{
+		"lang": "tard",
+		"english": "late"
+	},
+	{
+		"lang": "puis",
+		"english": "then"
+	},
+	{
+		"lang": "truc",
+		"english": "thing"
+	},
+	{
+		"lang": "passer",
+		"english": "pass"
+	},
+	{
+		"lang": "petite",
+		"english": "small"
+	},
+	{
+		"lang": "tant",
+		"english": "so"
+	},
+	{
+		"lang": "connais",
+		"english": "know"
+	},
+	{
+		"lang": "combien",
+		"english": "how much"
+	},
+	{
+		"lang": "mec",
+		"english": "guy"
+	},
+	{
+		"lang": "sens",
+		"english": "meaning"
+	},
+	{
+		"lang": "pouvez",
+		"english": "can"
+	},
+	{
+		"lang": "porte",
+		"english": "door"
+	},
+	{
+		"lang": "sortir",
+		"english": "exit"
+	},
+	{
+		"lang": "super",
+		"english": "Great"
+	},
+	{
+		"lang": "heure",
+		"english": "hour"
+	},
+	{
+		"lang": "contre",
+		"english": "against"
+	},
+	{
+		"lang": "coup",
+		"english": "stroke"
+	},
+	{
+		"lang": "comprends",
+		"english": "understand"
+	},
+	{
+		"lang": "entendu",
+		"english": "heard"
+	},
+	{
+		"lang": "vient",
+		"english": "just"
+	},
+	{
+		"lang": "allons",
+		"english": "let's go"
+	},
+	{
+		"lang": "ensemble",
+		"english": "together"
+	},
+	{
+		"lang": "nouveau",
+		"english": "new"
+	},
+	{
+		"lang": "amour",
+		"english": "love"
+	},
+	{
+		"lang": "importe",
+		"english": "imported"
+	},
+	{
+		"lang": "sang",
+		"english": "blood"
+	},
+	{
+		"lang": "désolée",
+		"english": "sorry"
+	},
+	{
+		"lang": "cas",
+		"english": "case"
+	},
+	{
+		"lang": "sous",
+		"english": "under"
+	},
+	{
+		"lang": "rester",
+		"english": "stay"
+	},
+	{
+		"lang": "amis",
+		"english": "friends"
+	},
+	{
+		"lang": "prends",
+		"english": "take"
+	},
+	{
+		"lang": "fini",
+		"english": "finished"
+	},
+	{
+		"lang": "hommes",
+		"english": "men"
+	},
+	{
+		"lang": "tué",
+		"english": "kill"
+	},
+	{
+		"lang": "question",
+		"english": "question"
+	},
+	{
+		"lang": "partie",
+		"english": "part"
+	},
+	{
+		"lang": "histoire",
+		"english": "history"
+	},
+	{
+		"lang": "devrais",
+		"english": "should"
+	},
+	{
+		"lang": "aide",
+		"english": "help"
+	},
+	{
+		"lang": "dernière",
+		"english": "latest"
+	},
+	{
+		"lang": "demande",
+		"english": "request"
+	},
+	{
+		"lang": "chercher",
+		"english": "search"
+	},
+	{
+		"lang": "pensais",
+		"english": "thought"
+	},
+	{
+		"lang": "genre",
+		"english": "kind"
+	},
+	{
+		"lang": "seulement",
+		"english": "only"
+	},
+	{
+		"lang": "police",
+		"english": "police"
+	},
+	{
+		"lang": "car",
+		"english": "because"
+	},
+	{
+		"lang": "mois",
+		"english": "month"
+	},
+	{
+		"lang": "frère",
+		"english": "brother"
+	},
+	{
+		"lang": "laisser",
+		"english": "let"
+	},
+	{
+		"lang": "aucun",
+		"english": "no"
+	},
+	{
+		"lang": "mettre",
+		"english": "to put"
+	},
+	{
+		"lang": "eux",
+		"english": "them"
+	},
+	{
+		"lang": "laisse",
+		"english": "leash"
+	},
+	{
+		"lang": "chaque",
+		"english": "each"
+	},
+	{
+		"lang": "ville",
+		"english": "city"
+	},
+	{
+		"lang": "arrivé",
+		"english": "come"
+	},
+	{
+		"lang": "devrait",
+		"english": "should"
+	},
+	{
+		"lang": "parlé",
+		"english": "speak"
+	},
+	{
+		"lang": "avez-vous",
+		"english": "have you got"
+	},
+	{
+		"lang": "vont",
+		"english": "will"
+	},
+	{
+		"lang": "longtemps",
+		"english": "long time"
+	},
+	{
+		"lang": "aucune",
+		"english": "any"
+	},
+	{
+		"lang": "heures",
+		"english": "hours"
+	},
+	{
+		"lang": "bébé",
+		"english": "baby"
+	},
+	{
+		"lang": "place",
+		"english": "square"
+	},
+	{
+		"lang": "revoir",
+		"english": "see again"
+	},
+	{
+		"lang": "putain",
+		"english": "whore"
+	},
+	{
+		"lang": "compris",
+		"english": "understood"
+	},
+	{
+		"lang": "ni",
+		"english": "or"
+	},
+	{
+		"lang": "savais",
+		"english": "knew"
+	},
+	{
+		"lang": "leurs",
+		"english": "their"
+	},
+	{
+		"lang": "étaient",
+		"english": "were"
+	},
+	{
+		"lang": "attention",
+		"english": "Warning"
+	},
+	{
+		"lang": "donner",
+		"english": "give"
+	},
+	{
+		"lang": "affaire",
+		"english": "case"
+	},
+	{
+		"lang": "endroit",
+		"english": "in law"
+	},
+	{
+		"lang": "pourrais",
+		"english": "could"
+	},
+	{
+		"lang": "corps",
+		"english": "body"
+	},
+	{
+		"lang": "façon",
+		"english": "way"
+	},
+	{
+		"lang": "donné",
+		"english": "given"
+	},
+	{
+		"lang": "est-il",
+		"english": "is it"
+	},
+	{
+		"lang": "voici",
+		"english": "here is"
+	},
+	{
+		"lang": "train",
+		"english": "train"
+	},
+	{
+		"lang": "dont",
+		"english": "whose"
+	},
+	{
+		"lang": "écoute",
+		"english": "listen"
+	},
+	{
+		"lang": "yeux",
+		"english": "eyes"
+	},
+	{
+		"lang": "trouve",
+		"english": "find"
+	},
+	{
+		"lang": "pouvoir",
+		"english": "power"
+	},
+	{
+		"lang": "type",
+		"english": "type"
+	},
+	{
+		"lang": "perdu",
+		"english": "lost"
+	},
+	{
+		"lang": "premier",
+		"english": "first"
+	},
+	{
+		"lang": "première",
+		"english": "first"
+	},
+	{
+		"lang": "côté",
+		"english": "side"
+	},
+	{
+		"lang": "point",
+		"english": "point"
+	},
+	{
+		"lang": "tellement",
+		"english": "so much"
+	},
+	{
+		"lang": "main",
+		"english": "hand"
+	},
+	{
+		"lang": "tiens",
+		"english": "here"
+	},
+	{
+		"lang": "sois",
+		"english": "be"
+	},
+	{
+		"lang": "enfant",
+		"english": "child"
+	},
+	{
+		"lang": "vieux",
+		"english": "old"
+	},
+	{
+		"lang": "matin",
+		"english": "morning"
+	},
+	{
+		"lang": "venu",
+		"english": "came"
+	},
+	{
+		"lang": "pardon",
+		"english": "sorry"
+	},
+	{
+		"lang": "là-bas",
+		"english": "over there"
+	},
+	{
+		"lang": "suite",
+		"english": "after"
+	},
+	{
+		"lang": "vers",
+		"english": "towards"
+	},
+	{
+		"lang": "minutes",
+		"english": "minutes"
+	},
+	{
+		"lang": "demandé",
+		"english": "request"
+	},
+	{
+		"lang": "venez",
+		"english": "come"
+	},
+	{
+		"lang": "devant",
+		"english": "in front of"
+	},
+	{
+		"lang": "dr",
+		"english": "dr"
+	},
+	{
+		"lang": "enfin",
+		"english": "finally"
+	},
+	{
+		"lang": "arrêter",
+		"english": "Stop"
+	},
+	{
+		"lang": "cause",
+		"english": "cause"
+	},
+	{
+		"lang": "nouvelle",
+		"english": "new"
+	},
+	{
+		"lang": "attendez",
+		"english": "Wait"
+	},
+	{
+		"lang": "chambre",
+		"english": "bedroom"
+	},
+	{
+		"lang": "droit",
+		"english": "law"
+	},
+	{
+		"lang": "parti",
+		"english": "left"
+	},
+	{
+		"lang": "mis",
+		"english": "placed"
+	},
+	{
+		"lang": "eau",
+		"english": "water"
+	},
+	{
+		"lang": "compte",
+		"english": "account"
+	},
+	{
+		"lang": "dirait",
+		"english": "would say"
+	},
+	{
+		"lang": "terre",
+		"english": "Earth"
+	},
+	{
+		"lang": "belle",
+		"english": "beautiful"
+	},
+	{
+		"lang": "espère",
+		"english": "hope"
+	},
+	{
+		"lang": "aimerais",
+		"english": "would like to"
+	},
+	{
+		"lang": "loin",
+		"english": "far"
+	},
+	{
+		"lang": "as-tu",
+		"english": "did you"
+	},
+	{
+		"lang": "mari",
+		"english": "husband"
+	},
+	{
+		"lang": "donne",
+		"english": "given"
+	},
+	{
+		"lang": "fin",
+		"english": "end"
+	},
+	{
+		"lang": "croire",
+		"english": "believe"
+	},
+	{
+		"lang": "mme",
+		"english": "Mrs"
+	},
+	{
+		"lang": "aura",
+		"english": "will have"
+	},
+	{
+		"lang": "gros",
+		"english": "large"
+	},
+	{
+		"lang": "boulot",
+		"english": "job"
+	},
+	{
+		"lang": "plutôt",
+		"english": "rather"
+	},
+	{
+		"lang": "chérie",
+		"english": "sweetheart"
+	},
+	{
+		"lang": "prêt",
+		"english": "ready"
+	},
+	{
+		"lang": "filles",
+		"english": "girls"
+	},
+	{
+		"lang": "bureau",
+		"english": "office"
+	},
+	{
+		"lang": "mourir",
+		"english": "pass away"
+	},
+	{
+		"lang": "hier",
+		"english": "yesterday"
+	},
+	{
+		"lang": "possible",
+		"english": "possible"
+	},
+	{
+		"lang": "jouer",
+		"english": "to play"
+	},
+	{
+		"lang": "demander",
+		"english": "request"
+	},
+	{
+		"lang": "celui",
+		"english": "the one"
+	},
+	{
+		"lang": "voulait",
+		"english": "wanted to"
+	},
+	{
+		"lang": "beau",
+		"english": "beautiful"
+	},
+	{
+		"lang": "jeune",
+		"english": "young"
+	},
+	{
+		"lang": "euh",
+		"english": "uh"
+	},
+	{
+		"lang": "dehors",
+		"english": "outside"
+	},
+	{
+		"lang": "docteur",
+		"english": "doctor"
+	},
+	{
+		"lang": "a-t-il",
+		"english": "does he have"
+	},
+	{
+		"lang": "confiance",
+		"english": "trust"
+	},
+	{
+		"lang": "appeler",
+		"english": "call"
+	},
+	{
+		"lang": "années",
+		"english": "years"
+	},
+	{
+		"lang": "vérité",
+		"english": "truth"
+	},
+	{
+		"lang": "école",
+		"english": "school"
+	},
+	{
+		"lang": "chef",
+		"english": "chief"
+	},
+	{
+		"lang": "femmes",
+		"english": "women"
+	},
+	{
+		"lang": "propos",
+		"english": "about"
+	},
+	{
+		"lang": "semaine",
+		"english": "week"
+	},
+	{
+		"lang": "vivre",
+		"english": "live"
+	},
+	{
+		"lang": "regardez",
+		"english": "look"
+	},
+	{
+		"lang": "feu",
+		"english": "fire"
+	},
+	{
+		"lang": "journée",
+		"english": "day"
+	},
+	{
+		"lang": "madame",
+		"english": "Mrs"
+	},
+	{
+		"lang": "hey",
+		"english": "hey"
+	},
+	{
+		"lang": "téléphone",
+		"english": "phone"
+	},
+	{
+		"lang": "près",
+		"english": "near"
+	},
+	{
+		"lang": "affaires",
+		"english": "business"
+	},
+	{
+		"lang": "meilleur",
+		"english": "better"
+	},
+	{
+		"lang": "devez",
+		"english": "must"
+	},
+	{
+		"lang": "dessus",
+		"english": "above"
+	},
+	{
+		"lang": "mains",
+		"english": "hands"
+	},
+	{
+		"lang": "penses",
+		"english": "think"
+	},
+	{
+		"lang": "prie",
+		"english": "pray"
+	},
+	{
+		"lang": "équipe",
+		"english": "team"
+	},
+	{
+		"lang": "vas-y",
+		"english": "go ahead"
+	},
+	{
+		"lang": "grande",
+		"english": "big"
+	},
+	{
+		"lang": "manger",
+		"english": "eat"
+	},
+	{
+		"lang": "arriver",
+		"english": "arrive"
+	},
+	{
+		"lang": "dur",
+		"english": "hard"
+	},
+	{
+		"lang": "guerre",
+		"english": "war"
+	},
+	{
+		"lang": "ait",
+		"english": "has"
+	},
+	{
+		"lang": "appelé",
+		"english": "called"
+	},
+	{
+		"lang": "marche",
+		"english": "market"
+	},
+	{
+		"lang": "sécurité",
+		"english": "security"
+	},
+	{
+		"lang": "garçon",
+		"english": "boy"
+	},
+	{
+		"lang": "essaie",
+		"english": "try"
+	},
+	{
+		"lang": "important",
+		"english": "important"
+	},
+	{
+		"lang": "dites",
+		"english": "say"
+	},
+	{
+		"lang": "exactement",
+		"english": "exactly"
+	},
+	{
+		"lang": "font",
+		"english": "make"
+	},
+	{
+		"lang": "fort",
+		"english": "strong"
+	},
+	{
+		"lang": "presque",
+		"english": "almost"
+	},
+	{
+		"lang": "plein",
+		"english": "full"
+	},
+	{
+		"lang": "derrière",
+		"english": "behind"
+	},
+	{
+		"lang": "ben",
+		"english": "ben"
+	},
+	{
+		"lang": "mariage",
+		"english": "wedding"
+	},
+	{
+		"lang": "parents",
+		"english": "parents"
+	},
+	{
+		"lang": "capitaine",
+		"english": "captain"
+	},
+	{
+		"lang": "dernier",
+		"english": "latest"
+	},
+	{
+		"lang": "fou",
+		"english": "crazy"
+	},
+	{
+		"lang": "ceux",
+		"english": "those"
+	},
+	{
+		"lang": "tomber",
+		"english": "fall"
+	},
+	{
+		"lang": "attendre",
+		"english": "wait"
+	},
+	{
+		"lang": "vue",
+		"english": "view"
+	},
+	{
+		"lang": "pensé",
+		"english": "thought"
+	},
+	{
+		"lang": "souviens",
+		"english": "remember"
+	},
+	{
+		"lang": "envie",
+		"english": "desire"
+	},
+	{
+		"lang": "fête",
+		"english": "Party"
+	},
+	{
+		"lang": "jeu",
+		"english": "Game"
+	},
+	{
+		"lang": "génial",
+		"english": "awesome"
+	},
+	{
+		"lang": "pays",
+		"english": "country"
+	},
+	{
+		"lang": "garde",
+		"english": "keep"
+	},
+	{
+		"lang": "cours",
+		"english": "Classes"
+	},
+	{
+		"lang": "bientôt",
+		"english": "soon"
+	},
+	{
+		"lang": "ii",
+		"english": "ii"
+	},
+	{
+		"lang": "numéro",
+		"english": "number"
+	},
+	{
+		"lang": "personnes",
+		"english": "people"
+	}
+]

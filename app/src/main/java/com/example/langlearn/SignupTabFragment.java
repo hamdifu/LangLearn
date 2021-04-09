@@ -77,9 +77,6 @@ public class SignupTabFragment extends Fragment {
     }
     public static SignupTabFragment newInstance() {
         SignupTabFragment f = new SignupTabFragment();
-//        Bundle b = new Bundle();
-//        b.putString("msg", text);
-//        f.setArguments(b);
         return f;
     }
 }

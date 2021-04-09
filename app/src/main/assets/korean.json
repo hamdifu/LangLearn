@@ -1,0 +1,2395 @@
+﻿{
+	"word": [
+{
+		"lang": "내가",
+		"english": "I"
+	},
+{
+		"lang": "그",
+		"english": "That"
+	},
+{
+		"lang": "난",
+		"english": "I"
+	},
+{
+		"lang": "내",
+		"english": "of mine"
+	},
+{
+		"lang": "안",
+		"english": "within"
+	},
+{
+		"lang": "수",
+		"english": "Number"
+	},
+{
+		"lang": "이",
+		"english": "this"
+	},
+{
+		"lang": "네",
+		"english": "Yeah"
+	},
+{
+		"lang": "거야",
+		"english": "Will"
+	},
+{
+		"lang": "좀",
+		"english": "A little"
+	},
+{
+		"lang": "그래",
+		"english": "okay"
+	},
+{
+		"lang": "있어",
+		"english": "there is"
+	},
+{
+		"lang": "왜",
+		"english": "Why"
+	},
+{
+		"lang": "더",
+		"english": "more"
+	},
+{
+		"lang": "그리고",
+		"english": "And"
+	},
+{
+		"lang": "우리",
+		"english": "Us"
+	},
+{
+		"lang": "다",
+		"english": "All"
+	},
+{
+		"lang": "무슨",
+		"english": "what"
+	},
+{
+		"lang": "한",
+		"english": "One"
+	},
+{
+		"lang": "하지만",
+		"english": "But"
+	},
+{
+		"lang": "잘",
+		"english": "well"
+	},
+{
+		"lang": "어떻게",
+		"english": "how"
+	},
+{
+		"lang": "할",
+		"english": "which"
+	},
+{
+		"lang": "그냥",
+		"english": "just"
+	},
+{
+		"lang": "정말",
+		"english": "Really"
+	},
+{
+		"lang": "그럼",
+		"english": "then"
+	},
+{
+		"lang": "것",
+		"english": "that"
+	},
+{
+		"lang": "게",
+		"english": "to"
+	},
+{
+		"lang": "있어요",
+		"english": "I have it"
+	},
+{
+		"lang": "있는",
+		"english": "there is"
+	},
+{
+	"lang": "해",
+	"english": "year"
+},
+{
+"lang": "여기",
+"english": "here"
+},
+{
+"lang": "넌",
+"english": "You"
+},
+{
+"lang": "제가",
+"english": "I"
+},
+{
+"lang": "날",
+"english": "day"
+},
+{
+"lang": "우리가",
+"english": "U.S"
+},
+{
+"lang": "건",
+"english": "key"
+},
+{
+"lang": "전",
+"english": "I'm"
+},
+{
+"lang": "이제",
+"english": "now"
+},
+{
+"lang": "지금",
+"english": "now"
+},
+{
+"lang": "그게",
+"english": "that"
+},
+{
+"lang": "걸",
+"english": "What"
+},
+{
+"lang": "거",
+"english": "roughness"
+},
+{
+"lang": "아니",
+"english": "no"
+},
+{
+"lang": "네가",
+"english": "you"
+},
+{
+"lang": "없어",
+"english": "no"
+},
+{
+"lang": "돼",
+"english": "Gotta"
+},
+{
+"lang": "저",
+"english": "that"
+},
+{
+"lang": "우린",
+"english": "we"
+},
+{
+"lang": "제",
+"english": "My"
+},
+{
+"lang": "못",
+"english": "nail"
+},
+{
+"lang": "좋아",
+"english": "Good"
+},
+{
+"lang": "당신이",
+"english": "You"
+},
+{
+"lang": "다른",
+"english": "Other"
+},
+{
+"lang": "나",
+"english": "I"
+},
+{
+"lang": "그런",
+"english": "then"
+},
+{
+"lang": "그건",
+"english": "that's"
+},
+{
+"lang": "너무",
+"english": "Too"
+},
+{
+"lang": "그래서",
+"english": "so"
+},
+{
+"lang": "그렇게",
+"english": "like that"
+},
+{
+"lang": "다시",
+"english": "again"
+},
+{
+"lang": "이건",
+"english": "This"
+},
+{
+"lang": "이런",
+"english": "this"
+},
+{
+"lang": "나도",
+"english": "I also"
+},
+{
+"lang": "모든",
+"english": "all"
+},
+{
+"lang": "당신",
+"english": "you"
+},
+{
+"lang": "거예요",
+"english": "Will"
+},
+{
+"lang": "당신은",
+"english": "You"
+},
+{
+"lang": "아",
+"english": "Ah"
+},
+{
+"lang": "좋은",
+"english": "good"
+},
+{
+"lang": "오",
+"english": "Five"
+},
+{
+"lang": "때",
+"english": "time"
+},
+{
+"lang": "너",
+"english": "you"
+},
+{
+"lang": "하는",
+"english": "doing"
+},
+{
+"lang": "하고",
+"english": "and"
+},
+{
+"lang": "아냐",
+"english": "no"
+},
+{
+"lang": "나는",
+"english": "I"
+},
+{
+"lang": "아니야",
+"english": "no"
+},
+{
+"lang": "알아",
+"english": "Know"
+},
+{
+"lang": "같이",
+"english": "together"
+},
+{
+"lang": "응",
+"english": "Huh"
+},
+{
+"lang": "이게",
+"english": "this"
+},
+{
+"lang": "없어요",
+"english": "do not have"
+},
+{
+"lang": "괜찮아",
+"english": "OK"
+},
+{
+"lang": "오늘",
+"english": "today"
+},
+{
+"lang": "말이야",
+"english": "You mean"
+},
+{
+"lang": "줄",
+"english": "line"
+},
+{
+"lang": "또",
+"english": "In addition"
+},
+{
+"lang": "널",
+"english": "Null"
+},
+{
+"lang": "누가",
+"english": "Who"
+},
+{
+"lang": "어떤",
+"english": "which"
+},
+{
+"lang": "아주",
+"english": "very"
+},
+{
+"lang": "말",
+"english": "Words"
+},
+{
+"lang": "아직",
+"english": "yet"
+},
+{
+"lang": "안돼",
+"english": "No"
+},
+{
+"lang": "진짜",
+"english": "Really"
+},
+{
+"lang": "모두",
+"english": "all"
+},
+{
+"lang": "마",
+"english": "hemp"
+},
+{
+"lang": "같은",
+"english": "same"
+},
+{
+"lang": "여기서",
+"english": "here"
+},
+{
+"lang": "어서",
+"english": "hurry"
+},
+{
+"lang": "그는",
+"english": "he is"
+},
+{
+"lang": "위해",
+"english": "for"
+},
+{
+"lang": "해요",
+"english": "do"
+},
+{
+"lang": "일이",
+"english": "Days"
+},
+{
+"lang": "하지",
+"english": "Not"
+},
+{
+"lang": "엄마",
+"english": "Mom"
+},
+{
+"lang": "바로",
+"english": "Right away"
+},
+{
+"lang": "가",
+"english": "end"
+},
+{
+"lang": "근데",
+"english": "by the way"
+},
+{
+"lang": "알고",
+"english": "know"
+},
+{
+"lang": "이렇게",
+"english": "like this"
+},
+{
+"lang": "빨리",
+"english": "Quickly"
+},
+{
+"lang": "있습니다",
+"english": "There is"
+},
+{
+"lang": "이거",
+"english": "this"
+},
+{
+"lang": "전에",
+"english": "before"
+},
+{
+"lang": "어",
+"english": "uh"
+},
+{
+"lang": "아뇨",
+"english": "no"
+},
+{
+"lang": "계속",
+"english": "continue"
+},
+{
+"lang": "닥터",
+"english": "doctor"
+},
+{
+"lang": "얼마나",
+"english": "how much"
+},
+{
+"lang": "될",
+"english": "To be"
+},
+{
+"lang": "알았어",
+"english": "Okay."
+},
+{
+"lang": "않아",
+"english": "I do not"
+},
+{
+"lang": "제발",
+"english": "please"
+},
+{
+"lang": "있지",
+"english": "It is not"
+},
+{
+"lang": "겁니다",
+"english": "Will"
+},
+{
+"lang": "어디",
+"english": "where"
+},
+{
+"lang": "사람이",
+"english": "People"
+},
+{
+"lang": "그가",
+"english": "he"
+},
+{
+"lang": "안녕",
+"english": "Hello"
+},
+{
+"lang": "좋아요",
+"english": "good"
+},
+{
+"lang": "같아",
+"english": "same"
+},
+{
+"lang": "우리는",
+"english": "We are"
+},
+{
+"lang": "그래요",
+"english": "Yes"
+},
+{
+"lang": "당신을",
+"english": "you"
+},
+{
+"lang": "자",
+"english": "character"
+},
+{
+"lang": "그걸",
+"english": "It"
+},
+{
+"lang": "두",
+"english": "two"
+},
+{
+"lang": "아니에요",
+"english": "No"
+},
+{
+"lang": "있을",
+"english": "There"
+},
+{
+"lang": "때문에",
+"english": "Because"
+},
+{
+"lang": "대해",
+"english": "about"
+},
+{
+"lang": "아빠",
+"english": "Dad"
+},
+{
+"lang": "몇",
+"english": "Few"
+},
+{
+"lang": "사람",
+"english": "Person"
+},
+{
+"lang": "했어",
+"english": "I did it"
+},
+{
+"lang": "뭐야",
+"english": "what"
+},
+{
+"lang": "수도",
+"english": "Capital"
+},
+{
+"lang": "많이",
+"english": "A lot of"
+},
+{
+"lang": "집에",
+"english": "At home"
+},
+{
+"lang": "거지",
+"english": "Beggar"
+},
+{
+"lang": "일을",
+"english": "work"
+},
+{
+"lang": "저는",
+"english": "I am"
+},
+{
+"lang": "음",
+"english": "Well"
+},
+{
+"lang": "그렇지",
+"english": "right"
+},
+{
+"lang": "함께",
+"english": "together"
+},
+{
+"lang": "만약",
+"english": "if"
+},
+{
+"lang": "하나",
+"english": "one"
+},
+{
+"lang": "저기",
+"english": "there"
+},
+{
+"lang": "고마워요",
+"english": "Thank you"
+},
+{
+"lang": "항상",
+"english": "always"
+},
+{
+"lang": "나한테",
+"english": "To me"
+},
+{
+"lang": "잠깐",
+"english": "awhile"
+},
+{
+"lang": "가서",
+"english": "Go"
+},
+{
+"lang": "가장",
+"english": "most"
+},
+{
+"lang": "돼요",
+"english": "can"
+},
+{
+"lang": "거죠",
+"english": "Did"
+},
+{
+"lang": "가자",
+"english": "Go"
+},
+{
+"lang": "맞아",
+"english": "right"
+},
+{
+"lang": "보고",
+"english": "report"
+},
+{
+"lang": "와",
+"english": "Wow"
+},
+{
+"lang": "그거",
+"english": "that"
+},
+{
+"lang": "말을",
+"english": "The end"
+},
+{
+"lang": "괜찮아요",
+"english": "It's okay"
+},
+{
+"lang": "아무도",
+"english": "no one"
+},
+{
+"lang": "없는",
+"english": "Do not have"
+},
+{
+"lang": "안녕하세요",
+"english": "Hi"
+},
+{
+"lang": "몰라",
+"english": "do not know"
+},
+{
+"lang": "일",
+"english": "Work"
+},
+{
+"lang": "많은",
+"english": "Many"
+},
+{
+"lang": "당신의",
+"english": "Your"
+},
+{
+"lang": "아무것도",
+"english": "nothing"
+},
+{
+"lang": "그러니까",
+"english": "So"
+},
+{
+"lang": "큰",
+"english": "large"
+},
+{
+"lang": "알아요",
+"english": "I know"
+},
+{
+"lang": "그의",
+"english": "His"
+},
+{
+"lang": "뭐가",
+"english": "what"
+},
+{
+"lang": "고마워",
+"english": "Thanks"
+},
+{
+"lang": "그만",
+"english": "stop"
+},
+{
+"lang": "했어요",
+"english": "Done"
+},
+{
+"lang": "젠장",
+"english": "Damn it"
+},
+{
+"lang": "사람들이",
+"english": "People"
+},
+{
+"lang": "거에요",
+"english": "Going"
+},
+{
+"lang": "이걸",
+"english": "It"
+},
+{
+"lang": "그럴",
+"english": "It"
+},
+{
+"lang": "것도",
+"english": "It"
+},
+{
+"lang": "말이",
+"english": "Horse"
+},
+{
+"lang": "이미",
+"english": "already"
+},
+{
+"lang": "야",
+"english": "Hey"
+},
+{
+"lang": "그를",
+"english": "Him"
+},
+{
+"lang": "뭔가",
+"english": "Something"
+},
+{
+"lang": "온",
+"english": "On"
+},
+{
+"lang": "이봐",
+"english": "Hey"
+},
+{
+"lang": "아니면",
+"english": "if not"
+},
+{
+"lang": "같아요",
+"english": "same"
+},
+{
+"lang": "그런데",
+"english": "By the way"
+},
+{
+"lang": "아니라",
+"english": "not"
+},
+{
+"lang": "세상에",
+"english": "Oh my gosh"
+},
+{
+"lang": "있다고",
+"english": "That"
+},
+{
+"lang": "있고",
+"english": "And"
+},
+{
+"lang": "뭐라고",
+"english": "what"
+},
+{
+"lang": "예",
+"english": "Yes"
+},
+{
+"lang": "절대",
+"english": "never"
+},
+{
+"lang": "말야",
+"english": "Malya"
+},
+{
+"lang": "당장",
+"english": "right now"
+},
+{
+"lang": "그래도",
+"english": "still"
+},
+{
+"lang": "대한",
+"english": "About"
+},
+{
+"lang": "말은",
+"english": "I mean"
+},
+{
+"lang": "거기",
+"english": "there"
+},
+{
+"lang": "전부",
+"english": "all"
+},
+{
+"lang": "둘",
+"english": "two"
+},
+{
+"lang": "그녀는",
+"english": "She is"
+},
+{
+"lang": "니가",
+"english": "You're"
+},
+{
+"lang": "갈",
+"english": "To go"
+},
+{
+"lang": "않아요",
+"english": "I do not"
+},
+{
+"lang": "자기",
+"english": "magnetism"
+},
+{
+"lang": "있죠",
+"english": "Itjyo"
+},
+{
+"lang": "하면",
+"english": "if"
+},
+{
+"lang": "가지고",
+"english": "have"
+},
+{
+"lang": "그들이",
+"english": "they"
+},
+{
+"lang": "참",
+"english": "Oh yeah"
+},
+{
+"lang": "너도",
+"english": "you too"
+},
+{
+"lang": "됐어",
+"english": "done"
+},
+{
+"lang": "미안해",
+"english": "Sorry"
+},
+{
+"lang": "것을",
+"english": "Thing"
+},
+{
+"lang": "여긴",
+"english": "Here"
+},
+{
+"lang": "아무",
+"english": "any"
+},
+{
+"lang": "사람은",
+"english": "people"
+},
+{
+"lang": "감사합니다",
+"english": "Thank you"
+},
+{
+"lang": "다들",
+"english": "everyone"
+},
+{
+"lang": "어때",
+"english": "What do you think"
+},
+{
+"lang": "씨",
+"english": "Seed"
+},
+{
+"lang": "곧",
+"english": "soon"
+},
+{
+"lang": "엄마가",
+"english": "Mom"
+},
+{
+"lang": "나를",
+"english": "me"
+},
+{
+"lang": "이젠",
+"english": "now"
+},
+{
+"lang": "아마",
+"english": "maybe"
+},
+{
+"lang": "그들은",
+"english": "they"
+},
+{
+"lang": "얘기",
+"english": "story"
+},
+{
+"lang": "꼭",
+"english": "exactly"
+},
+{
+"lang": "있잖아",
+"english": "Hey"
+},
+{
+"lang": "저도",
+"english": "me too"
+},
+{
+"lang": "지금은",
+"english": "Now is"
+},
+{
+"lang": "그녀가",
+"english": "She"
+},
+{
+"lang": "중",
+"english": "medium"
+},
+{
+"lang": "있다",
+"english": "have"
+},
+{
+"lang": "시간",
+"english": "time"
+},
+{
+"lang": "먼저",
+"english": "first"
+},
+{
+"lang": "우릴",
+"english": "Us"
+},
+{
+"lang": "말고",
+"english": "not"
+},
+{
+"lang": "사람을",
+"english": "person"
+},
+{
+"lang": "수가",
+"english": "Number"
+},
+{
+"lang": "봐요",
+"english": "see"
+},
+{
+"lang": "있는데",
+"english": "there is"
+},
+{
+"lang": "알았어요",
+"english": "I see"
+},
+{
+"lang": "해야",
+"english": "Sun"
+},
+{
+"lang": "있었어",
+"english": "It was"
+},
+{
+"lang": "우리의",
+"english": "Our"
+},
+{
+"lang": "않을",
+"english": "Will"
+},
+{
+"lang": "방금",
+"english": "just now"
+},
+{
+"lang": "완전",
+"english": "very"
+},
+{
+"lang": "된",
+"english": "The"
+},
+{
+"lang": "동안",
+"english": "During"
+},
+{
+"lang": "시간이",
+"english": "This time"
+},
+{
+"lang": "싶어",
+"english": "want"
+},
+{
+"lang": "본",
+"english": "example"
+},
+{
+"lang": "일은",
+"english": "What"
+},
+{
+"lang": "친구",
+"english": "friend"
+},
+{
+"lang": "들어",
+"english": "listen"
+},
+{
+"lang": "안에",
+"english": "in"
+},
+{
+"lang": "번",
+"english": "time"
+},
+{
+"lang": "자네",
+"english": "You"
+},
+{
+"lang": "합니다",
+"english": "The"
+},
+{
+"lang": "사실",
+"english": "In fact"
+},
+{
+"lang": "한번",
+"english": "once"
+},
+{
+"lang": "대체",
+"english": "how"
+},
+{
+"lang": "같은데",
+"english": "Looks"
+},
+{
+"lang": "생각해",
+"english": "think"
+},
+{
+"lang": "맞아요",
+"english": "Yes"
+},
+{
+"lang": "볼",
+"english": "ball"
+},
+{
+"lang": "혼자",
+"english": "Alone"
+},
+{
+"lang": "자네가",
+"english": "You have"
+},
+{
+"lang": "절",
+"english": "section"
+},
+{
+"lang": "그러니",
+"english": "so"
+},
+{
+"lang": "선생님",
+"english": "Teacher"
+},
+{
+"lang": "사람들은",
+"english": "People"
+},
+{
+"lang": "문제가",
+"english": "The problem"
+},
+{
+"lang": "다음",
+"english": "next"
+},
+{
+"lang": "물론",
+"english": "sure"
+},
+{
+"lang": "거의",
+"english": "almost"
+},
+{
+"lang": "일이야",
+"english": "One's"
+},
+{
+"lang": "없습니다",
+"english": "There is not"
+},
+{
+"lang": "아빠가",
+"english": "Father"
+},
+{
+"lang": "되는",
+"english": "felled"
+},
+{
+"lang": "그러면",
+"english": "then"
+},
+{
+"lang": "순",
+"english": "Net"
+},
+{
+"lang": "가는",
+"english": "going"
+},
+{
+"lang": "말도",
+"english": "Anything"
+},
+{
+"lang": "이리",
+"english": "Wolf"
+},
+{
+"lang": "있었어요",
+"english": "It was"
+},
+{
+"lang": "맙소사",
+"english": "Oh My God"
+},
+{
+"lang": "내일",
+"english": "tomorrow"
+},
+{
+"lang": "있으면",
+"english": "if there is"
+},
+{
+"lang": "잠깐만",
+"english": "Wait a minute"
+},
+{
+"lang": "싫어",
+"english": "Hate"
+},
+{
+"lang": "중요한",
+"english": "important"
+},
+{
+"lang": "내게",
+"english": "to me"
+},
+{
+"lang": "말해",
+"english": "Say it"
+},
+{
+"lang": "이상",
+"english": "More than"
+},
+{
+"lang": "거라고",
+"english": "Would"
+},
+{
+"lang": "아는",
+"english": "know"
+},
+{
+"lang": "너는",
+"english": "you are"
+},
+{
+"lang": "새",
+"english": "bird"
+},
+{
+"lang": "적",
+"english": "enemy"
+},
+{
+"lang": "전혀",
+"english": "Not at all"
+},
+{
+"lang": "여자",
+"english": "Woman"
+},
+{
+"lang": "새로운",
+"english": "new"
+},
+{
+"lang": "너희",
+"english": "you"
+},
+{
+"lang": "왔어",
+"english": "I'm here"
+},
+{
+"lang": "아직도",
+"english": "Still"
+},
+{
+"lang": "가지",
+"english": "Branch"
+},
+{
+"lang": "나와",
+"english": "come out"
+},
+{
+"lang": "알",
+"english": "egg"
+},
+{
+"lang": "싶지",
+"english": "Want"
+},
+{
+"lang": "여기에",
+"english": "Here"
+},
+{
+"lang": "원하는",
+"english": "want"
+},
+{
+"lang": "돈",
+"english": "money"
+},
+{
+"lang": "필요",
+"english": "need"
+},
+{
+"lang": "도움이",
+"english": "help"
+},
+{
+"lang": "그녀를",
+"english": "Her"
+},
+{
+"lang": "몰라요",
+"english": "I do not know"
+},
+{
+"lang": "작은",
+"english": "small"
+},
+{
+"lang": "혹시",
+"english": "Perhaps"
+},
+{
+"lang": "미안해요",
+"english": "Sorry"
+},
+{
+"lang": "나쁜",
+"english": "Bad"
+},
+{
+"lang": "죄송해요",
+"english": "I'm sorry"
+},
+{
+"lang": "모르겠어",
+"english": "I do not know"
+},
+{
+"lang": "가요",
+"english": "Go"
+},
+{
+"lang": "알지",
+"english": "know"
+},
+{
+"lang": "밖에",
+"english": "outside"
+},
+{
+"lang": "직접",
+"english": "directly"
+},
+{
+"lang": "있나",
+"english": "Are"
+},
+{
+"lang": "니",
+"english": "You"
+},
+{
+"lang": "해도",
+"english": "chart"
+},
+{
+"lang": "하죠",
+"english": "I"
+},
+{
+"lang": "했는데",
+"english": "I"
+},
+{
+"lang": "필요해",
+"english": "I need"
+},
+{
+"lang": "아니요",
+"english": "no"
+},
+{
+"lang": "적이",
+"english": "Ever"
+},
+{
+"lang": "있나요",
+"english": "do you have"
+},
+{
+"lang": "갖고",
+"english": "Have"
+},
+{
+"lang": "돈을",
+"english": "money"
+},
+{
+"lang": "주세요",
+"english": "please"
+},
+{
+"lang": "어디서",
+"english": "where"
+},
+{
+"lang": "것이",
+"english": "It"
+},
+{
+"lang": "거요",
+"english": "Gonna"
+},
+{
+"lang": "위한",
+"english": "for"
+},
+{
+"lang": "것은",
+"english": "It"
+},
+{
+"lang": "없이",
+"english": "without"
+},
+{
+"lang": "나중에",
+"english": "Afterwards"
+},
+{
+"lang": "아버지",
+"english": "father"
+},
+{
+"lang": "나랑",
+"english": "with me"
+},
+{
+"lang": "됐어요",
+"english": "That's Okay"
+},
+{
+"lang": "마세요",
+"english": "do not"
+},
+{
+"lang": "차",
+"english": "car"
+},
+{
+"lang": "언제",
+"english": "when"
+},
+{
+"lang": "그저",
+"english": "just"
+},
+{
+"lang": "생각",
+"english": "think"
+},
+{
+"lang": "했지",
+"english": "Did"
+},
+{
+"lang": "봤어",
+"english": "saw"
+},
+{
+"lang": "해서",
+"english": "By"
+},
+{
+"lang": "시간을",
+"english": "Time"
+},
+{
+"lang": "마지막",
+"english": "Last"
+},
+{
+"lang": "알겠어",
+"english": "Okay"
+},
+{
+"lang": "왜냐면",
+"english": "because"
+},
+{
+"lang": "위해서",
+"english": "for"
+},
+{
+"lang": "엄청",
+"english": "very"
+},
+{
+"lang": "알겠습니다",
+"english": "Okay"
+},
+{
+"lang": "오래",
+"english": "long"
+},
+{
+"lang": "기다려",
+"english": "wait"
+},
+{
+"lang": "아닙니다",
+"english": "no"
+},
+{
+"lang": "있는지",
+"english": "That"
+},
+{
+"lang": "알겠어요",
+"english": "I know"
+},
+{
+"lang": "제일",
+"english": "most"
+},
+{
+"lang": "지난",
+"english": "Last"
+},
+{
+"lang": "그렇죠",
+"english": "Yes"
+},
+{
+"lang": "죽은",
+"english": "dead"
+},
+{
+"lang": "제대로",
+"english": "properly"
+},
+{
+"lang": "아니지",
+"english": "Not."
+},
+{
+"lang": "있다면",
+"english": "if there is"
+},
+{
+"lang": "보면",
+"english": "Look"
+},
+{
+"lang": "우리를",
+"english": "Us"
+},
+{
+"lang": "짓을",
+"english": "Done"
+},
+{
+"lang": "남자",
+"english": "man"
+},
+{
+"lang": "너가",
+"english": "you"
+},
+{
+"lang": "있다는",
+"english": "That"
+},
+{
+"lang": "누구",
+"english": "who"
+},
+{
+"lang": "보여",
+"english": "see"
+},
+{
+"lang": "왔어요",
+"english": "came"
+},
+{
+"lang": "너한테",
+"english": "to you"
+},
+{
+"lang": "여러분",
+"english": "Everyone"
+},
+{
+"lang": "완전히",
+"english": "completely"
+},
+{
+"lang": "너의",
+"english": "your"
+},
+{
+"lang": "것이다",
+"english": "will be"
+},
+{
+"lang": "밤",
+"english": "night"
+},
+{
+"lang": "소리",
+"english": "sound"
+},
+{
+"lang": "없지",
+"english": "Eopji"
+},
+{
+"lang": "벌써",
+"english": "already"
+},
+{
+"lang": "모르겠어요",
+"english": "I do not know"
+},
+{
+"lang": "말이지",
+"english": "Es"
+},
+{
+"lang": "올",
+"english": "All"
+},
+{
+"lang": "사람들을",
+"english": "People"
+},
+{
+"lang": "처음",
+"english": "first"
+},
+{
+"lang": "말이죠",
+"english": "Malyijyo"
+},
+{
+"lang": "사람들",
+"english": "people"
+},
+{
+"lang": "그녀의",
+"english": "her"
+},
+{
+"lang": "멋진",
+"english": "Cool"
+},
+{
+"lang": "왜요",
+"english": "why"
+},
+{
+"lang": "정말로",
+"english": "really"
+},
+{
+"lang": "이름은",
+"english": "name is"
+},
+{
+"lang": "와서",
+"english": "come"
+},
+{
+"lang": "대해서",
+"english": "about"
+},
+{
+"lang": "여보",
+"english": "Honey"
+},
+{
+"lang": "조금",
+"english": "a little"
+},
+{
+"lang": "않았어",
+"english": "I did not"
+},
+{
+"lang": "말이에요",
+"english": "You mean"
+},
+{
+"lang": "이름이",
+"english": "The name"
+},
+{
+"lang": "여보세요",
+"english": "Hello"
+},
+{
+"lang": "서로",
+"english": "each other"
+},
+{
+"lang": "안돼요",
+"english": "No"
+},
+{
+"lang": "죽을",
+"english": "dying"
+},
+{
+"lang": "첫",
+"english": "First"
+},
+{
+"lang": "매우",
+"english": "So"
+},
+{
+"lang": "사랑해",
+"english": "I love you"
+},
+{
+"lang": "오늘은",
+"english": "Today is"
+},
+{
+"lang": "싶은",
+"english": "Want"
+},
+{
+"lang": "어디로",
+"english": "Where"
+},
+{
+"lang": "단지",
+"english": "just"
+},
+{
+"lang": "아닌",
+"english": "not"
+},
+{
+"lang": "나가",
+"english": "get out"
+},
+{
+"lang": "뿐이야",
+"english": "only"
+},
+{
+"lang": "미안",
+"english": "sorry"
+},
+{
+"lang": "확실히",
+"english": "exactly"
+},
+{
+"lang": "싶어요",
+"english": "want"
+},
+{
+"lang": "죄송합니다",
+"english": "Sorry"
+},
+{
+"lang": "때까지",
+"english": "until"
+},
+{
+"lang": "없고",
+"english": "There"
+},
+{
+"lang": "어때요",
+"english": "how is it"
+},
+{
+"lang": "살",
+"english": "flesh"
+},
+{
+"lang": "당연히",
+"english": "naturally"
+},
+{
+"lang": "데리고",
+"english": "along"
+},
+{
+"lang": "필요한",
+"english": "necessary"
+},
+{
+"lang": "없다",
+"english": "none"
+},
+{
+"lang": "후",
+"english": "after"
+},
+{
+"lang": "가고",
+"english": "Going"
+},
+{
+"lang": "글쎄",
+"english": "Well"
+},
+{
+"lang": "않는",
+"english": "not"
+},
+{
+"lang": "했죠",
+"english": "Did"
+},
+{
+"lang": "나의",
+"english": "my"
+},
+{
+"lang": "별로",
+"english": "not really"
+},
+{
+"lang": "않은",
+"english": "That is"
+},
+{
+"lang": "라고",
+"english": "Called"
+},
+{
+"lang": "집",
+"english": "House"
+},
+{
+"lang": "여전히",
+"english": "yet"
+},
+{
+"lang": "없을",
+"english": "There"
+},
+{
+"lang": "딱",
+"english": "Perfect"
+},
+{
+"lang": "있어서",
+"english": "In"
+},
+{
+"lang": "이야기",
+"english": "story"
+},
+{
+"lang": "엄마는",
+"english": "Mom is"
+},
+{
+"lang": "부인",
+"english": "wife"
+},
+{
+"lang": "하는데",
+"english": "to do"
+},
+{
+"lang": "않고",
+"english": "Without"
+},
+{
+"lang": "알았지",
+"english": "Understand"
+},
+{
+"lang": "아니고",
+"english": "Rather"
+},
+{
+"lang": "여자가",
+"english": "Woman"
+},
+{
+"lang": "문",
+"english": "door"
+},
+{
+"lang": "되지",
+"english": "It is not"
+},
+{
+"lang": "거기서",
+"english": "at there"
+},
+{
+"lang": "훨씬",
+"english": "more"
+},
+{
+"lang": "아버지가",
+"english": "Father"
+},
+{
+"lang": "망할",
+"english": "Fuckin"
+},
+{
+"lang": "뭔지",
+"english": "What"
+},
+{
+"lang": "손",
+"english": "hand"
+},
+{
+"lang": "수술",
+"english": "Operation"
+},
+{
+"lang": "듣고",
+"english": "listen"
+},
+{
+"lang": "어쩌면",
+"english": "perhaps"
+},
+{
+"lang": "보세요",
+"english": "look"
+},
+{
+"lang": "생각이",
+"english": "Think"
+},
+{
+"lang": "어느",
+"english": "which"
+},
+{
+"lang": "그러지",
+"english": "Surely"
+},
+{
+"lang": "되면",
+"english": "When"
+},
+{
+"lang": "아마도",
+"english": "Perhaps"
+},
+{
+"lang": "준비",
+"english": "Preparations"
+},
+{
+"lang": "전화",
+"english": "telephone"
+},
+{
+"lang": "뒤에",
+"english": "behind"
+},
+{
+"lang": "도대체",
+"english": "why"
+},
+{
+"lang": "너를",
+"english": "you"
+},
+{
+"lang": "당신도",
+"english": "You"
+},
+{
+"lang": "것처럼",
+"english": "Like"
+},
+{
+"lang": "않으면",
+"english": "If the"
+},
+{
+"lang": "말하는",
+"english": "talking"
+},
+{
+"lang": "최고의",
+"english": "Great"
+},
+{
+"lang": "말하지",
+"english": "Tell"
+},
+{
+"lang": "세",
+"english": "three"
+},
+{
+"lang": "모르는",
+"english": "do not know"
+},
+{
+"lang": "유일한",
+"english": "only"
+},
+{
+"lang": "갑자기",
+"english": "suddenly"
+},
+{
+"lang": "이봐요",
+"english": "Hey"
+},
+{
+"lang": "건가요",
+"english": "Are"
+},
+{
+"lang": "없다고",
+"english": "That"
+},
+{
+"lang": "것입니다",
+"english": "Will"
+},
+{
+"lang": "있잖아요",
+"english": "You know"
+},
+{
+"lang": "되고",
+"english": "And"
+},
+{
+"lang": "어쨌든",
+"english": "anyway"
+},
+{
+"lang": "가진",
+"english": "have"
+},
+{
+"lang": "이번",
+"english": "this time"
+},
+{
+"lang": "뭐하는",
+"english": "Doing"
+},
+{
+"lang": "후에",
+"english": "after"
+},
+{
+"lang": "친구가",
+"english": "Friends"
+},
+{
+"lang": "지",
+"english": "G"
+},
+{
+"lang": "신경",
+"english": "nerve"
+},
+{
+"lang": "그만해",
+"english": "stop"
+},
+{
+"lang": "누구야",
+"english": "Who is it"
+},
+{
+"lang": "당신에게",
+"english": "to you"
+},
+{
+"lang": "늘",
+"english": "always"
+},
+{
+"lang": "없었어",
+"english": "I could"
+},
+{
+"lang": "그들을",
+"english": "them"
+},
+{
+"lang": "있게",
+"english": "Make"
+},
+{
+"lang": "알잖아",
+"english": "You know"
+},
+{
+"lang": "누군가",
+"english": "someone"
+},
+{
+"lang": "분명히",
+"english": "clearly"
+},
+{
+"lang": "생각을",
+"english": "Thoughts"
+},
+{
+"lang": "존",
+"english": "zone"
+},
+{
+"lang": "일단",
+"english": "First"
+},
+{
+"lang": "가야",
+"english": "To go"
+},
+{
+"lang": "걱정",
+"english": "worry"
+},
+{
+"lang": "보자",
+"english": "Let's see"
+},
+{
+"lang": "매일",
+"english": "everyday"
+},
+{
+"lang": "수는",
+"english": "The number of"
+},
+{
+"lang": "아침",
+"english": "morning"
+},
+{
+"lang": "말할",
+"english": "Tell"
+},
+{
+"lang": "말아요",
+"english": "Do not"
+},
+{
+"lang": "모두가",
+"english": "all"
+},
+{
+"lang": "않았어요",
+"english": "I did not"
+},
+{
+"lang": "얘기를",
+"english": "To talk"
+},
+{
+"lang": "봤어요",
+"english": "saw"
+},
+{
+"lang": "대신",
+"english": "instead"
+},
+{
+"lang": "마치",
+"english": "Like"
+},
+{
+"lang": "건데",
+"english": "Gonna"
+},
+{
+"lang": "자넨",
+"english": "You're"
+},
+{
+"lang": "했잖아",
+"english": "Told"
+},
+{
+"lang": "둘이",
+"english": "two people"
+},
+{
+"lang": "당신과",
+"english": "with you"
+},
+{
+"lang": "집으로",
+"english": "to home"
+},
+{
+"lang": "한다",
+"english": "do"
+},
+{
+"lang": "두고",
+"english": "Leave"
+},
+{
+"lang": "이름을",
+"english": "name"
+},
+{
+"lang": "있네",
+"english": "Itne"
+},
+{
+"lang": "그들의",
+"english": "their"
+},
+{
+"lang": "뭔데",
+"english": "What"
+},
+{
+"lang": "금방",
+"english": "soon"
+},
+{
+"lang": "사는",
+"english": "living"
+},
+{
+"lang": "좋아하는",
+"english": "Favorite"
+},
+{
+"lang": "찾을",
+"english": "Find"
+},
+{
+"lang": "맘에",
+"english": "Like"
+},
+{
+"lang": "결국",
+"english": "finally"
+},
+{
+"lang": "이유가",
+"english": "the reason is"
+},
+{
+"lang": "필요해요",
+"english": "I need"
+},
+{
+"lang": "중에",
+"english": "While"
+},
+{
+"lang": "그때",
+"english": "then"
+},
+{
+"lang": "보는",
+"english": "see"
+},
+{
+"lang": "너랑",
+"english": "with you"
+},
+{
+"lang": "아이를",
+"english": "Children"
+},
+{
+"lang": "없잖아",
+"english": "Beats"
+},
+{
+"lang": "한다고",
+"english": "That"
+},
+{
+"lang": "기분",
+"english": "Feeling"
+},
+{
+"lang": "하게",
+"english": "to do"
+},
+{
+"lang": "놈이",
+"english": "Guy"
+},
+{
+"lang": "못해",
+"english": "can not"
+},
+{
+"lang": "우리에게",
+"english": "To us"
+},
+{
+"lang": "가면",
+"english": "mask"
+},
+{
+"lang": "저를",
+"english": "me"
+},
+{
+"lang": "잡아",
+"english": "catch"
+},
+{
+"lang": "집에서",
+"english": "At home"
+},
+{
+"lang": "우리도",
+"english": "We also"
+},
+{
+"lang": "기분이",
+"english": "Feel"
+},
+{
+"lang": "저희",
+"english": "we"
+}]
+}
