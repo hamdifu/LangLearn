@@ -1,0 +1,2004 @@
+﻿{
+    "word":[
+    {
+        "lang": "的",
+        "english": "of"
+    },
+    {
+        "lang": "我",
+        "english": "I"
+    },
+    {
+        "lang": "你",
+        "english": "you"
+    },
+    {
+        "lang": "了",
+        "english": "The"
+    },
+    {
+        "lang": "是",
+        "english": "Yes"
+    },
+    {
+        "lang": "在",
+        "english": "in"
+    },
+    {
+        "lang": "他",
+        "english": "he"
+    },
+    {
+        "lang": "我们",
+        "english": "we"
+    },
+    {
+        "lang": "不",
+        "english": "Do not"
+    },
+    {
+        "lang": "吗",
+        "english": "It"
+    },
+    {
+        "lang": "好",
+        "english": "it is good"
+    },
+    {
+        "lang": "什么",
+        "english": "what"
+    },
+    {
+        "lang": "有",
+        "english": "Have"
+    },
+    {
+        "lang": "就",
+        "english": "on"
+    },
+    {
+        "lang": "吧",
+        "english": "It"
+    },
+    {
+        "lang": "她",
+        "english": "she was"
+    },
+    {
+        "lang": "这",
+        "english": "This"
+    },
+    {
+        "lang": "知道",
+        "english": "know"
+    },
+    {
+        "lang": "说",
+        "english": "Say"
+    },
+    {
+        "lang": "都",
+        "english": "All"
+    },
+    {
+        "lang": "去",
+        "english": "go with"
+    },
+    {
+        "lang": "很",
+        "english": "very"
+    },
+    {
+        "lang": "啊",
+        "english": "what"
+    },
+    {
+        "lang": "要",
+        "english": "want"
+    },
+    {
+        "lang": "也",
+        "english": "and also"
+    },
+    {
+        "lang": "他们",
+        "english": "they"
+    },
+    {
+        "lang": "和",
+        "english": "with"
+    },
+    {
+        "lang": "那",
+        "english": "that"
+    },
+    {
+        "lang": "想",
+        "english": "miss you"
+    },
+    {
+        "lang": "人",
+        "english": "people"
+    },
+    {
+        "lang": "会",
+        "english": "meeting"
+    },
+    {
+        "lang": "一个",
+        "english": "One"
+    },
+    {
+        "lang": "来",
+        "english": "Come"
+    },
+    {
+        "lang": "把",
+        "english": "The"
+    },
+    {
+        "lang": "对",
+        "english": "Correct"
+    },
+    {
+        "lang": "没有",
+        "english": "No"
+    },
+    {
+        "lang": "做",
+        "english": "do"
+    },
+    {
+        "lang": "不是",
+        "english": "No"
+    },
+    {
+        "lang": "让",
+        "english": "yield"
+    },
+    {
+        "lang": "给",
+        "english": "give"
+    },
+    {
+        "lang": "you",
+        "english": "you"
+    },
+    {
+        "lang": "可以",
+        "english": "can"
+    },
+    {
+        "lang": "i",
+        "english": "i"
+    },
+    {
+        "lang": "你们",
+        "english": "you guys"
+    },
+    {
+        "lang": "呢",
+        "english": "It"
+    },
+    {
+        "lang": "但",
+        "english": "but"
+    },
+    {
+        "lang": "l",
+        "english": "l"
+    },
+    {
+        "lang": "到",
+        "english": "To"
+    },
+    {
+        "lang": "还",
+        "english": "also"
+    },
+    {
+        "lang": "现在",
+        "english": "right now"
+    },
+    {
+        "lang": "the",
+        "english": "the"
+    },
+    {
+        "lang": "这个",
+        "english": "This one"
+    },
+    {
+        "lang": "能",
+        "english": "can"
+    },
+    {
+        "lang": "怎么",
+        "english": "how"
+    },
+    {
+        "lang": "就是",
+        "english": "It is"
+    },
+    {
+        "lang": "跟",
+        "english": "with"
+    },
+    {
+        "lang": "如果",
+        "english": "in case"
+    },
+    {
+        "lang": "没",
+        "english": "No"
+    },
+    {
+        "lang": "它",
+        "english": "it"
+    },
+    {
+        "lang": "走",
+        "english": "go"
+    },
+    {
+        "lang": "上",
+        "english": "on"
+    },
+    {
+        "lang": "得",
+        "english": "Get"
+    },
+    {
+        "lang": "被",
+        "english": "Is"
+    },
+    {
+        "lang": "这里",
+        "english": "Here"
+    },
+    {
+        "lang": "这样",
+        "english": "such"
+    },
+    {
+        "lang": "个",
+        "english": "More"
+    },
+    {
+        "lang": "看",
+        "english": "Look"
+    },
+    {
+        "lang": "事",
+        "english": "thing"
+    },
+    {
+        "lang": "to",
+        "english": "to"
+    },
+    {
+        "lang": "自己",
+        "english": "Own"
+    },
+    {
+        "lang": "着",
+        "english": "The"
+    },
+    {
+        "lang": "谁",
+        "english": "Who"
+    },
+    {
+        "lang": "过",
+        "english": "Live"
+    },
+    {
+        "lang": "不会",
+        "english": "will not"
+    },
+    {
+        "lang": "a",
+        "english": "a"
+    },
+    {
+        "lang": "告诉",
+        "english": "tell"
+    },
+    {
+        "lang": "s",
+        "english": "s"
+    },
+    {
+        "lang": "为什么",
+        "english": "why"
+    },
+    {
+        "lang": "不能",
+        "english": "Can not"
+    },
+    {
+        "lang": "真的",
+        "english": "Really"
+    },
+    {
+        "lang": "m",
+        "english": "m"
+    },
+    {
+        "lang": "先生",
+        "english": "Mr"
+    },
+    {
+        "lang": "只是",
+        "english": "just"
+    },
+    {
+        "lang": "不要",
+        "english": "Do not"
+    },
+    {
+        "lang": "这是",
+        "english": "this is"
+    },
+    {
+        "lang": "已经",
+        "english": "already"
+    },
+    {
+        "lang": "再",
+        "english": "again"
+    },
+    {
+        "lang": "哦",
+        "english": "Oh"
+    },
+    {
+        "lang": "需要",
+        "english": "need"
+    },
+    {
+        "lang": "it",
+        "english": "it"
+    },
+    {
+        "lang": "因为",
+        "english": "because"
+    },
+    {
+        "lang": "谢谢",
+        "english": "Thank you"
+    },
+    {
+        "lang": "像",
+        "english": "Like"
+    },
+    {
+        "lang": "这么",
+        "english": "so"
+    },
+    {
+        "lang": "可能",
+        "english": "may"
+    },
+    {
+        "lang": "但是",
+        "english": "but"
+    },
+    {
+        "lang": "那个",
+        "english": "That one"
+    },
+    {
+        "lang": "所以",
+        "english": "and so"
+    },
+    {
+        "lang": "喜欢",
+        "english": "like"
+    },
+    {
+        "lang": "又",
+        "english": "also"
+    },
+    {
+        "lang": "叫",
+        "english": "call"
+    },
+    {
+        "lang": "快",
+        "english": "fast"
+    },
+    {
+        "lang": "我要",
+        "english": "I need to"
+    },
+    {
+        "lang": "觉得",
+        "english": "feel"
+    },
+    {
+        "lang": "别",
+        "english": "do not"
+    },
+    {
+        "lang": "听",
+        "english": "listen"
+    },
+    {
+        "lang": "找",
+        "english": "Find"
+    },
+    {
+        "lang": "里",
+        "english": "in"
+    },
+    {
+        "lang": "还有",
+        "english": "and also"
+    },
+    {
+        "lang": "时候",
+        "english": "time"
+    },
+    {
+        "lang": "东西",
+        "english": "thing"
+    },
+    {
+        "lang": "等",
+        "english": "Wait"
+    },
+    {
+        "lang": "死",
+        "english": "dead"
+    },
+    {
+        "lang": "多",
+        "english": "many"
+    },
+    {
+        "lang": "从",
+        "english": "From"
+    },
+    {
+        "lang": "我会",
+        "english": "I will"
+    },
+    {
+        "lang": "一起",
+        "english": "together"
+    },
+    {
+        "lang": "and",
+        "english": "and"
+    },
+    {
+        "lang": "应该",
+        "english": "should"
+    },
+    {
+        "lang": "我們",
+        "english": "we"
+    },
+    {
+        "lang": "这些",
+        "english": "These ones"
+    },
+    {
+        "lang": "that",
+        "english": "that"
+    },
+    {
+        "lang": "t",
+        "english": "t"
+    },
+    {
+        "lang": "请",
+        "english": "please"
+    },
+    {
+        "lang": "孩子",
+        "english": "child"
+    },
+    {
+        "lang": "看到",
+        "english": "see"
+    },
+    {
+        "lang": "一下",
+        "english": "a bit"
+    },
+    {
+        "lang": "那么",
+        "english": "Then"
+    },
+    {
+        "lang": "为",
+        "english": "for"
+    },
+    {
+        "lang": "嗎",
+        "english": "It"
+    },
+    {
+        "lang": "而",
+        "english": "and"
+    },
+    {
+        "lang": "of",
+        "english": "of"
+    },
+    {
+        "lang": "您",
+        "english": "you"
+    },
+    {
+        "lang": "才",
+        "english": "only"
+    },
+    {
+        "lang": "用",
+        "english": "use"
+    },
+    {
+        "lang": "还是",
+        "english": "still is"
+    },
+    {
+        "lang": "嗯",
+        "english": "Ok"
+    },
+    {
+        "lang": "问题",
+        "english": "problem"
+    },
+    {
+        "lang": "工作",
+        "english": "jobs"
+    },
+    {
+        "lang": "一样",
+        "english": "same"
+    },
+    {
+        "lang": "呀",
+        "english": "Yeah"
+    },
+    {
+        "lang": "开始",
+        "english": "begin"
+    },
+    {
+        "lang": "吃",
+        "english": "eat"
+    },
+    {
+        "lang": "嘿",
+        "english": "Hey"
+    },
+    {
+        "lang": "当",
+        "english": "when"
+    },
+    {
+        "lang": "真",
+        "english": "true"
+    },
+    {
+        "lang": "中",
+        "english": "in"
+    },
+    {
+        "lang": "然后",
+        "english": "then"
+    },
+    {
+        "lang": "看看",
+        "english": "Look"
+    },
+    {
+        "lang": "說",
+        "english": "Say"
+    },
+    {
+        "lang": "地方",
+        "english": "local"
+    },
+    {
+        "lang": "一定",
+        "english": "for sure"
+    },
+    {
+        "lang": "将",
+        "english": "will"
+    },
+    {
+        "lang": "希望",
+        "english": "hope"
+    },
+    {
+        "lang": "朋友",
+        "english": "friend"
+    },
+    {
+        "lang": "今天",
+        "english": "Nowadays"
+    },
+    {
+        "lang": "拿",
+        "english": "take"
+    },
+    {
+        "lang": "一",
+        "english": "One"
+    },
+    {
+        "lang": "啦",
+        "english": "La"
+    },
+    {
+        "lang": "in",
+        "english": "in"
+    },
+    {
+        "lang": "事情",
+        "english": "thing"
+    },
+    {
+        "lang": "一直",
+        "english": "Up"
+    },
+    {
+        "lang": "所有",
+        "english": "all"
+    },
+    {
+        "lang": "we",
+        "english": "we"
+    },
+    {
+        "lang": "找到",
+        "english": "turn up"
+    },
+    {
+        "lang": "什麼",
+        "english": "what"
+    },
+    {
+        "lang": "哪",
+        "english": "where"
+    },
+    {
+        "lang": "当然",
+        "english": "of course"
+    },
+    {
+        "lang": "们",
+        "english": "They"
+    },
+    {
+        "lang": "回来",
+        "english": "come back"
+    },
+    {
+        "lang": "不想",
+        "english": "Do not want"
+    },
+    {
+        "lang": "更",
+        "english": "more"
+    },
+    {
+        "lang": "最",
+        "english": "most"
+    },
+    {
+        "lang": "帮",
+        "english": "help"
+    },
+    {
+        "lang": "is",
+        "english": "is"
+    },
+    {
+        "lang": "没事",
+        "english": "All right"
+    },
+    {
+        "lang": "只",
+        "english": "only"
+    },
+    {
+        "lang": "那些",
+        "english": "Those ones"
+    },
+    {
+        "lang": "可",
+        "english": "can"
+    },
+    {
+        "lang": "明白",
+        "english": "understand"
+    },
+    {
+        "lang": "的话",
+        "english": "if"
+    },
+    {
+        "lang": "爸爸",
+        "english": "father"
+    },
+    {
+        "lang": "what",
+        "english": "what"
+    },
+    {
+        "lang": "下",
+        "english": "under"
+    },
+    {
+        "lang": "太",
+        "english": "too"
+    },
+    {
+        "lang": "离开",
+        "english": "go away"
+    },
+    {
+        "lang": "一切",
+        "english": "all"
+    },
+    {
+        "lang": "时间",
+        "english": "time"
+    },
+    {
+        "lang": "相信",
+        "english": "Believe"
+    },
+    {
+        "lang": "chffffff",
+        "english": "chffffff"
+    },
+    {
+        "lang": "妈妈",
+        "english": "mom"
+    },
+    {
+        "lang": "想要",
+        "english": "Want"
+    },
+    {
+        "lang": "爱",
+        "english": "Love"
+    },
+    {
+        "lang": "发生",
+        "english": "occur"
+    },
+    {
+        "lang": "打",
+        "english": "hit"
+    },
+    {
+        "lang": "点",
+        "english": "point"
+    },
+    {
+        "lang": "來",
+        "english": "Come"
+    },
+    {
+        "lang": "钱",
+        "english": "money"
+    },
+    {
+        "lang": "大",
+        "english": "Big"
+    },
+    {
+        "lang": "起来",
+        "english": "stand up"
+    },
+    {
+        "lang": "me",
+        "english": "me"
+    },
+    {
+        "lang": "真是",
+        "english": "Really"
+    },
+    {
+        "lang": "你好",
+        "english": "Hello there"
+    },
+    {
+        "lang": "抱歉",
+        "english": "Sorry"
+    },
+    {
+        "lang": "必须",
+        "english": "have to"
+    },
+    {
+        "lang": "认为",
+        "english": "think"
+    },
+    {
+        "lang": "一点",
+        "english": "a little"
+    },
+    {
+        "lang": "非常",
+        "english": "very much"
+    },
+    {
+        "lang": "那里",
+        "english": "There"
+    },
+    {
+        "lang": "对不起",
+        "english": "I am sorry"
+    },
+    {
+        "lang": "天",
+        "english": "day"
+    },
+    {
+        "lang": "也许",
+        "english": "Maybe"
+    },
+    {
+        "lang": "大家",
+        "english": "everyone"
+    },
+    {
+        "lang": "哪里",
+        "english": "where"
+    },
+    {
+        "lang": "有人",
+        "english": "Someone"
+    },
+    {
+        "lang": "该",
+        "english": "That"
+    },
+    {
+        "lang": "意思",
+        "english": "meaning"
+    },
+    {
+        "lang": "杀",
+        "english": "kill"
+    },
+    {
+        "lang": "准备",
+        "english": "ready"
+    },
+    {
+        "lang": "并",
+        "english": "and"
+    },
+    {
+        "lang": "出来",
+        "english": "come out"
+    },
+    {
+        "lang": "this",
+        "english": "this"
+    },
+    {
+        "lang": "与",
+        "english": "versus"
+    },
+    {
+        "lang": "时",
+        "english": "Time"
+    },
+    {
+        "lang": "不过",
+        "english": "but"
+    },
+    {
+        "lang": "一些",
+        "english": "some"
+    },
+    {
+        "lang": "为了",
+        "english": "in order to"
+    },
+    {
+        "lang": "带",
+        "english": "band"
+    },
+    {
+        "lang": "女人",
+        "english": "woman"
+    },
+    {
+        "lang": "he",
+        "english": "he"
+    },
+    {
+        "lang": "pos",
+        "english": "pos"
+    },
+    {
+        "lang": "这儿",
+        "english": "here"
+    },
+    {
+        "lang": "后",
+        "english": "Rear"
+    },
+    {
+        "lang": "只有",
+        "english": "only"
+    },
+    {
+        "lang": "过来",
+        "english": "come"
+    },
+    {
+        "lang": "比",
+        "english": "ratio"
+    },
+    {
+        "lang": "一次",
+        "english": "once"
+    },
+    {
+        "lang": "得到",
+        "english": "get"
+    },
+    {
+        "lang": "и",
+        "english": "и"
+    },
+    {
+        "lang": "很多",
+        "english": "a lot of"
+    },
+    {
+        "lang": "on",
+        "english": "on"
+    },
+    {
+        "lang": "任何",
+        "english": "any"
+    },
+    {
+        "lang": "这种",
+        "english": "This kind"
+    },
+    {
+        "lang": "for",
+        "english": "for"
+    },
+    {
+        "lang": "小",
+        "english": "small"
+    },
+    {
+        "lang": "怎么样",
+        "english": "How"
+    },
+    {
+        "lang": "對",
+        "english": "Correct"
+    },
+    {
+        "lang": "感觉",
+        "english": "feel"
+    },
+    {
+        "lang": "年",
+        "english": "year"
+    },
+    {
+        "lang": "是不是",
+        "english": "is not it"
+    },
+    {
+        "lang": "以为",
+        "english": "think"
+    },
+    {
+        "lang": "fn",
+        "english": "fn"
+    },
+    {
+        "lang": "而且",
+        "english": "and"
+    },
+    {
+        "lang": "my",
+        "english": "my"
+    },
+    {
+        "lang": "your",
+        "english": "your"
+    },
+    {
+        "lang": "前",
+        "english": "before"
+    },
+    {
+        "lang": "生活",
+        "english": "life"
+    },
+    {
+        "lang": "男人",
+        "english": "the man"
+    },
+    {
+        "lang": "之前",
+        "english": "prior to"
+    },
+    {
+        "lang": "喂",
+        "english": "Hey"
+    },
+    {
+        "lang": "问",
+        "english": "ask"
+    },
+    {
+        "lang": "发现",
+        "english": "Find"
+    },
+    {
+        "lang": "噢",
+        "english": "Oh"
+    },
+    {
+        "lang": "可是",
+        "english": "but"
+    },
+    {
+        "lang": "快点",
+        "english": "Faster"
+    },
+    {
+        "lang": "嗨",
+        "english": "Hi"
+    },
+    {
+        "lang": "妈",
+        "english": "mom"
+    },
+    {
+        "lang": "两个",
+        "english": "Two"
+    },
+    {
+        "lang": "不用",
+        "english": "No need to"
+    },
+    {
+        "lang": "re",
+        "english": "re"
+    },
+    {
+        "lang": "地",
+        "english": "Ground"
+    },
+    {
+        "lang": "向",
+        "english": "to"
+    },
+    {
+        "lang": "名字",
+        "english": "first name"
+    },
+    {
+        "lang": "have",
+        "english": "have"
+    },
+    {
+        "lang": "没错",
+        "english": "Yes"
+    },
+    {
+        "lang": "was",
+        "english": "was"
+    },
+    {
+        "lang": "no",
+        "english": "no"
+    },
+    {
+        "lang": "见",
+        "english": "see"
+    },
+    {
+        "lang": "do",
+        "english": "do"
+    },
+    {
+        "lang": "世界",
+        "english": "world"
+    },
+    {
+        "lang": "沒",
+        "english": "No"
+    },
+    {
+        "lang": "记得",
+        "english": "remember"
+    },
+    {
+        "lang": "住",
+        "english": "live"
+    },
+    {
+        "lang": "新",
+        "english": "new"
+    },
+    {
+        "lang": "be",
+        "english": "be"
+    },
+    {
+        "lang": "不错",
+        "english": "Pretty good"
+    },
+    {
+        "lang": "肯定",
+        "english": "sure"
+    },
+    {
+        "lang": "最好",
+        "english": "the best"
+    },
+    {
+        "lang": "not",
+        "english": "not"
+    },
+    {
+        "lang": "不行",
+        "english": "Not work"
+    },
+    {
+        "lang": "等等",
+        "english": "and many more"
+    },
+    {
+        "lang": "嘛",
+        "english": "Well"
+    },
+    {
+        "lang": "出去",
+        "english": "Out"
+    },
+    {
+        "lang": "么",
+        "english": "What"
+    },
+    {
+        "lang": "先",
+        "english": "first"
+    },
+    {
+        "lang": "為",
+        "english": "for"
+    },
+    {
+        "lang": "亲爱",
+        "english": "dear"
+    },
+    {
+        "lang": "或",
+        "english": "or"
+    },
+    {
+        "lang": "can",
+        "english": "can"
+    },
+    {
+        "lang": "are",
+        "english": "are"
+    },
+    {
+        "lang": "don",
+        "english": "don"
+    },
+    {
+        "lang": "他們",
+        "english": "they"
+    },
+    {
+        "lang": "担心",
+        "english": "worry"
+    },
+    {
+        "lang": "如何",
+        "english": "how is it"
+    },
+    {
+        "lang": "到底",
+        "english": "in the end"
+    },
+    {
+        "lang": "有点",
+        "english": "A little"
+    },
+    {
+        "lang": "最后",
+        "english": "At last"
+    },
+    {
+        "lang": "小姐",
+        "english": "Young lady"
+    },
+    {
+        "lang": "上帝",
+        "english": "God"
+    },
+    {
+        "lang": "认识",
+        "english": "understanding"
+    },
+    {
+        "lang": "know",
+        "english": "know"
+    },
+    {
+        "lang": "會",
+        "english": "meeting"
+    },
+    {
+        "lang": "正在",
+        "english": "Is"
+    },
+    {
+        "lang": "那样",
+        "english": "That kind"
+    },
+    {
+        "lang": "父亲",
+        "english": "father"
+    },
+    {
+        "lang": "高兴",
+        "english": "happy"
+    },
+    {
+        "lang": "明天",
+        "english": "tomorrow"
+    },
+    {
+        "lang": "重要",
+        "english": "important"
+    },
+    {
+        "lang": "跑",
+        "english": "run"
+    },
+    {
+        "lang": "警察",
+        "english": "Policemen"
+    },
+    {
+        "lang": "只要",
+        "english": "as long as"
+    },
+    {
+        "lang": "干什么",
+        "english": "What"
+    },
+    {
+        "lang": "好像",
+        "english": "like"
+    },
+    {
+        "lang": "再见",
+        "english": "Goodbye"
+    },
+    {
+        "lang": "月",
+        "english": "month"
+    },
+    {
+        "lang": "我能",
+        "english": "I can"
+    },
+    {
+        "lang": "继续",
+        "english": "carry on"
+    },
+    {
+        "lang": "出",
+        "english": "Out"
+    },
+    {
+        "lang": "今晚",
+        "english": "tonight"
+    },
+    {
+        "lang": "all",
+        "english": "all"
+    },
+    {
+        "lang": "他妈的",
+        "english": "Fuck"
+    },
+    {
+        "lang": "with",
+        "english": "with"
+    },
+    {
+        "lang": "回家",
+        "english": "Come back home"
+    },
+    {
+        "lang": "它们",
+        "english": "they"
+    },
+    {
+        "lang": "多少",
+        "english": "How many"
+    },
+    {
+        "lang": "电话",
+        "english": "phone"
+    },
+    {
+        "lang": "听到",
+        "english": "Hear"
+    },
+    {
+        "lang": "干嘛",
+        "english": "Why"
+    },
+    {
+        "lang": "just",
+        "english": "just"
+    },
+    {
+        "lang": "干",
+        "english": "dry"
+    },
+    {
+        "lang": "but",
+        "english": "but"
+    },
+    {
+        "lang": "医生",
+        "english": "Doctors"
+    },
+    {
+        "lang": "要是",
+        "english": "if"
+    },
+    {
+        "lang": "女孩",
+        "english": "girl"
+    },
+    {
+        "lang": "so",
+        "english": "so"
+    },
+    {
+        "lang": "這",
+        "english": "This"
+    },
+    {
+        "lang": "所",
+        "english": "The"
+    },
+    {
+        "lang": "讓",
+        "english": "yield"
+    },
+    {
+        "lang": "马上",
+        "english": "immediately"
+    },
+    {
+        "lang": "过去",
+        "english": "past"
+    },
+    {
+        "lang": "以前",
+        "english": "before"
+    },
+    {
+        "lang": "they",
+        "english": "they"
+    },
+    {
+        "lang": "儿子",
+        "english": "son"
+    },
+    {
+        "lang": "哪儿",
+        "english": "where"
+    },
+    {
+        "lang": "说话",
+        "english": "speak"
+    },
+    {
+        "lang": "买",
+        "english": "buy"
+    },
+    {
+        "lang": "看起来",
+        "english": "Looks"
+    },
+    {
+        "lang": "这次",
+        "english": "this time"
+    },
+    {
+        "lang": "一個",
+        "english": "One"
+    },
+    {
+        "lang": "改变",
+        "english": "change"
+    },
+    {
+        "lang": "完全",
+        "english": "complete"
+    },
+    {
+        "lang": "该死",
+        "english": "Damn"
+    },
+    {
+        "lang": "there",
+        "english": "there"
+    },
+    {
+        "lang": "美国",
+        "english": "United States"
+    },
+    {
+        "lang": "怎样",
+        "english": "how"
+    },
+    {
+        "lang": "回去",
+        "english": "go back"
+    },
+    {
+        "lang": "以",
+        "english": "With"
+    },
+    {
+        "lang": "却",
+        "english": "but"
+    },
+    {
+        "lang": "其他",
+        "english": "other"
+    },
+    {
+        "lang": "永远",
+        "english": "forever and always"
+    },
+    {
+        "lang": "家伙",
+        "english": "Guy"
+    },
+    {
+        "lang": "之后",
+        "english": "after that"
+    },
+    {
+        "lang": "怎麼",
+        "english": "how"
+    },
+    {
+        "lang": "看见",
+        "english": "see"
+    },
+    {
+        "lang": "或者",
+        "english": "or"
+    },
+    {
+        "lang": "注意",
+        "english": "note"
+    },
+    {
+        "lang": "小心",
+        "english": "Be careful"
+    },
+    {
+        "lang": "不了",
+        "english": "Can not"
+    },
+    {
+        "lang": "行",
+        "english": "Row"
+    },
+    {
+        "lang": "别人",
+        "english": "other people"
+    },
+    {
+        "lang": "成为",
+        "english": "become"
+    },
+    {
+        "lang": "写",
+        "english": "write"
+    },
+    {
+        "lang": "不到",
+        "english": "Less than"
+    },
+    {
+        "lang": "here",
+        "english": "here"
+    },
+    {
+        "lang": "情况",
+        "english": "Happening"
+    },
+    {
+        "lang": "get",
+        "english": "get"
+    },
+    {
+        "lang": "送",
+        "english": "give away"
+    },
+    {
+        "lang": "伙计",
+        "english": "Man"
+    },
+    {
+        "lang": "一天",
+        "english": "one day"
+    },
+    {
+        "lang": "玩",
+        "english": "play"
+    },
+    {
+        "lang": "见到",
+        "english": "To see"
+    },
+    {
+        "lang": "放",
+        "english": "put"
+    },
+    {
+        "lang": "晚上",
+        "english": "at night"
+    },
+    {
+        "lang": "喝",
+        "english": "drink"
+    },
+    {
+        "lang": "总是",
+        "english": "always"
+    },
+    {
+        "lang": "好好",
+        "english": "Good"
+    },
+    {
+        "lang": "琌",
+        "english": "Ling"
+    },
+    {
+        "lang": "号",
+        "english": "number"
+    },
+    {
+        "lang": "如此",
+        "english": "in this way"
+    },
+    {
+        "lang": "家",
+        "english": "Home"
+    },
+    {
+        "lang": "坐",
+        "english": "sit"
+    },
+    {
+        "lang": "了解",
+        "english": "To understanding"
+    },
+    {
+        "lang": "like",
+        "english": "like"
+    },
+    {
+        "lang": "有没有",
+        "english": "Do you have"
+    },
+    {
+        "lang": "兄弟",
+        "english": "brothers"
+    },
+    {
+        "lang": "没什么",
+        "english": "It's nothing"
+    },
+    {
+        "lang": "我来",
+        "english": "I come"
+    },
+    {
+        "lang": "结束",
+        "english": "the end"
+    },
+    {
+        "lang": "机会",
+        "english": "opportunity"
+    },
+    {
+        "lang": "已",
+        "english": "Already"
+    },
+    {
+        "lang": "安全",
+        "english": "Safety"
+    },
+    {
+        "lang": "拜托",
+        "english": "Please"
+    },
+    {
+        "lang": "决定",
+        "english": "Decide"
+    },
+    {
+        "lang": "穿",
+        "english": "wear"
+    },
+    {
+        "lang": "确定",
+        "english": "determine"
+    },
+    {
+        "lang": "里面",
+        "english": "inside"
+    },
+    {
+        "lang": "呃",
+        "english": "Uh"
+    },
+    {
+        "lang": "怎么办",
+        "english": "How to do"
+    },
+    {
+        "lang": "还好",
+        "english": "Fortunately,"
+    },
+    {
+        "lang": "无法",
+        "english": "Unable"
+    },
+    {
+        "lang": "小时",
+        "english": "hour"
+    },
+    {
+        "lang": "站",
+        "english": "station"
+    },
+    {
+        "lang": "清楚",
+        "english": "clear"
+    },
+    {
+        "lang": "有些",
+        "english": "some"
+    },
+    {
+        "lang": "错",
+        "english": "wrong"
+    },
+    {
+        "lang": "這個",
+        "english": "This one"
+    },
+    {
+        "lang": "帮助",
+        "english": "help"
+    },
+    {
+        "lang": "长官",
+        "english": "Chief"
+    },
+    {
+        "lang": "out",
+        "english": "out"
+    },
+    {
+        "lang": "ll",
+        "english": "ll"
+    },
+    {
+        "lang": "公司",
+        "english": "the company"
+    },
+    {
+        "lang": "up",
+        "english": "up"
+    },
+    {
+        "lang": "打电话",
+        "english": "Phone"
+    },
+    {
+        "lang": "房子",
+        "english": "house"
+    },
+    {
+        "lang": "根本",
+        "english": "fundamental"
+    },
+    {
+        "lang": "懂",
+        "english": "understand"
+    },
+    {
+        "lang": "办法",
+        "english": "Method"
+    },
+    {
+        "lang": "go",
+        "english": "go"
+    },
+    {
+        "lang": "不管",
+        "english": "Regardless of"
+    },
+    {
+        "lang": "混蛋",
+        "english": "Asshole"
+    },
+    {
+        "lang": "关于",
+        "english": "on"
+    },
+    {
+        "lang": "right",
+        "english": "right"
+    },
+    {
+        "lang": "she",
+        "english": "she"
+    },
+    {
+        "lang": "搞",
+        "english": "Do"
+    },
+    {
+        "lang": "计划",
+        "english": "plan"
+    },
+    {
+        "lang": "唯一",
+        "english": "only"
+    },
+    {
+        "lang": "来说",
+        "english": "Speaking"
+    },
+    {
+        "lang": "女儿",
+        "english": "daughter"
+    },
+    {
+        "lang": "one",
+        "english": "one"
+    },
+    {
+        "lang": "看着",
+        "english": "Watching"
+    },
+    {
+        "lang": "宝贝",
+        "english": "baby"
+    },
+    {
+        "lang": "每个",
+        "english": "Each"
+    },
+    {
+        "lang": "about",
+        "english": "about"
+    },
+    {
+        "lang": "怎么回事",
+        "english": "what happened"
+    },
+    {
+        "lang": "個",
+        "english": "More"
+    },
+    {
+        "lang": "其实",
+        "english": "in fact"
+    },
+    {
+        "lang": "漂亮",
+        "english": "Pretty"
+    },
+    {
+        "lang": "黑体",
+        "english": "Blackbody"
+    },
+    {
+        "lang": "這樣",
+        "english": "such"
+    },
+    {
+        "lang": "车",
+        "english": "car"
+    },
+    {
+        "lang": "if",
+        "english": "if"
+    },
+    {
+        "lang": "人们",
+        "english": "people"
+    },
+    {
+        "lang": "真正",
+        "english": "real"
+    },
+    {
+        "lang": "甚至",
+        "english": "even"
+    },
+    {
+        "lang": "那边",
+        "english": "there"
+    },
+    {
+        "lang": "弄",
+        "english": "do"
+    },
+    {
+        "lang": "开",
+        "english": "open"
+    },
+    {
+        "lang": "不好",
+        "english": "not good"
+    },
+    {
+        "lang": "him",
+        "english": "him"
+    },
+    {
+        "lang": "喔",
+        "english": "Oh"
+    },
+    {
+        "lang": "回",
+        "english": "Return"
+    },
+    {
+        "lang": "进来",
+        "english": "Come in"
+    },
+    {
+        "lang": "裏",
+        "english": "in"
+    },
+    {
+        "lang": "夫人",
+        "english": "lady"
+    },
+    {
+        "lang": "之",
+        "english": "It"
+    },
+    {
+        "lang": "at",
+        "english": "at"
+    },
+    {
+        "lang": "听说",
+        "english": "It is said that"
+    },
+    {
+        "lang": "愿意",
+        "english": "willing"
+    },
+    {
+        "lang": "麻烦",
+        "english": "trouble"
+    },
+    {
+        "lang": "now",
+        "english": "now"
+    },
+    {
+        "lang": "睡",
+        "english": "sleep"
+    },
+    {
+        "lang": "哇",
+        "english": "Wow"
+    },
+    {
+        "lang": "就要",
+        "english": "Will"
+    },
+    {
+        "lang": "打算",
+        "english": "intend"
+    },
+    {
+        "lang": "完",
+        "english": "Finish"
+    },
+    {
+        "lang": "故事",
+        "english": "story"
+    },
+    {
+        "lang": "一种",
+        "english": "One kind"
+    },
+    {
+        "lang": "害怕",
+        "english": "Afraid"
+    },
+    {
+        "lang": "救",
+        "english": "save"
+    },
+    {
+        "lang": "手",
+        "english": "hand"
+    },
+    {
+        "lang": "房间",
+        "english": "room"
+    },
+    {
+        "lang": "由",
+        "english": "by"
+    },
+    {
+        "lang": "後",
+        "english": "Rear"
+    },
+    {
+        "lang": "那儿",
+        "english": "there"
+    },
+    {
+        "lang": "衣服",
+        "english": "clothes"
+    },
+    {
+        "lang": "枪",
+        "english": "gun"
+    },
+    {
+        "lang": "母亲",
+        "english": "mother"
+    },
+    {
+        "lang": "got",
+        "english": "got"
+    },
+    {
+        "lang": "另",
+        "english": "another"
+    },
+    {
+        "lang": "下来",
+        "english": "Down"
+    }
+]
+}

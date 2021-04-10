@@ -220,5 +220,46 @@
                 android:layout_alignParentLeft="true"
                 android:layout_marginBottom="10dp"/>
         </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/card_bg"
+                android:backgroundTint="#ea526f"
+                android:layout_margin="20dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/baloo"
+                    android:text="Mandarin"
+                    android:textSize="30sp"
+                    android:padding="20dp"/>
+                <Button
+                    android:id="@+id/mandarin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:text="开始吧"
+                    android:background="@drawable/button_bg"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:textColor="#bbb"
+                    android:onClick="send_data"
+                    android:tag="mandarin"/>
+            </RelativeLayout>
+            <ImageView
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/chinese"
+                android:layout_marginTop="-110dp"
+                android:layout_marginRight="-15dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="16dp"/>
+        </RelativeLayout>
     </LinearLayout>
 </ScrollView>
