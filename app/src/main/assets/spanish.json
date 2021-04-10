@@ -1,2002 +1,2004 @@
-﻿[
-	{
-		"lang": "de",
-		"english": "from"
-	},
-	{
-		"lang": "que",
-		"english": "that"
-	},
-	{
-		"lang": "no",
-		"english": "not"
-	},
-	{
-		"lang": "a",
-		"english": "to"
-	},
-	{
-		"lang": "la",
-		"english": "the"
-	},
-	{
-		"lang": "el",
-		"english": "the"
-	},
-	{
-		"lang": "y",
-		"english": "and"
-	},
-	{
-		"lang": "es",
-		"english": "is"
-	},
-	{
-		"lang": "en",
-		"english": "in"
-	},
-	{
-		"lang": "lo",
-		"english": "it"
-	},
-	{
-		"lang": "un",
-		"english": "a"
-	},
-	{
-		"lang": "por",
-		"english": "for"
-	},
-	{
-		"lang": "qué",
-		"english": "that"
-	},
-	{
-		"lang": "me",
-		"english": "I"
-	},
-	{
-		"lang": "una",
-		"english": "a"
-	},
-	{
-		"lang": "los",
-		"english": "the"
-	},
-	{
-		"lang": "se",
-		"english": "I know"
-	},
-	{
-		"lang": "te",
-		"english": "tea"
-	},
-	{
-		"lang": "con",
-		"english": "with"
-	},
-	{
-		"lang": "para",
-		"english": "in order to"
-	},
-	{
-		"lang": "está",
-		"english": "this"
-	},
-	{
-		"lang": "mi",
-		"english": "me"
-	},
-	{
-		"lang": "pero",
-		"english": "but"
-	},
-	{
-		"lang": "sí",
-		"english": "Yes"
-	},
-	{
-		"lang": "si",
-		"english": "Yes"
-	},
-	{
-		"lang": "bien",
-		"english": "all right"
-	},
-	{
-		"lang": "eso",
-		"english": "that"
-	},
-	{
-		"lang": "su",
-		"english": "its"
-	},
-	{
-		"lang": "las",
-		"english": "the"
-	},
-	{
-		"lang": "yo",
-		"english": "I"
-	},
-	{
-		"lang": "del",
-		"english": "of"
-	},
-	{
-		"lang": "como",
-		"english": "What"
-	},
-	{
-		"lang": "aquí",
-		"english": "here"
-	},
-	{
-		"lang": "tu",
-		"english": "you"
-	},
-	{
-		"lang": "al",
-		"english": "to the"
-	},
-	{
-		"lang": "más",
-		"english": "plus"
-	},
-	{
-		"lang": "le",
-		"english": "you"
-	},
-	{
-		"lang": "esto",
-		"english": "this"
-	},
-	{
-		"lang": "todo",
-		"english": "all"
-	},
-	{
-		"lang": "ya",
-		"english": "already"
-	},
-	{
-		"lang": "estoy",
-		"english": "I'm"
-	},
-	{
-		"lang": "ahora",
-		"english": "now"
-	},
-	{
-		"lang": "muy",
-		"english": "very"
-	},
-	{
-		"lang": "ha",
-		"english": "ha"
-	},
-	{
-		"lang": "esta",
-		"english": "is"
-	},
-	{
-		"lang": "así",
-		"english": "So"
-	},
-	{
-		"lang": "vamos",
-		"english": "come on"
-	},
-	{
-		"lang": "algo",
-		"english": "something"
-	},
-	{
-		"lang": "hay",
-		"english": "there are"
-	},
-	{
-		"lang": "bueno",
-		"english": "well"
-	},
-	{
-		"lang": "tengo",
-		"english": "have"
-	},
-	{
-		"lang": "él",
-		"english": "he"
-	},
-	{
-		"lang": "cuando",
-		"english": "when"
-	},
-	{
-		"lang": "estás",
-		"english": "are"
-	},
-	{
-		"lang": "sé",
-		"english": "he"
-	},
-	{
-		"lang": "tú",
-		"english": "your"
-	},
-	{
-		"lang": "nos",
-		"english": "us"
-	},
-	{
-		"lang": "nada",
-		"english": "nothing"
-	},
-	{
-		"lang": "cómo",
-		"english": "as"
-	},
-	{
-		"lang": "este",
-		"english": "East"
-	},
-	{
-		"lang": "o",
-		"english": "or"
-	},
-	{
-		"lang": "he",
-		"english": "I"
-	},
-	{
-		"lang": "ser",
-		"english": "be"
-	},
-	{
-		"lang": "tiene",
-		"english": "It has"
-	},
-	{
-		"lang": "puedo",
-		"english": "may l"
-	},
-	{
-		"lang": "ella",
-		"english": "her"
-	},
-	{
-		"lang": "quiero",
-		"english": "I want"
-	},
-	{
-		"lang": "hacer",
-		"english": "make"
-	},
-	{
-		"lang": "fue",
-		"english": "It was"
-	},
-	{
-		"lang": "gracias",
-		"english": "Thank you"
-	},
-	{
-		"lang": "vez",
-		"english": "time"
-	},
-	{
-		"lang": "era",
-		"english": "it was"
-	},
-	{
-		"lang": "soy",
-		"english": "am"
-	},
-	{
-		"lang": "sólo",
-		"english": "alone"
-	},
-	{
-		"lang": "todos",
-		"english": "everybody"
-	},
-	{
-		"lang": "porque",
-		"english": "because"
-	},
-	{
-		"lang": "son",
-		"english": "They are"
-	},
-	{
-		"lang": "tienes",
-		"english": "you have"
-	},
-	{
-		"lang": "creo",
-		"english": "I think"
-	},
-	{
-		"lang": "voy",
-		"english": "go"
-	},
-	{
-		"lang": "sabes",
-		"english": "you know"
-	},
-	{
-		"lang": "estaba",
-		"english": "was"
-	},
-	{
-		"lang": "puede",
-		"english": "can"
-	},
-	{
-		"lang": "eres",
-		"english": "are"
-	},
-	{
-		"lang": "ese",
-		"english": "that"
-	},
-	{
-		"lang": "usted",
-		"english": "you"
-	},
-	{
-		"lang": "entonces",
-		"english": "then"
-	},
-	{
-		"lang": "hola",
-		"english": "Hello"
-	},
-	{
-		"lang": "solo",
-		"english": "only"
-	},
-	{
-		"lang": "verdad",
-		"english": "truth"
-	},
-	{
-		"lang": "casa",
-		"english": "home"
-	},
-	{
-		"lang": "tan",
-		"english": "so"
-	},
-	{
-		"lang": "quién",
-		"english": "who"
-	},
-	{
-		"lang": "sus",
-		"english": "their"
-	},
-	{
-		"lang": "tiempo",
-		"english": "weather"
-	},
-	{
-		"lang": "dos",
-		"english": "two"
-	},
-	{
-		"lang": "esa",
-		"english": "that"
-	},
-	{
-		"lang": "nunca",
-		"english": "never"
-	},
-	{
-		"lang": "dónde",
-		"english": "where"
-	},
-	{
-		"lang": "va",
-		"english": "he"
-	},
-	{
-		"lang": "oh",
-		"english": "oh"
-	},
-	{
-		"lang": "favor",
-		"english": "favor"
-	},
-	{
-		"lang": "mucho",
-		"english": "a lot"
-	},
-	{
-		"lang": "mí",
-		"english": "my"
-	},
-	{
-		"lang": "quieres",
-		"english": "want"
-	},
-	{
-		"lang": "siento",
-		"english": "I feel"
-	},
-	{
-		"lang": "señor",
-		"english": "Sir"
-	},
-	{
-		"lang": "mejor",
-		"english": "better"
-	},
-	{
-		"lang": "hace",
-		"english": "makes"
-	},
-	{
-		"lang": "has",
-		"english": "you"
-	},
-	{
-		"lang": "decir",
-		"english": "tell"
-	},
-	{
-		"lang": "también",
-		"english": "too"
-	},
-	{
-		"lang": "sobre",
-		"english": "on"
-	},
-	{
-		"lang": "dios",
-		"english": "God"
-	},
-	{
-		"lang": "sin",
-		"english": "without"
-	},
-	{
-		"lang": "tenemos",
-		"english": "we have"
-	},
-	{
-		"lang": "están",
-		"english": "is it so"
-	},
-	{
-		"lang": "ti",
-		"english": "you"
-	},
-	{
-		"lang": "puedes",
-		"english": "you may"
-	},
-	{
-		"lang": "ver",
-		"english": "watch"
-	},
-	{
-		"lang": "hombre",
-		"english": "man"
-	},
-	{
-		"lang": "vida",
-		"english": "life"
-	},
-	{
-		"lang": "alguien",
-		"english": "someone"
-	},
-	{
-		"lang": "cosas",
-		"english": "things"
-	},
-	{
-		"lang": "siempre",
-		"english": "forever"
-	},
-	{
-		"lang": "hasta",
-		"english": "until"
-	},
-	{
-		"lang": "ahí",
-		"english": "there"
-	},
-	{
-		"lang": "ir",
-		"english": "to go"
-	},
-	{
-		"lang": "años",
-		"english": "years"
-	},
-	{
-		"lang": "antes",
-		"english": "before"
-	},
-	{
-		"lang": "estar",
-		"english": "to be"
-	},
-	{
-		"lang": "ni",
-		"english": "neither"
-	},
-	{
-		"lang": "poco",
-		"english": "little"
-	},
-	{
-		"lang": "día",
-		"english": "day"
-	},
-	{
-		"lang": "uno",
-		"english": "one"
-	},
-	{
-		"lang": "noche",
-		"english": "night"
-	},
-	{
-		"lang": "hecho",
-		"english": "done"
-	},
-	{
-		"lang": "mis",
-		"english": "my"
-	},
-	{
-		"lang": "estamos",
-		"english": "we're"
-	},
-	{
-		"lang": "otra",
-		"english": "other"
-	},
-	{
-		"lang": "acuerdo",
-		"english": "agreement"
-	},
-	{
-		"lang": "trabajo",
-		"english": "job"
-	},
-	{
-		"lang": "nosotros",
-		"english": "We"
-	},
-	{
-		"lang": "parece",
-		"english": "It seems"
-	},
-	{
-		"lang": "gente",
-		"english": "people"
-	},
-	{
-		"lang": "sea",
-		"english": "be"
-	},
-	{
-		"lang": "padre",
-		"english": "dad"
-	},
-	{
-		"lang": "mira",
-		"english": "sight"
-	},
-	{
-		"lang": "mismo",
-		"english": "same"
-	},
-	{
-		"lang": "dijo",
-		"english": "He said"
-	},
-	{
-		"lang": "nadie",
-		"english": "nobody"
-	},
-	{
-		"lang": "quiere",
-		"english": "wants"
-	},
-	{
-		"lang": "podría",
-		"english": "might"
-	},
-	{
-		"lang": "hablar",
-		"english": "speak"
-	},
-	{
-		"lang": "vas",
-		"english": "you go"
-	},
-	{
-		"lang": "ellos",
-		"english": "they"
-	},
-	{
-		"lang": "sr.",
-		"english": "Mr."
-	},
-	{
-		"lang": "tal",
-		"english": "such"
-	},
-	{
-		"lang": "pasa",
-		"english": "happens"
-	},
-	{
-		"lang": "fuera",
-		"english": "outside"
-	},
-	{
-		"lang": "después",
-		"english": "after"
-	},
-	{
-		"lang": "han",
-		"english": "they have"
-	},
-	{
-		"lang": "desde",
-		"english": "since"
-	},
-	{
-		"lang": "dinero",
-		"english": "money"
-	},
-	{
-		"lang": "mundo",
-		"english": "world"
-	},
-	{
-		"lang": "claro",
-		"english": "Sure"
-	},
-	{
-		"lang": "momento",
-		"english": "moment"
-	},
-	{
-		"lang": "les",
-		"english": "them"
-	},
-	{
-		"lang": "tener",
-		"english": "have"
-	},
-	{
-		"lang": "estado",
-		"english": "condition"
-	},
-	{
-		"lang": "otro",
-		"english": "other"
-	},
-	{
-		"lang": "había",
-		"english": "there was"
-	},
-	{
-		"lang": "mañana",
-		"english": "morning"
-	},
-	{
-		"lang": "tenía",
-		"english": "I had"
-	},
-	{
-		"lang": "madre",
-		"english": "mother"
-	},
-	{
-		"lang": "vale",
-		"english": "OK"
-	},
-	{
-		"lang": "lugar",
-		"english": "place"
-	},
-	{
-		"lang": "haciendo",
-		"english": "doing"
-	},
-	{
-		"lang": "donde",
-		"english": "where"
-	},
-	{
-		"lang": "seguro",
-		"english": "insurance"
-	},
-	{
-		"lang": "sabe",
-		"english": "knows"
-	},
-	{
-		"lang": "podemos",
-		"english": "we can"
-	},
-	{
-		"lang": "tus",
-		"english": "your"
-	},
-	{
-		"lang": "espera",
-		"english": "waiting"
-	},
-	{
-		"lang": "nuevo",
-		"english": "new"
-	},
-	{
-		"lang": "sido",
-		"english": "been"
-	},
-	{
-		"lang": "cosa",
-		"english": "thing"
-	},
-	{
-		"lang": "hijo",
-		"english": "child"
-	},
-	{
-		"lang": "allí",
-		"english": "there"
-	},
-	{
-		"lang": "menos",
-		"english": "less"
-	},
-	{
-		"lang": "tipo",
-		"english": "kind"
-	},
-	{
-		"lang": "amigo",
-		"english": "friend"
-	},
-	{
-		"lang": "gran",
-		"english": "great"
-	},
-	{
-		"lang": "nuestro",
-		"english": "our"
-	},
-	{
-		"lang": "mujer",
-		"english": "woman"
-	},
-	{
-		"lang": "mamá",
-		"english": "mother"
-	},
-	{
-		"lang": "luego",
-		"english": "later"
-	},
-	{
-		"lang": "papá",
-		"english": "father"
-	},
-	{
-		"lang": "días",
-		"english": "days"
-	},
-	{
-		"lang": "dice",
-		"english": "He says"
-	},
-	{
-		"lang": "hoy",
-		"english": "today"
-	},
-	{
-		"lang": "tres",
-		"english": "three"
-	},
-	{
-		"lang": "buena",
-		"english": "good"
-	},
-	{
-		"lang": "necesito",
-		"english": "needed"
-	},
-	{
-		"lang": "dije",
-		"english": "said"
-	},
-	{
-		"lang": "oye",
-		"english": "hears"
-	},
-	{
-		"lang": "gusta",
-		"english": "like"
-	},
-	{
-		"lang": "quería",
-		"english": "wanted"
-	},
-	{
-		"lang": "será",
-		"english": "will be"
-	},
-	{
-		"lang": "haber",
-		"english": "to have"
-	},
-	{
-		"lang": "parte",
-		"english": "part"
-	},
-	{
-		"lang": "todas",
-		"english": "all"
-	},
-	{
-		"lang": "crees",
-		"english": "think"
-	},
-	{
-		"lang": "buen",
-		"english": "good"
-	},
-	{
-		"lang": "conmigo",
-		"english": "with me"
-	},
-	{
-		"lang": "nombre",
-		"english": "Name"
-	},
-	{
-		"lang": "mierda",
-		"english": "shit"
-	},
-	{
-		"lang": "nuestra",
-		"english": "our"
-	},
-	{
-		"lang": "mal",
-		"english": "wrong"
-	},
-	{
-		"lang": "debe",
-		"english": "has to"
-	},
-	{
-		"lang": "realmente",
-		"english": "Really"
-	},
-	{
-		"lang": "estas",
-		"english": "these"
-	},
-	{
-		"lang": "aún",
-		"english": "still"
-	},
-	{
-		"lang": "mío",
-		"english": "Own"
-	},
-	{
-		"lang": "toda",
-		"english": "all"
-	},
-	{
-		"lang": "hacerlo",
-		"english": "do it"
-	},
-	{
-		"lang": "cada",
-		"english": "each"
-	},
-	{
-		"lang": "visto",
-		"english": "viewed"
-	},
-	{
-		"lang": "importa",
-		"english": "matters"
-	},
-	{
-		"lang": "contigo",
-		"english": "with you"
-	},
-	{
-		"lang": "tienen",
-		"english": "have"
-	},
-	{
-		"lang": "hemos",
-		"english": "we have"
-	},
-	{
-		"lang": "razón",
-		"english": "reason"
-	},
-	{
-		"lang": "alguna",
-		"english": "some"
-	},
-	{
-		"lang": "tanto",
-		"english": "so much"
-	},
-	{
-		"lang": "saber",
-		"english": "to know"
-	},
-	{
-		"lang": "hizo",
-		"english": "made"
-	},
-	{
-		"lang": "veces",
-		"english": "times"
-	},
-	{
-		"lang": "serio",
-		"english": "I laughed"
-	},
-	{
-		"lang": "ven",
-		"english": "come"
-	},
-	{
-		"lang": "idea",
-		"english": "idea"
-	},
-	{
-		"lang": "eh",
-		"english": "Hey"
-	},
-	{
-		"lang": "tarde",
-		"english": "late"
-	},
-	{
-		"lang": "problema",
-		"english": "issue"
-	},
-	{
-		"lang": "hora",
-		"english": "hour"
-	},
-	{
-		"lang": "cierto",
-		"english": "certain"
-	},
-	{
-		"lang": "dicho",
-		"english": "saying"
-	},
-	{
-		"lang": "quien",
-		"english": "who"
-	},
-	{
-		"lang": "demasiado",
-		"english": "too"
-	},
-	{
-		"lang": "amor",
-		"english": "love"
-	},
-	{
-		"lang": "entre",
-		"english": "Come in"
-	},
-	{
-		"lang": "ve",
-		"english": "go"
-	},
-	{
-		"lang": "pasado",
-		"english": "last"
-	},
-	{
-		"lang": "familia",
-		"english": "family"
-	},
-	{
-		"lang": "estos",
-		"english": "these"
-	},
-	{
-		"lang": "policía",
-		"english": "policeman"
-	},
-	{
-		"lang": "debería",
-		"english": "it should"
-	},
-	{
-		"lang": "ustedes",
-		"english": "you guys"
-	},
-	{
-		"lang": "chica",
-		"english": "girl"
-	},
-	{
-		"lang": "esos",
-		"english": "those"
-	},
-	{
-		"lang": "chicos",
-		"english": "Boys"
-	},
-	{
-		"lang": "cuenta",
-		"english": "bill"
-	},
-	{
-		"lang": "haces",
-		"english": "you do"
-	},
-	{
-		"lang": "todavía",
-		"english": "yet"
-	},
-	{
-		"lang": "salir",
-		"english": "get out"
-	},
-	{
-		"lang": "algún",
-		"english": "some"
-	},
-	{
-		"lang": "vaya",
-		"english": "Wow"
-	},
-	{
-		"lang": "unos",
-		"english": "some"
-	},
-	{
-		"lang": "veo",
-		"english": "I see"
-	},
-	{
-		"lang": "amigos",
-		"english": "friends"
-	},
-	{
-		"lang": "hermano",
-		"english": "brother"
-	},
-	{
-		"lang": "pensé",
-		"english": "I thought"
-	},
-	{
-		"lang": "sabía",
-		"english": "I knew"
-	},
-	{
-		"lang": "cabeza",
-		"english": "head"
-	},
-	{
-		"lang": "ah",
-		"english": "ah"
-	},
-	{
-		"lang": "cariño",
-		"english": "Dear"
-	},
-	{
-		"lang": "digo",
-		"english": "say"
-	},
-	{
-		"lang": "van",
-		"english": "go"
-	},
-	{
-		"lang": "hombres",
-		"english": "mens"
-	},
-	{
-		"lang": "buenas",
-		"english": "good"
-	},
-	{
-		"lang": "somos",
-		"english": "are"
-	},
-	{
-		"lang": "cualquier",
-		"english": "any"
-	},
-	{
-		"lang": "forma",
-		"english": "form"
-	},
-	{
-		"lang": "mientras",
-		"english": "While"
-	},
-	{
-		"lang": "lado",
-		"english": "side"
-	},
-	{
-		"lang": "debo",
-		"english": "I shall"
-	},
-	{
-		"lang": "sería",
-		"english": "would"
-	},
-	{
-		"lang": "caso",
-		"english": "case"
-	},
-	{
-		"lang": "pueden",
-		"english": "they can"
-	},
-	{
-		"lang": "pasó",
-		"english": "I pass"
-	},
-	{
-		"lang": "primera",
-		"english": "first"
-	},
-	{
-		"lang": "genial",
-		"english": "brilliant"
-	},
-	{
-		"lang": "chico",
-		"english": "guy"
-	},
-	{
-		"lang": "supuesto",
-		"english": "supposed"
-	},
-	{
-		"lang": "hice",
-		"english": "I made"
-	},
-	{
-		"lang": "pues",
-		"english": "well"
-	},
-	{
-		"lang": "adiós",
-		"english": "goodbye"
-	},
-	{
-		"lang": "muchas",
-		"english": "many"
-	},
-	{
-		"lang": "personas",
-		"english": "persons"
-	},
-	{
-		"lang": "señora",
-		"english": "Lady"
-	},
-	{
-		"lang": "volver",
-		"english": "return"
-	},
-	{
-		"lang": "esas",
-		"english": "those"
-	},
-	{
-		"lang": "quizá",
-		"english": "maybe"
-	},
-	{
-		"lang": "contra",
-		"english": "against"
-	},
-	{
-		"lang": "camino",
-		"english": "road"
-	},
-	{
-		"lang": "durante",
-		"english": "during"
-	},
-	{
-		"lang": "hablando",
-		"english": "speaking"
-	},
-	{
-		"lang": "manera",
-		"english": "way"
-	},
-	{
-		"lang": "muerto",
-		"english": "dead"
-	},
-	{
-		"lang": "persona",
-		"english": "person"
-	},
-	{
-		"lang": "rápido",
-		"english": "Quick"
-	},
-	{
-		"lang": "cuál",
-		"english": "which"
-	},
-	{
-		"lang": "ayuda",
-		"english": "help"
-	},
-	{
-		"lang": "historia",
-		"english": "story"
-	},
-	{
-		"lang": "iba",
-		"english": "I was going"
-	},
-	{
-		"lang": "supongo",
-		"english": "I suppose"
-	},
-	{
-		"lang": "nueva",
-		"english": "new"
-	},
-	{
-		"lang": "entiendo",
-		"english": "I get it"
-	},
-	{
-		"lang": "dentro",
-		"english": "inside"
-	},
-	{
-		"lang": "casi",
-		"english": "almost"
-	},
-	{
-		"lang": "puerta",
-		"english": "door"
-	},
-	{
-		"lang": "ves",
-		"english": "you see"
-	},
-	{
-		"lang": "pasar",
-		"english": "happen"
-	},
-	{
-		"lang": "primero",
-		"english": "First"
-	},
-	{
-		"lang": "significa",
-		"english": "it means"
-	},
-	{
-		"lang": "semana",
-		"english": "week"
-	},
-	{
-		"lang": "hacia",
-		"english": "toward"
-	},
-	{
-		"lang": "quizás",
-		"english": "maybe"
-	},
-	{
-		"lang": "espero",
-		"english": "wait"
-	},
-	{
-		"lang": "juntos",
-		"english": "together"
-	},
-	{
-		"lang": "año",
-		"english": "year"
-	},
-	{
-		"lang": "niños",
-		"english": "children"
-	},
-	{
-		"lang": "pronto",
-		"english": "early"
-	},
-	{
-		"lang": "tío",
-		"english": "uncle"
-	},
-	{
-		"lang": "suerte",
-		"english": "lucky"
-	},
-	{
-		"lang": "ciudad",
-		"english": "town"
-	},
-	{
-		"lang": "siquiera",
-		"english": "at least"
-	},
-	{
-		"lang": "feliz",
-		"english": "happy"
-	},
-	{
-		"lang": "venir",
-		"english": "come"
-	},
-	{
-		"lang": "hija",
-		"english": "daughter"
-	},
-	{
-		"lang": "gustaría",
-		"english": "would like"
-	},
-	{
-		"lang": "minutos",
-		"english": "minutes"
-	},
-	{
-		"lang": "cuánto",
-		"english": "how much"
-	},
-	{
-		"lang": "os",
-		"english": "you"
-	},
-	{
-		"lang": "hey",
-		"english": "hey"
-	},
-	{
-		"lang": "muerte",
-		"english": "death"
-	},
-	{
-		"lang": "dejar",
-		"english": "let"
-	},
-	{
-		"lang": "realidad",
-		"english": "reality"
-	},
-	{
-		"lang": "deja",
-		"english": "leaves"
-	},
-	{
-		"lang": "problemas",
-		"english": "problems"
-	},
-	{
-		"lang": "vi",
-		"english": "saw"
-	},
-	{
-		"lang": "da",
-		"english": "gives"
-	},
-	{
-		"lang": "importante",
-		"english": "important"
-	},
-	{
-		"lang": "dijiste",
-		"english": "said"
-	},
-	{
-		"lang": "corazón",
-		"english": "heart"
-	},
-	{
-		"lang": "miedo",
-		"english": "afraid"
-	},
-	{
-		"lang": "jefe",
-		"english": "boss"
-	},
-	{
-		"lang": "agua",
-		"english": "Water"
-	},
-	{
-		"lang": "haré",
-		"english": "I will do"
-	},
-	{
-		"lang": "justo",
-		"english": "fair"
-	},
-	{
-		"lang": "horas",
-		"english": "hours"
-	},
-	{
-		"lang": "poder",
-		"english": "can"
-	},
-	{
-		"lang": "buenos",
-		"english": "good"
-	},
-	{
-		"lang": "esposa",
-		"english": "wife"
-	},
-	{
-		"lang": "manos",
-		"english": "hands"
-	},
-	{
-		"lang": "debes",
-		"english": "you should"
-	},
-	{
-		"lang": "viene",
-		"english": "comes"
-	},
-	{
-		"lang": "venga",
-		"english": "come on"
-	},
-	{
-		"lang": "nuestros",
-		"english": "our"
-	},
-	{
-		"lang": "ojos",
-		"english": "eyes"
-	},
-	{
-		"lang": "adelante",
-		"english": "ahead"
-	},
-	{
-		"lang": "encontrar",
-		"english": "meet"
-	},
-	{
-		"lang": "mano",
-		"english": "hand"
-	},
-	{
-		"lang": "cinco",
-		"english": "five"
-	},
-	{
-		"lang": "niño",
-		"english": "kid"
-	},
-	{
-		"lang": "ninguna",
-		"english": "none"
-	},
-	{
-		"lang": "otros",
-		"english": "others"
-	},
-	{
-		"lang": "cara",
-		"english": "face"
-	},
-	{
-		"lang": "cuidado",
-		"english": "careful"
-	},
-	{
-		"lang": "bajo",
-		"english": "under"
-	},
-	{
-		"lang": "cerca",
-		"english": "near"
-	},
-	{
-		"lang": "viejo",
-		"english": "old"
-	},
-	{
-		"lang": "déjame",
-		"english": "let me"
-	},
-	{
-		"lang": "noches",
-		"english": "nights"
-	},
-	{
-		"lang": "bastante",
-		"english": "Quite"
-	},
-	{
-		"lang": "fin",
-		"english": "finish"
-	},
-	{
-		"lang": "tomar",
-		"english": "take"
-	},
-	{
-		"lang": "único",
-		"english": "unique"
-	},
-	{
-		"lang": "misma",
-		"english": "same"
-	},
-	{
-		"lang": "escucha",
-		"english": "listens"
-	},
-	{
-		"lang": "ningún",
-		"english": "any"
-	},
-	{
-		"lang": "suficiente",
-		"english": "enough"
-	},
-	{
-		"lang": "punto",
-		"english": "point"
-	},
-	{
-		"lang": "cuándo",
-		"english": "when"
-	},
-	{
-		"lang": "sigue",
-		"english": "go on"
-	},
-	{
-		"lang": "haya",
-		"english": "is"
-	},
-	{
-		"lang": "equipo",
-		"english": "team"
-	},
-	{
-		"lang": "grande",
-		"english": "big"
-	},
-	{
-		"lang": "necesita",
-		"english": "needs to"
-	},
-	{
-		"lang": "llegar",
-		"english": "to get"
-	},
-	{
-		"lang": "incluso",
-		"english": "even"
-	},
-	{
-		"lang": "algunos",
-		"english": "Some"
-	},
-	{
-		"lang": "doctor",
-		"english": "doctor"
-	},
-	{
-		"lang": "difícil",
-		"english": "hard"
-	},
-	{
-		"lang": "aunque",
-		"english": "even though"
-	},
-	{
-		"lang": "hubiera",
-		"english": "had"
-	},
-	{
-		"lang": "primer",
-		"english": "first"
-	},
-	{
-		"lang": "coche",
-		"english": "car"
-	},
-	{
-		"lang": "hago",
-		"english": "do"
-	},
-	{
-		"lang": "clase",
-		"english": "class"
-	},
-	{
-		"lang": "cuatro",
-		"english": "four"
-	},
-	{
-		"lang": "mas",
-		"english": "more"
-	},
-	{
-		"lang": "dices",
-		"english": "say"
-	},
-	{
-		"lang": "pequeño",
-		"english": "little"
-	},
-	{
-		"lang": "llama",
-		"english": "call"
-	},
-	{
-		"lang": "toma",
-		"english": "taking"
-	},
-	{
-		"lang": "hiciste",
-		"english": "did"
-	},
-	{
-		"lang": "allá",
-		"english": "there"
-	},
-	{
-		"lang": "última",
-		"english": "last"
-	},
-	{
-		"lang": "arriba",
-		"english": "above"
-	},
-	{
-		"lang": "tierra",
-		"english": "land"
-	},
-	{
-		"lang": "guerra",
-		"english": "war"
-	},
-	{
-		"lang": "pensar",
-		"english": "to think"
-	},
-	{
-		"lang": "pueda",
-		"english": "can"
-	},
-	{
-		"lang": "igual",
-		"english": "same"
-	},
-	{
-		"lang": "loco",
-		"english": "mad"
-	},
-	{
-		"lang": "sangre",
-		"english": "blood"
-	},
-	{
-		"lang": "mujeres",
-		"english": "women"
-	},
-	{
-		"lang": "vuelta",
-		"english": "return"
-	},
-	{
-		"lang": "fui",
-		"english": "I was"
-	},
-	{
-		"lang": "trabajar",
-		"english": "to work"
-	},
-	{
-		"lang": "tenido",
-		"english": "Dyed"
-	},
-	{
-		"lang": "juego",
-		"english": "play"
-	},
-	{
-		"lang": "deberías",
-		"english": "you should"
-	},
-	{
-		"lang": "cuerpo",
-		"english": "body"
-	},
-	{
-		"lang": "e",
-		"english": "and"
-	},
-	{
-		"lang": "algunas",
-		"english": "some"
-	},
-	{
-		"lang": "entrar",
-		"english": "get in"
-	},
-	{
-		"lang": "cree",
-		"english": "cree"
-	},
-	{
-		"lang": "podía",
-		"english": "I could"
-	},
-	{
-		"lang": "debemos",
-		"english": "must"
-	},
-	{
-		"lang": "oportunidad",
-		"english": "chance"
-	},
-	{
-		"lang": "teléfono",
-		"english": "telephone"
-	},
-	{
-		"lang": "necesitamos",
-		"english": "we need"
-	},
-	{
-		"lang": "final",
-		"english": "final"
-	},
-	{
-		"lang": "listo",
-		"english": "clever"
-	},
-	{
-		"lang": "fiesta",
-		"english": "party"
-	},
-	{
-		"lang": "muchos",
-		"english": "Many"
-	},
-	{
-		"lang": "estabas",
-		"english": "you were"
-	},
-	{
-		"lang": "quieren",
-		"english": "they want"
-	},
-	{
-		"lang": "vete",
-		"english": "go away"
-	},
-	{
-		"lang": "auto",
-		"english": "car"
-	},
-	{
-		"lang": "dar",
-		"english": "give"
-	},
-	{
-		"lang": "vivir",
-		"english": "to live"
-	},
-	{
-		"lang": "posible",
-		"english": "possible"
-	},
-	{
-		"lang": "ok",
-		"english": "okay"
-	},
-	{
-		"lang": "hermana",
-		"english": "sister"
-	},
-	{
-		"lang": "número",
-		"english": "number"
-	},
-	{
-		"lang": "meses",
-		"english": "months"
-	},
-	{
-		"lang": "exactamente",
-		"english": "exactly"
-	},
-	{
-		"lang": "culpa",
-		"english": "guilt"
-	},
-	{
-		"lang": "abajo",
-		"english": "under"
-	},
-	{
-		"lang": "escuela",
-		"english": "school"
-	},
-	{
-		"lang": "ido",
-		"english": "gone"
-	},
-	{
-		"lang": "fuerte",
-		"english": "strong"
-	},
-	{
-		"lang": "diciendo",
-		"english": "saying"
-	},
-	{
-		"lang": "habla",
-		"english": "speaks"
-	},
-	{
-		"lang": "esté",
-		"english": "East"
-	},
-	{
-		"lang": "ello",
-		"english": "it"
-	},
-	{
-		"lang": "pregunta",
-		"english": "question"
-	},
-	{
-		"lang": "chicas",
-		"english": "girls"
-	},
-	{
-		"lang": "eran",
-		"english": "they were"
-	},
-	{
-		"lang": "unas",
-		"english": "nails"
-	},
-	{
-		"lang": "pasando",
-		"english": "going"
-	},
-	{
-		"lang": "atrás",
-		"english": "behind"
-	},
-	{
-		"lang": "malo",
-		"english": "bad"
-	},
-	{
-		"lang": "capitán",
-		"english": "captain"
-	},
-	{
-		"lang": "sra.",
-		"english": "Ms."
-	},
-	{
-		"lang": "bebé",
-		"english": "baby"
-	},
-	{
-		"lang": "segundo",
-		"english": "second"
-	},
-	{
-		"lang": "sabemos",
-		"english": "we know"
-	},
-	{
-		"lang": "mayor",
-		"english": "higher"
-	},
-	{
-		"lang": "comida",
-		"english": "meal"
-	},
-	{
-		"lang": "morir",
-		"english": "To die"
-	},
-	{
-		"lang": "conozco",
-		"english": "know"
-	},
-	{
-		"lang": "dame",
-		"english": "give to me"
-	},
-	{
-		"lang": "fácil",
-		"english": "easy"
-	},
-	{
-		"lang": "comer",
-		"english": "eat"
-	},
-	{
-		"lang": "vino",
-		"english": "wine"
-	},
-	{
-		"lang": "lista",
-		"english": "ready"
-	},
-	{
-		"lang": "haga",
-		"english": "make"
-	},
-	{
-		"lang": "necesitas",
-		"english": "you need"
-	},
-	{
-		"lang": "hijos",
-		"english": "children"
-	},
-	{
-		"lang": "probablemente",
-		"english": "probably"
-	},
-	{
-		"lang": "padres",
-		"english": "fathers"
-	},
-	{
-		"lang": "habitación",
-		"english": "bedroom"
-	},
-	{
-		"lang": "creer",
-		"english": "believe"
-	},
-	{
-		"lang": "pensando",
-		"english": "thinking"
-	},
-	{
-		"lang": "fueron",
-		"english": "They were"
-	},
-	{
-		"lang": "dime",
-		"english": "tell me"
-	}
-]
+﻿{
+	"word": [
+		{
+			"lang": "de",
+			"english": "from"
+		},
+		{
+			"lang": "que",
+			"english": "that"
+		},
+		{
+			"lang": "no",
+			"english": "not"
+		},
+		{
+			"lang": "a",
+			"english": "to"
+		},
+		{
+			"lang": "la",
+			"english": "the"
+		},
+		{
+			"lang": "el",
+			"english": "the"
+		},
+		{
+			"lang": "y",
+			"english": "and"
+		},
+		{
+			"lang": "es",
+			"english": "is"
+		},
+		{
+			"lang": "en",
+			"english": "in"
+		},
+		{
+			"lang": "lo",
+			"english": "it"
+		},
+		{
+			"lang": "un",
+			"english": "a"
+		},
+		{
+			"lang": "por",
+			"english": "for"
+		},
+		{
+			"lang": "qué",
+			"english": "that"
+		},
+		{
+			"lang": "me",
+			"english": "I"
+		},
+		{
+			"lang": "una",
+			"english": "a"
+		},
+		{
+			"lang": "los",
+			"english": "the"
+		},
+		{
+			"lang": "se",
+			"english": "I know"
+		},
+		{
+			"lang": "te",
+			"english": "tea"
+		},
+		{
+			"lang": "con",
+			"english": "with"
+		},
+		{
+			"lang": "para",
+			"english": "in order to"
+		},
+		{
+			"lang": "está",
+			"english": "this"
+		},
+		{
+			"lang": "mi",
+			"english": "me"
+		},
+		{
+			"lang": "pero",
+			"english": "but"
+		},
+		{
+			"lang": "sí",
+			"english": "Yes"
+		},
+		{
+			"lang": "si",
+			"english": "Yes"
+		},
+		{
+			"lang": "bien",
+			"english": "all right"
+		},
+		{
+			"lang": "eso",
+			"english": "that"
+		},
+		{
+			"lang": "su",
+			"english": "its"
+		},
+		{
+			"lang": "las",
+			"english": "the"
+		},
+		{
+			"lang": "yo",
+			"english": "I"
+		},
+		{
+			"lang": "del",
+			"english": "of"
+		},
+		{
+			"lang": "como",
+			"english": "What"
+		},
+		{
+			"lang": "aquí",
+			"english": "here"
+		},
+		{
+			"lang": "tu",
+			"english": "you"
+		},
+		{
+			"lang": "al",
+			"english": "to the"
+		},
+		{
+			"lang": "más",
+			"english": "plus"
+		},
+		{
+			"lang": "le",
+			"english": "you"
+		},
+		{
+			"lang": "esto",
+			"english": "this"
+		},
+		{
+			"lang": "todo",
+			"english": "all"
+		},
+		{
+			"lang": "ya",
+			"english": "already"
+		},
+		{
+			"lang": "estoy",
+			"english": "I'm"
+		},
+		{
+			"lang": "ahora",
+			"english": "now"
+		},
+		{
+			"lang": "muy",
+			"english": "very"
+		},
+		{
+			"lang": "ha",
+			"english": "ha"
+		},
+		{
+			"lang": "esta",
+			"english": "is"
+		},
+		{
+			"lang": "así",
+			"english": "So"
+		},
+		{
+			"lang": "vamos",
+			"english": "come on"
+		},
+		{
+			"lang": "algo",
+			"english": "something"
+		},
+		{
+			"lang": "hay",
+			"english": "there are"
+		},
+		{
+			"lang": "bueno",
+			"english": "well"
+		},
+		{
+			"lang": "tengo",
+			"english": "have"
+		},
+		{
+			"lang": "él",
+			"english": "he"
+		},
+		{
+			"lang": "cuando",
+			"english": "when"
+		},
+		{
+			"lang": "estás",
+			"english": "are"
+		},
+		{
+			"lang": "sé",
+			"english": "he"
+		},
+		{
+			"lang": "tú",
+			"english": "your"
+		},
+		{
+			"lang": "nos",
+			"english": "us"
+		},
+		{
+			"lang": "nada",
+			"english": "nothing"
+		},
+		{
+			"lang": "cómo",
+			"english": "as"
+		},
+		{
+			"lang": "este",
+			"english": "East"
+		},
+		{
+			"lang": "o",
+			"english": "or"
+		},
+		{
+			"lang": "he",
+			"english": "I"
+		},
+		{
+			"lang": "ser",
+			"english": "be"
+		},
+		{
+			"lang": "tiene",
+			"english": "It has"
+		},
+		{
+			"lang": "puedo",
+			"english": "may l"
+		},
+		{
+			"lang": "ella",
+			"english": "her"
+		},
+		{
+			"lang": "quiero",
+			"english": "I want"
+		},
+		{
+			"lang": "hacer",
+			"english": "make"
+		},
+		{
+			"lang": "fue",
+			"english": "It was"
+		},
+		{
+			"lang": "gracias",
+			"english": "Thank you"
+		},
+		{
+			"lang": "vez",
+			"english": "time"
+		},
+		{
+			"lang": "era",
+			"english": "it was"
+		},
+		{
+			"lang": "soy",
+			"english": "am"
+		},
+		{
+			"lang": "sólo",
+			"english": "alone"
+		},
+		{
+			"lang": "todos",
+			"english": "everybody"
+		},
+		{
+			"lang": "porque",
+			"english": "because"
+		},
+		{
+			"lang": "son",
+			"english": "They are"
+		},
+		{
+			"lang": "tienes",
+			"english": "you have"
+		},
+		{
+			"lang": "creo",
+			"english": "I think"
+		},
+		{
+			"lang": "voy",
+			"english": "go"
+		},
+		{
+			"lang": "sabes",
+			"english": "you know"
+		},
+		{
+			"lang": "estaba",
+			"english": "was"
+		},
+		{
+			"lang": "puede",
+			"english": "can"
+		},
+		{
+			"lang": "eres",
+			"english": "are"
+		},
+		{
+			"lang": "ese",
+			"english": "that"
+		},
+		{
+			"lang": "usted",
+			"english": "you"
+		},
+		{
+			"lang": "entonces",
+			"english": "then"
+		},
+		{
+			"lang": "hola",
+			"english": "Hello"
+		},
+		{
+			"lang": "solo",
+			"english": "only"
+		},
+		{
+			"lang": "verdad",
+			"english": "truth"
+		},
+		{
+			"lang": "casa",
+			"english": "home"
+		},
+		{
+			"lang": "tan",
+			"english": "so"
+		},
+		{
+			"lang": "quién",
+			"english": "who"
+		},
+		{
+			"lang": "sus",
+			"english": "their"
+		},
+		{
+			"lang": "tiempo",
+			"english": "weather"
+		},
+		{
+			"lang": "dos",
+			"english": "two"
+		},
+		{
+			"lang": "esa",
+			"english": "that"
+		},
+		{
+			"lang": "nunca",
+			"english": "never"
+		},
+		{
+			"lang": "dónde",
+			"english": "where"
+		},
+		{
+			"lang": "va",
+			"english": "he"
+		},
+		{
+			"lang": "oh",
+			"english": "oh"
+		},
+		{
+			"lang": "favor",
+			"english": "favor"
+		},
+		{
+			"lang": "mucho",
+			"english": "a lot"
+		},
+		{
+			"lang": "mí",
+			"english": "my"
+		},
+		{
+			"lang": "quieres",
+			"english": "want"
+		},
+		{
+			"lang": "siento",
+			"english": "I feel"
+		},
+		{
+			"lang": "señor",
+			"english": "Sir"
+		},
+		{
+			"lang": "mejor",
+			"english": "better"
+		},
+		{
+			"lang": "hace",
+			"english": "makes"
+		},
+		{
+			"lang": "has",
+			"english": "you"
+		},
+		{
+			"lang": "decir",
+			"english": "tell"
+		},
+		{
+			"lang": "también",
+			"english": "too"
+		},
+		{
+			"lang": "sobre",
+			"english": "on"
+		},
+		{
+			"lang": "dios",
+			"english": "God"
+		},
+		{
+			"lang": "sin",
+			"english": "without"
+		},
+		{
+			"lang": "tenemos",
+			"english": "we have"
+		},
+		{
+			"lang": "están",
+			"english": "is it so"
+		},
+		{
+			"lang": "ti",
+			"english": "you"
+		},
+		{
+			"lang": "puedes",
+			"english": "you may"
+		},
+		{
+			"lang": "ver",
+			"english": "watch"
+		},
+		{
+			"lang": "hombre",
+			"english": "man"
+		},
+		{
+			"lang": "vida",
+			"english": "life"
+		},
+		{
+			"lang": "alguien",
+			"english": "someone"
+		},
+		{
+			"lang": "cosas",
+			"english": "things"
+		},
+		{
+			"lang": "siempre",
+			"english": "forever"
+		},
+		{
+			"lang": "hasta",
+			"english": "until"
+		},
+		{
+			"lang": "ahí",
+			"english": "there"
+		},
+		{
+			"lang": "ir",
+			"english": "to go"
+		},
+		{
+			"lang": "años",
+			"english": "years"
+		},
+		{
+			"lang": "antes",
+			"english": "before"
+		},
+		{
+			"lang": "estar",
+			"english": "to be"
+		},
+		{
+			"lang": "ni",
+			"english": "neither"
+		},
+		{
+			"lang": "poco",
+			"english": "little"
+		},
+		{
+			"lang": "día",
+			"english": "day"
+		},
+		{
+			"lang": "uno",
+			"english": "one"
+		},
+		{
+			"lang": "noche",
+			"english": "night"
+		},
+		{
+			"lang": "hecho",
+			"english": "done"
+		},
+		{
+			"lang": "mis",
+			"english": "my"
+		},
+		{
+			"lang": "estamos",
+			"english": "we're"
+		},
+		{
+			"lang": "otra",
+			"english": "other"
+		},
+		{
+			"lang": "acuerdo",
+			"english": "agreement"
+		},
+		{
+			"lang": "trabajo",
+			"english": "job"
+		},
+		{
+			"lang": "nosotros",
+			"english": "We"
+		},
+		{
+			"lang": "parece",
+			"english": "It seems"
+		},
+		{
+			"lang": "gente",
+			"english": "people"
+		},
+		{
+			"lang": "sea",
+			"english": "be"
+		},
+		{
+			"lang": "padre",
+			"english": "dad"
+		},
+		{
+			"lang": "mira",
+			"english": "sight"
+		},
+		{
+			"lang": "mismo",
+			"english": "same"
+		},
+		{
+			"lang": "dijo",
+			"english": "He said"
+		},
+		{
+			"lang": "nadie",
+			"english": "nobody"
+		},
+		{
+			"lang": "quiere",
+			"english": "wants"
+		},
+		{
+			"lang": "podría",
+			"english": "might"
+		},
+		{
+			"lang": "hablar",
+			"english": "speak"
+		},
+		{
+			"lang": "vas",
+			"english": "you go"
+		},
+		{
+			"lang": "ellos",
+			"english": "they"
+		},
+		{
+			"lang": "sr.",
+			"english": "Mr."
+		},
+		{
+			"lang": "tal",
+			"english": "such"
+		},
+		{
+			"lang": "pasa",
+			"english": "happens"
+		},
+		{
+			"lang": "fuera",
+			"english": "outside"
+		},
+		{
+			"lang": "después",
+			"english": "after"
+		},
+		{
+			"lang": "han",
+			"english": "they have"
+		},
+		{
+			"lang": "desde",
+			"english": "since"
+		},
+		{
+			"lang": "dinero",
+			"english": "money"
+		},
+		{
+			"lang": "mundo",
+			"english": "world"
+		},
+		{
+			"lang": "claro",
+			"english": "Sure"
+		},
+		{
+			"lang": "momento",
+			"english": "moment"
+		},
+		{
+			"lang": "les",
+			"english": "them"
+		},
+		{
+			"lang": "tener",
+			"english": "have"
+		},
+		{
+			"lang": "estado",
+			"english": "condition"
+		},
+		{
+			"lang": "otro",
+			"english": "other"
+		},
+		{
+			"lang": "había",
+			"english": "there was"
+		},
+		{
+			"lang": "mañana",
+			"english": "morning"
+		},
+		{
+			"lang": "tenía",
+			"english": "I had"
+		},
+		{
+			"lang": "madre",
+			"english": "mother"
+		},
+		{
+			"lang": "vale",
+			"english": "OK"
+		},
+		{
+			"lang": "lugar",
+			"english": "place"
+		},
+		{
+			"lang": "haciendo",
+			"english": "doing"
+		},
+		{
+			"lang": "donde",
+			"english": "where"
+		},
+		{
+			"lang": "seguro",
+			"english": "insurance"
+		},
+		{
+			"lang": "sabe",
+			"english": "knows"
+		},
+		{
+			"lang": "podemos",
+			"english": "we can"
+		},
+		{
+			"lang": "tus",
+			"english": "your"
+		},
+		{
+			"lang": "espera",
+			"english": "waiting"
+		},
+		{
+			"lang": "nuevo",
+			"english": "new"
+		},
+		{
+			"lang": "sido",
+			"english": "been"
+		},
+		{
+			"lang": "cosa",
+			"english": "thing"
+		},
+		{
+			"lang": "hijo",
+			"english": "child"
+		},
+		{
+			"lang": "allí",
+			"english": "there"
+		},
+		{
+			"lang": "menos",
+			"english": "less"
+		},
+		{
+			"lang": "tipo",
+			"english": "kind"
+		},
+		{
+			"lang": "amigo",
+			"english": "friend"
+		},
+		{
+			"lang": "gran",
+			"english": "great"
+		},
+		{
+			"lang": "nuestro",
+			"english": "our"
+		},
+		{
+			"lang": "mujer",
+			"english": "woman"
+		},
+		{
+			"lang": "mamá",
+			"english": "mother"
+		},
+		{
+			"lang": "luego",
+			"english": "later"
+		},
+		{
+			"lang": "papá",
+			"english": "father"
+		},
+		{
+			"lang": "días",
+			"english": "days"
+		},
+		{
+			"lang": "dice",
+			"english": "He says"
+		},
+		{
+			"lang": "hoy",
+			"english": "today"
+		},
+		{
+			"lang": "tres",
+			"english": "three"
+		},
+		{
+			"lang": "buena",
+			"english": "good"
+		},
+		{
+			"lang": "necesito",
+			"english": "needed"
+		},
+		{
+			"lang": "dije",
+			"english": "said"
+		},
+		{
+			"lang": "oye",
+			"english": "hears"
+		},
+		{
+			"lang": "gusta",
+			"english": "like"
+		},
+		{
+			"lang": "quería",
+			"english": "wanted"
+		},
+		{
+			"lang": "será",
+			"english": "will be"
+		},
+		{
+			"lang": "haber",
+			"english": "to have"
+		},
+		{
+			"lang": "parte",
+			"english": "part"
+		},
+		{
+			"lang": "todas",
+			"english": "all"
+		},
+		{
+			"lang": "crees",
+			"english": "think"
+		},
+		{
+			"lang": "buen",
+			"english": "good"
+		},
+		{
+			"lang": "conmigo",
+			"english": "with me"
+		},
+		{
+			"lang": "nombre",
+			"english": "Name"
+		},
+		{
+			"lang": "mierda",
+			"english": "shit"
+		},
+		{
+			"lang": "nuestra",
+			"english": "our"
+		},
+		{
+			"lang": "mal",
+			"english": "wrong"
+		},
+		{
+			"lang": "debe",
+			"english": "has to"
+		},
+		{
+			"lang": "realmente",
+			"english": "Really"
+		},
+		{
+			"lang": "estas",
+			"english": "these"
+		},
+		{
+			"lang": "aún",
+			"english": "still"
+		},
+		{
+			"lang": "mío",
+			"english": "Own"
+		},
+		{
+			"lang": "toda",
+			"english": "all"
+		},
+		{
+			"lang": "hacerlo",
+			"english": "do it"
+		},
+		{
+			"lang": "cada",
+			"english": "each"
+		},
+		{
+			"lang": "visto",
+			"english": "viewed"
+		},
+		{
+			"lang": "importa",
+			"english": "matters"
+		},
+		{
+			"lang": "contigo",
+			"english": "with you"
+		},
+		{
+			"lang": "tienen",
+			"english": "have"
+		},
+		{
+			"lang": "hemos",
+			"english": "we have"
+		},
+		{
+			"lang": "razón",
+			"english": "reason"
+		},
+		{
+			"lang": "alguna",
+			"english": "some"
+		},
+		{
+			"lang": "tanto",
+			"english": "so much"
+		},
+		{
+			"lang": "saber",
+			"english": "to know"
+		},
+		{
+			"lang": "hizo",
+			"english": "made"
+		},
+		{
+			"lang": "veces",
+			"english": "times"
+		},
+		{
+			"lang": "serio",
+			"english": "I laughed"
+		},
+		{
+			"lang": "ven",
+			"english": "come"
+		},
+		{
+			"lang": "idea",
+			"english": "idea"
+		},
+		{
+			"lang": "eh",
+			"english": "Hey"
+		},
+		{
+			"lang": "tarde",
+			"english": "late"
+		},
+		{
+			"lang": "problema",
+			"english": "issue"
+		},
+		{
+			"lang": "hora",
+			"english": "hour"
+		},
+		{
+			"lang": "cierto",
+			"english": "certain"
+		},
+		{
+			"lang": "dicho",
+			"english": "saying"
+		},
+		{
+			"lang": "quien",
+			"english": "who"
+		},
+		{
+			"lang": "demasiado",
+			"english": "too"
+		},
+		{
+			"lang": "amor",
+			"english": "love"
+		},
+		{
+			"lang": "entre",
+			"english": "Come in"
+		},
+		{
+			"lang": "ve",
+			"english": "go"
+		},
+		{
+			"lang": "pasado",
+			"english": "last"
+		},
+		{
+			"lang": "familia",
+			"english": "family"
+		},
+		{
+			"lang": "estos",
+			"english": "these"
+		},
+		{
+			"lang": "policía",
+			"english": "policeman"
+		},
+		{
+			"lang": "debería",
+			"english": "it should"
+		},
+		{
+			"lang": "ustedes",
+			"english": "you guys"
+		},
+		{
+			"lang": "chica",
+			"english": "girl"
+		},
+		{
+			"lang": "esos",
+			"english": "those"
+		},
+		{
+			"lang": "chicos",
+			"english": "Boys"
+		},
+		{
+			"lang": "cuenta",
+			"english": "bill"
+		},
+		{
+			"lang": "haces",
+			"english": "you do"
+		},
+		{
+			"lang": "todavía",
+			"english": "yet"
+		},
+		{
+			"lang": "salir",
+			"english": "get out"
+		},
+		{
+			"lang": "algún",
+			"english": "some"
+		},
+		{
+			"lang": "vaya",
+			"english": "Wow"
+		},
+		{
+			"lang": "unos",
+			"english": "some"
+		},
+		{
+			"lang": "veo",
+			"english": "I see"
+		},
+		{
+			"lang": "amigos",
+			"english": "friends"
+		},
+		{
+			"lang": "hermano",
+			"english": "brother"
+		},
+		{
+			"lang": "pensé",
+			"english": "I thought"
+		},
+		{
+			"lang": "sabía",
+			"english": "I knew"
+		},
+		{
+			"lang": "cabeza",
+			"english": "head"
+		},
+		{
+			"lang": "ah",
+			"english": "ah"
+		},
+		{
+			"lang": "cariño",
+			"english": "Dear"
+		},
+		{
+			"lang": "digo",
+			"english": "say"
+		},
+		{
+			"lang": "van",
+			"english": "go"
+		},
+		{
+			"lang": "hombres",
+			"english": "mens"
+		},
+		{
+			"lang": "buenas",
+			"english": "good"
+		},
+		{
+			"lang": "somos",
+			"english": "are"
+		},
+		{
+			"lang": "cualquier",
+			"english": "any"
+		},
+		{
+			"lang": "forma",
+			"english": "form"
+		},
+		{
+			"lang": "mientras",
+			"english": "While"
+		},
+		{
+			"lang": "lado",
+			"english": "side"
+		},
+		{
+			"lang": "debo",
+			"english": "I shall"
+		},
+		{
+			"lang": "sería",
+			"english": "would"
+		},
+		{
+			"lang": "caso",
+			"english": "case"
+		},
+		{
+			"lang": "pueden",
+			"english": "they can"
+		},
+		{
+			"lang": "pasó",
+			"english": "I pass"
+		},
+		{
+			"lang": "primera",
+			"english": "first"
+		},
+		{
+			"lang": "genial",
+			"english": "brilliant"
+		},
+		{
+			"lang": "chico",
+			"english": "guy"
+		},
+		{
+			"lang": "supuesto",
+			"english": "supposed"
+		},
+		{
+			"lang": "hice",
+			"english": "I made"
+		},
+		{
+			"lang": "pues",
+			"english": "well"
+		},
+		{
+			"lang": "adiós",
+			"english": "goodbye"
+		},
+		{
+			"lang": "muchas",
+			"english": "many"
+		},
+		{
+			"lang": "personas",
+			"english": "persons"
+		},
+		{
+			"lang": "señora",
+			"english": "Lady"
+		},
+		{
+			"lang": "volver",
+			"english": "return"
+		},
+		{
+			"lang": "esas",
+			"english": "those"
+		},
+		{
+			"lang": "quizá",
+			"english": "maybe"
+		},
+		{
+			"lang": "contra",
+			"english": "against"
+		},
+		{
+			"lang": "camino",
+			"english": "road"
+		},
+		{
+			"lang": "durante",
+			"english": "during"
+		},
+		{
+			"lang": "hablando",
+			"english": "speaking"
+		},
+		{
+			"lang": "manera",
+			"english": "way"
+		},
+		{
+			"lang": "muerto",
+			"english": "dead"
+		},
+		{
+			"lang": "persona",
+			"english": "person"
+		},
+		{
+			"lang": "rápido",
+			"english": "Quick"
+		},
+		{
+			"lang": "cuál",
+			"english": "which"
+		},
+		{
+			"lang": "ayuda",
+			"english": "help"
+		},
+		{
+			"lang": "historia",
+			"english": "story"
+		},
+		{
+			"lang": "iba",
+			"english": "I was going"
+		},
+		{
+			"lang": "supongo",
+			"english": "I suppose"
+		},
+		{
+			"lang": "nueva",
+			"english": "new"
+		},
+		{
+			"lang": "entiendo",
+			"english": "I get it"
+		},
+		{
+			"lang": "dentro",
+			"english": "inside"
+		},
+		{
+			"lang": "casi",
+			"english": "almost"
+		},
+		{
+			"lang": "puerta",
+			"english": "door"
+		},
+		{
+			"lang": "ves",
+			"english": "you see"
+		},
+		{
+			"lang": "pasar",
+			"english": "happen"
+		},
+		{
+			"lang": "primero",
+			"english": "First"
+		},
+		{
+			"lang": "significa",
+			"english": "it means"
+		},
+		{
+			"lang": "semana",
+			"english": "week"
+		},
+		{
+			"lang": "hacia",
+			"english": "toward"
+		},
+		{
+			"lang": "quizás",
+			"english": "maybe"
+		},
+		{
+			"lang": "espero",
+			"english": "wait"
+		},
+		{
+			"lang": "juntos",
+			"english": "together"
+		},
+		{
+			"lang": "año",
+			"english": "year"
+		},
+		{
+			"lang": "niños",
+			"english": "children"
+		},
+		{
+			"lang": "pronto",
+			"english": "early"
+		},
+		{
+			"lang": "tío",
+			"english": "uncle"
+		},
+		{
+			"lang": "suerte",
+			"english": "lucky"
+		},
+		{
+			"lang": "ciudad",
+			"english": "town"
+		},
+		{
+			"lang": "siquiera",
+			"english": "at least"
+		},
+		{
+			"lang": "feliz",
+			"english": "happy"
+		},
+		{
+			"lang": "venir",
+			"english": "come"
+		},
+		{
+			"lang": "hija",
+			"english": "daughter"
+		},
+		{
+			"lang": "gustaría",
+			"english": "would like"
+		},
+		{
+			"lang": "minutos",
+			"english": "minutes"
+		},
+		{
+			"lang": "cuánto",
+			"english": "how much"
+		},
+		{
+			"lang": "os",
+			"english": "you"
+		},
+		{
+			"lang": "hey",
+			"english": "hey"
+		},
+		{
+			"lang": "muerte",
+			"english": "death"
+		},
+		{
+			"lang": "dejar",
+			"english": "let"
+		},
+		{
+			"lang": "realidad",
+			"english": "reality"
+		},
+		{
+			"lang": "deja",
+			"english": "leaves"
+		},
+		{
+			"lang": "problemas",
+			"english": "problems"
+		},
+		{
+			"lang": "vi",
+			"english": "saw"
+		},
+		{
+			"lang": "da",
+			"english": "gives"
+		},
+		{
+			"lang": "importante",
+			"english": "important"
+		},
+		{
+			"lang": "dijiste",
+			"english": "said"
+		},
+		{
+			"lang": "corazón",
+			"english": "heart"
+		},
+		{
+			"lang": "miedo",
+			"english": "afraid"
+		},
+		{
+			"lang": "jefe",
+			"english": "boss"
+		},
+		{
+			"lang": "agua",
+			"english": "Water"
+		},
+		{
+			"lang": "haré",
+			"english": "I will do"
+		},
+		{
+			"lang": "justo",
+			"english": "fair"
+		},
+		{
+			"lang": "horas",
+			"english": "hours"
+		},
+		{
+			"lang": "poder",
+			"english": "can"
+		},
+		{
+			"lang": "buenos",
+			"english": "good"
+		},
+		{
+			"lang": "esposa",
+			"english": "wife"
+		},
+		{
+			"lang": "manos",
+			"english": "hands"
+		},
+		{
+			"lang": "debes",
+			"english": "you should"
+		},
+		{
+			"lang": "viene",
+			"english": "comes"
+		},
+		{
+			"lang": "venga",
+			"english": "come on"
+		},
+		{
+			"lang": "nuestros",
+			"english": "our"
+		},
+		{
+			"lang": "ojos",
+			"english": "eyes"
+		},
+		{
+			"lang": "adelante",
+			"english": "ahead"
+		},
+		{
+			"lang": "encontrar",
+			"english": "meet"
+		},
+		{
+			"lang": "mano",
+			"english": "hand"
+		},
+		{
+			"lang": "cinco",
+			"english": "five"
+		},
+		{
+			"lang": "niño",
+			"english": "kid"
+		},
+		{
+			"lang": "ninguna",
+			"english": "none"
+		},
+		{
+			"lang": "otros",
+			"english": "others"
+		},
+		{
+			"lang": "cara",
+			"english": "face"
+		},
+		{
+			"lang": "cuidado",
+			"english": "careful"
+		},
+		{
+			"lang": "bajo",
+			"english": "under"
+		},
+		{
+			"lang": "cerca",
+			"english": "near"
+		},
+		{
+			"lang": "viejo",
+			"english": "old"
+		},
+		{
+			"lang": "déjame",
+			"english": "let me"
+		},
+		{
+			"lang": "noches",
+			"english": "nights"
+		},
+		{
+			"lang": "bastante",
+			"english": "Quite"
+		},
+		{
+			"lang": "fin",
+			"english": "finish"
+		},
+		{
+			"lang": "tomar",
+			"english": "take"
+		},
+		{
+			"lang": "único",
+			"english": "unique"
+		},
+		{
+			"lang": "misma",
+			"english": "same"
+		},
+		{
+			"lang": "escucha",
+			"english": "listens"
+		},
+		{
+			"lang": "ningún",
+			"english": "any"
+		},
+		{
+			"lang": "suficiente",
+			"english": "enough"
+		},
+		{
+			"lang": "punto",
+			"english": "point"
+		},
+		{
+			"lang": "cuándo",
+			"english": "when"
+		},
+		{
+			"lang": "sigue",
+			"english": "go on"
+		},
+		{
+			"lang": "haya",
+			"english": "is"
+		},
+		{
+			"lang": "equipo",
+			"english": "team"
+		},
+		{
+			"lang": "grande",
+			"english": "big"
+		},
+		{
+			"lang": "necesita",
+			"english": "needs to"
+		},
+		{
+			"lang": "llegar",
+			"english": "to get"
+		},
+		{
+			"lang": "incluso",
+			"english": "even"
+		},
+		{
+			"lang": "algunos",
+			"english": "Some"
+		},
+		{
+			"lang": "doctor",
+			"english": "doctor"
+		},
+		{
+			"lang": "difícil",
+			"english": "hard"
+		},
+		{
+			"lang": "aunque",
+			"english": "even though"
+		},
+		{
+			"lang": "hubiera",
+			"english": "had"
+		},
+		{
+			"lang": "primer",
+			"english": "first"
+		},
+		{
+			"lang": "coche",
+			"english": "car"
+		},
+		{
+			"lang": "hago",
+			"english": "do"
+		},
+		{
+			"lang": "clase",
+			"english": "class"
+		},
+		{
+			"lang": "cuatro",
+			"english": "four"
+		},
+		{
+			"lang": "mas",
+			"english": "more"
+		},
+		{
+			"lang": "dices",
+			"english": "say"
+		},
+		{
+			"lang": "pequeño",
+			"english": "little"
+		},
+		{
+			"lang": "llama",
+			"english": "call"
+		},
+		{
+			"lang": "toma",
+			"english": "taking"
+		},
+		{
+			"lang": "hiciste",
+			"english": "did"
+		},
+		{
+			"lang": "allá",
+			"english": "there"
+		},
+		{
+			"lang": "última",
+			"english": "last"
+		},
+		{
+			"lang": "arriba",
+			"english": "above"
+		},
+		{
+			"lang": "tierra",
+			"english": "land"
+		},
+		{
+			"lang": "guerra",
+			"english": "war"
+		},
+		{
+			"lang": "pensar",
+			"english": "to think"
+		},
+		{
+			"lang": "pueda",
+			"english": "can"
+		},
+		{
+			"lang": "igual",
+			"english": "same"
+		},
+		{
+			"lang": "loco",
+			"english": "mad"
+		},
+		{
+			"lang": "sangre",
+			"english": "blood"
+		},
+		{
+			"lang": "mujeres",
+			"english": "women"
+		},
+		{
+			"lang": "vuelta",
+			"english": "return"
+		},
+		{
+			"lang": "fui",
+			"english": "I was"
+		},
+		{
+			"lang": "trabajar",
+			"english": "to work"
+		},
+		{
+			"lang": "tenido",
+			"english": "Dyed"
+		},
+		{
+			"lang": "juego",
+			"english": "play"
+		},
+		{
+			"lang": "deberías",
+			"english": "you should"
+		},
+		{
+			"lang": "cuerpo",
+			"english": "body"
+		},
+		{
+			"lang": "e",
+			"english": "and"
+		},
+		{
+			"lang": "algunas",
+			"english": "some"
+		},
+		{
+			"lang": "entrar",
+			"english": "get in"
+		},
+		{
+			"lang": "cree",
+			"english": "cree"
+		},
+		{
+			"lang": "podía",
+			"english": "I could"
+		},
+		{
+			"lang": "debemos",
+			"english": "must"
+		},
+		{
+			"lang": "oportunidad",
+			"english": "chance"
+		},
+		{
+			"lang": "teléfono",
+			"english": "telephone"
+		},
+		{
+			"lang": "necesitamos",
+			"english": "we need"
+		},
+		{
+			"lang": "final",
+			"english": "final"
+		},
+		{
+			"lang": "listo",
+			"english": "clever"
+		},
+		{
+			"lang": "fiesta",
+			"english": "party"
+		},
+		{
+			"lang": "muchos",
+			"english": "Many"
+		},
+		{
+			"lang": "estabas",
+			"english": "you were"
+		},
+		{
+			"lang": "quieren",
+			"english": "they want"
+		},
+		{
+			"lang": "vete",
+			"english": "go away"
+		},
+		{
+			"lang": "auto",
+			"english": "car"
+		},
+		{
+			"lang": "dar",
+			"english": "give"
+		},
+		{
+			"lang": "vivir",
+			"english": "to live"
+		},
+		{
+			"lang": "posible",
+			"english": "possible"
+		},
+		{
+			"lang": "ok",
+			"english": "okay"
+		},
+		{
+			"lang": "hermana",
+			"english": "sister"
+		},
+		{
+			"lang": "número",
+			"english": "number"
+		},
+		{
+			"lang": "meses",
+			"english": "months"
+		},
+		{
+			"lang": "exactamente",
+			"english": "exactly"
+		},
+		{
+			"lang": "culpa",
+			"english": "guilt"
+		},
+		{
+			"lang": "abajo",
+			"english": "under"
+		},
+		{
+			"lang": "escuela",
+			"english": "school"
+		},
+		{
+			"lang": "ido",
+			"english": "gone"
+		},
+		{
+			"lang": "fuerte",
+			"english": "strong"
+		},
+		{
+			"lang": "diciendo",
+			"english": "saying"
+		},
+		{
+			"lang": "habla",
+			"english": "speaks"
+		},
+		{
+			"lang": "esté",
+			"english": "East"
+		},
+		{
+			"lang": "ello",
+			"english": "it"
+		},
+		{
+			"lang": "pregunta",
+			"english": "question"
+		},
+		{
+			"lang": "chicas",
+			"english": "girls"
+		},
+		{
+			"lang": "eran",
+			"english": "they were"
+		},
+		{
+			"lang": "unas",
+			"english": "nails"
+		},
+		{
+			"lang": "pasando",
+			"english": "going"
+		},
+		{
+			"lang": "atrás",
+			"english": "behind"
+		},
+		{
+			"lang": "malo",
+			"english": "bad"
+		},
+		{
+			"lang": "capitán",
+			"english": "captain"
+		},
+		{
+			"lang": "sra.",
+			"english": "Ms."
+		},
+		{
+			"lang": "bebé",
+			"english": "baby"
+		},
+		{
+			"lang": "segundo",
+			"english": "second"
+		},
+		{
+			"lang": "sabemos",
+			"english": "we know"
+		},
+		{
+			"lang": "mayor",
+			"english": "higher"
+		},
+		{
+			"lang": "comida",
+			"english": "meal"
+		},
+		{
+			"lang": "morir",
+			"english": "To die"
+		},
+		{
+			"lang": "conozco",
+			"english": "know"
+		},
+		{
+			"lang": "dame",
+			"english": "give to me"
+		},
+		{
+			"lang": "fácil",
+			"english": "easy"
+		},
+		{
+			"lang": "comer",
+			"english": "eat"
+		},
+		{
+			"lang": "vino",
+			"english": "wine"
+		},
+		{
+			"lang": "lista",
+			"english": "ready"
+		},
+		{
+			"lang": "haga",
+			"english": "make"
+		},
+		{
+			"lang": "necesitas",
+			"english": "you need"
+		},
+		{
+			"lang": "hijos",
+			"english": "children"
+		},
+		{
+			"lang": "probablemente",
+			"english": "probably"
+		},
+		{
+			"lang": "padres",
+			"english": "fathers"
+		},
+		{
+			"lang": "habitación",
+			"english": "bedroom"
+		},
+		{
+			"lang": "creer",
+			"english": "believe"
+		},
+		{
+			"lang": "pensando",
+			"english": "thinking"
+		},
+		{
+			"lang": "fueron",
+			"english": "They were"
+		},
+		{
+			"lang": "dime",
+			"english": "tell me"
+		}
+	]
+}

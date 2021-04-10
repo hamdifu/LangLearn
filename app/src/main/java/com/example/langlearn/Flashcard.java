@@ -24,15 +24,18 @@ import java.util.Collections;
 public class Flashcard extends AppCompatActivity {
     ArrayList<JSONObject> data= new ArrayList<>();
     TextView lang;
+    TextView eng,score;
     int index =0;
     Button testButton;
     boolean x=true;
+    String language;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_flashcard);
         Bundle b = getIntent().getExtras();
-        String file = b.getString("file");
+        language = b.getString("file");
+        String file = language + ".json";
         try {
             JSONObject json = new JSONObject(JSONDataFromAssets(file));
             JSONArray jsonArray = json.getJSONArray("word");
@@ -45,13 +48,15 @@ public class Flashcard extends AppCompatActivity {
             e.printStackTrace();
         }
         lang = findViewById(R.id.word);
+        score = findViewById(R.id.score);
         testButton = (Button) findViewById(R.id.button);
+        eng = findViewById(R.id.lang);
         setData();
-
     }
 
     public void setData(){
         try {
+            eng.setText(language);
             lang.setText(data.get(index).getString("lang"));
         } catch (JSONException e) {
             e.printStackTrace();
@@ -86,18 +91,23 @@ public class Flashcard extends AppCompatActivity {
 
     public void flip(View view) {
         try {
-            if (x) {
-                lang.setText(data.get(index).getString("english"));
-                index++;
-                x=!x;
-                testButton.setText("Next word");
+            if(index<500) {
+                if (x) {
+                    lang.setText(data.get(index).getString("english"));
+                    eng.setText("English");
+                    index++;
+                    x = !x;
+                    testButton.setText("Next word");
+                } else {
+                    setData();
+                    testButton.setText("Flip card");
+                    int sc = index+1;
+                    score.setText(sc+"/500");
+                    x = !x;
+                }
             }
-            else{
-                setData();
-                testButton.setText("Flip card");
-                x=!x;
-            }
-        } catch (JSONException e) {
+        }
+        catch (JSONException e) {
             e.printStackTrace();
         }
 

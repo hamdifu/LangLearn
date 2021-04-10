@@ -61,6 +61,7 @@
             android:textSize="20dp"/>
 
         <TextView
+            android:id="@+id/score"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="1/500"
@@ -71,15 +72,17 @@
             android:textSize="20dp"/>
 
         <TextView
+            android:id="@+id/lang"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_marginHorizontal="20dp"
-            android:layout_marginTop="200dp"
+            android:layout_marginTop="170dp"
             android:fontFamily="sans-serif-condensed-medium"
-            android:text="KOREAN"
+            android:text="korean"
             android:textColor="#eee"
-            android:textSize="35dp"
+            android:textAllCaps="true"
+            android:textSize="45dp"
             android:textStyle="bold" />
 
         <TextView
@@ -92,7 +95,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="260dp"
             android:fontFamily="sans-serif-condensed-medium"
-            android:textSize="25dp"/>
+            android:textSize="35dp"/>
 
     </RelativeLayout>
 

@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 
 import com.google.firebase.auth.FirebaseAuth;
 
@@ -23,11 +24,12 @@ import java.util.Scanner;
 
 public class LangSelect extends AppCompatActivity {
 
-
+    Button lang;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lang_select);
+        lang = findViewById(R.id.button);
     }
 
     public void logout(View view) {
@@ -37,8 +39,9 @@ public class LangSelect extends AppCompatActivity {
 
 
     public void send_data(View view) {
+        String file = view.getTag().toString();
         Intent intent = new Intent(getApplicationContext(),Flashcard.class);
-        intent.putExtra("file","korean.json");
+        intent.putExtra("file",file);
         startActivity(intent);
     }
     public void back(View view) {

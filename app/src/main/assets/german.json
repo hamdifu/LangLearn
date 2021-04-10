@@ -1,2002 +1,2004 @@
-﻿[
-	{
-		"lang": "ich",
-		"english": "I"
-	},
-	{
-		"lang": "sie",
-		"english": "they"
-	},
-	{
-		"lang": "das",
-		"english": "the"
-	},
-	{
-		"lang": "ist",
-		"english": "is"
-	},
-	{
-		"lang": "du",
-		"english": "you"
-	},
-	{
-		"lang": "nicht",
-		"english": "Not"
-	},
-	{
-		"lang": "die",
-		"english": "the"
-	},
-	{
-		"lang": "es",
-		"english": "it"
-	},
-	{
-		"lang": "und",
-		"english": "and"
-	},
-	{
-		"lang": "der",
-		"english": "of the"
-	},
-	{
-		"lang": "wir",
-		"english": "we"
-	},
-	{
-		"lang": "was",
-		"english": "What"
-	},
-	{
-		"lang": "zu",
-		"english": "to"
-	},
-	{
-		"lang": "er",
-		"english": "he"
-	},
-	{
-		"lang": "ein",
-		"english": "a"
-	},
-	{
-		"lang": "in",
-		"english": "in"
-	},
-	{
-		"lang": "ja",
-		"english": "Yes"
-	},
-	{
-		"lang": "mir",
-		"english": "me"
-	},
-	{
-		"lang": "mit",
-		"english": "With"
-	},
-	{
-		"lang": "wie",
-		"english": "how"
-	},
-	{
-		"lang": "den",
-		"english": "the"
-	},
-	{
-		"lang": "mich",
-		"english": "me"
-	},
-	{
-		"lang": "auf",
-		"english": "on"
-	},
-	{
-		"lang": "dass",
-		"english": "that"
-	},
-	{
-		"lang": "aber",
-		"english": "but"
-	},
-	{
-		"lang": "eine",
-		"english": "a"
-	},
-	{
-		"lang": "so",
-		"english": "so"
-	},
-	{
-		"lang": "hat",
-		"english": "Has"
-	},
-	{
-		"lang": "hier",
-		"english": "here"
-	},
-	{
-		"lang": "haben",
-		"english": "to have"
-	},
-	{
-		"lang": "für",
-		"english": "For"
-	},
-	{
-		"lang": "sind",
-		"english": "are"
-	},
-	{
-		"lang": "war",
-		"english": "was"
-	},
-	{
-		"lang": "von",
-		"english": "of"
-	},
-	{
-		"lang": "wenn",
-		"english": "if"
-	},
-	{
-		"lang": "dich",
-		"english": "you"
-	},
-	{
-		"lang": "ihr",
-		"english": "you"
-	},
-	{
-		"lang": "nein",
-		"english": "No"
-	},
-	{
-		"lang": "habe",
-		"english": "have"
-	},
-	{
-		"lang": "an",
-		"english": "on"
-	},
-	{
-		"lang": "bin",
-		"english": "am"
-	},
-	{
-		"lang": "noch",
-		"english": "yet"
-	},
-	{
-		"lang": "nur",
-		"english": "just"
-	},
-	{
-		"lang": "da",
-		"english": "there"
-	},
-	{
-		"lang": "dir",
-		"english": "to you"
-	},
-	{
-		"lang": "sich",
-		"english": "yourself"
-	},
-	{
-		"lang": "einen",
-		"english": "one"
-	},
-	{
-		"lang": "uns",
-		"english": "us"
-	},
-	{
-		"lang": "hast",
-		"english": "have"
-	},
-	{
-		"lang": "dem",
-		"english": "the"
-	},
-	{
-		"lang": "kann",
-		"english": "can"
-	},
-	{
-		"lang": "gut",
-		"english": "Well"
-	},
-	{
-		"lang": "auch",
-		"english": "also"
-	},
-	{
-		"lang": "schon",
-		"english": "beautiful"
-	},
-	{
-		"lang": "als",
-		"english": "when"
-	},
-	{
-		"lang": "sein",
-		"english": "be"
-	},
-	{
-		"lang": "mal",
-		"english": "times"
-	},
-	{
-		"lang": "jetzt",
-		"english": "now"
-	},
-	{
-		"lang": "ihn",
-		"english": "him"
-	},
-	{
-		"lang": "dann",
-		"english": "then"
-	},
-	{
-		"lang": "aus",
-		"english": "out"
-	},
-	{
-		"lang": "meine",
-		"english": "my"
-	},
-	{
-		"lang": "um",
-		"english": "around"
-	},
-	{
-		"lang": "im",
-		"english": "in the"
-	},
-	{
-		"lang": "wird",
-		"english": "becomes"
-	},
-	{
-		"lang": "mein",
-		"english": "my"
-	},
-	{
-		"lang": "bist",
-		"english": "are"
-	},
-	{
-		"lang": "doch",
-		"english": "but"
-	},
-	{
-		"lang": "alles",
-		"english": "everything"
-	},
-	{
-		"lang": "weiß",
-		"english": "White"
-	},
-	{
-		"lang": "keine",
-		"english": "no"
-	},
-	{
-		"lang": "oder",
-		"english": "or"
-	},
-	{
-		"lang": "nach",
-		"english": "to"
-	},
-	{
-		"lang": "s",
-		"english": "s"
-	},
-	{
-		"lang": "nichts",
-		"english": "Nothing"
-	},
-	{
-		"lang": "man",
-		"english": "you"
-	},
-	{
-		"lang": "muss",
-		"english": "got to"
-	},
-	{
-		"lang": "werden",
-		"english": "will"
-	},
-	{
-		"lang": "will",
-		"english": "want"
-	},
-	{
-		"lang": "ihnen",
-		"english": "them"
-	},
-	{
-		"lang": "geht",
-		"english": "going"
-	},
-	{
-		"lang": "wo",
-		"english": "Where"
-	},
-	{
-		"lang": "etwas",
-		"english": "something"
-	},
-	{
-		"lang": "oh",
-		"english": "Oh"
-	},
-	{
-		"lang": "mehr",
-		"english": "more"
-	},
-	{
-		"lang": "bei",
-		"english": "at"
-	},
-	{
-		"lang": "also",
-		"english": "so"
-	},
-	{
-		"lang": "bitte",
-		"english": "You're welcome"
-	},
-	{
-		"lang": "immer",
-		"english": "always"
-	},
-	{
-		"lang": "hab",
-		"english": "hab"
-	},
-	{
-		"lang": "warum",
-		"english": "Why"
-	},
-	{
-		"lang": "vor",
-		"english": "in front"
-	},
-	{
-		"lang": "los",
-		"english": "Come on"
-	},
-	{
-		"lang": "können",
-		"english": "can"
-	},
-	{
-		"lang": "wieder",
-		"english": "again"
-	},
-	{
-		"lang": "sagen",
-		"english": "say"
-	},
-	{
-		"lang": "machen",
-		"english": "do"
-	},
-	{
-		"lang": "danke",
-		"english": "Thank you"
-	},
-	{
-		"lang": "sehr",
-		"english": "very"
-	},
-	{
-		"lang": "alle",
-		"english": "all"
-	},
-	{
-		"lang": "denn",
-		"english": "because"
-	},
-	{
-		"lang": "mann",
-		"english": "man"
-	},
-	{
-		"lang": "tun",
-		"english": "to do"
-	},
-	{
-		"lang": "ihm",
-		"english": "him"
-	},
-	{
-		"lang": "zum",
-		"english": "to the"
-	},
-	{
-		"lang": "gehen",
-		"english": "go"
-	},
-	{
-		"lang": "sehen",
-		"english": "see"
-	},
-	{
-		"lang": "vielleicht",
-		"english": "maybe"
-	},
-	{
-		"lang": "einem",
-		"english": "one"
-	},
-	{
-		"lang": "wer",
-		"english": "who"
-	},
-	{
-		"lang": "ihre",
-		"english": "your"
-	},
-	{
-		"lang": "diese",
-		"english": "these"
-	},
-	{
-		"lang": "euch",
-		"english": "to you"
-	},
-	{
-		"lang": "einer",
-		"english": "one"
-	},
-	{
-		"lang": "komm",
-		"english": "come over"
-	},
-	{
-		"lang": "über",
-		"english": "above"
-	},
-	{
-		"lang": "gibt",
-		"english": "gives"
-	},
-	{
-		"lang": "okay",
-		"english": "OK"
-	},
-	{
-		"lang": "wissen",
-		"english": "knowledge"
-	},
-	{
-		"lang": "deine",
-		"english": "yours"
-	},
-	{
-		"lang": "müssen",
-		"english": "have to"
-	},
-	{
-		"lang": "soll",
-		"english": "should"
-	},
-	{
-		"lang": "werde",
-		"english": "will"
-	},
-	{
-		"lang": "nie",
-		"english": "never"
-	},
-	{
-		"lang": "wirklich",
-		"english": "really"
-	},
-	{
-		"lang": "hey",
-		"english": "hey"
-	},
-	{
-		"lang": "kein",
-		"english": "no"
-	},
-	{
-		"lang": "viel",
-		"english": "much"
-	},
-	{
-		"lang": "weg",
-		"english": "path"
-	},
-	{
-		"lang": "würde",
-		"english": "would"
-	},
-	{
-		"lang": "tut",
-		"english": "does"
-	},
-	{
-		"lang": "am",
-		"english": "at the"
-	},
-	{
-		"lang": "des",
-		"english": "of"
-	},
-	{
-		"lang": "einfach",
-		"english": "easy"
-	},
-	{
-		"lang": "leben",
-		"english": "Life"
-	},
-	{
-		"lang": "hatte",
-		"english": "would have"
-	},
-	{
-		"lang": "zeit",
-		"english": "time"
-	},
-	{
-		"lang": "weil",
-		"english": "because"
-	},
-	{
-		"lang": "willst",
-		"english": "want"
-	},
-	{
-		"lang": "kommen",
-		"english": "come"
-	},
-	{
-		"lang": "dein",
-		"english": "your"
-	},
-	{
-		"lang": "heute",
-		"english": "today"
-	},
-	{
-		"lang": "kommt",
-		"english": "coming"
-	},
-	{
-		"lang": "wollen",
-		"english": "want"
-	},
-	{
-		"lang": "damit",
-		"english": "in order to"
-	},
-	{
-		"lang": "ganz",
-		"english": "all"
-	},
-	{
-		"lang": "wäre",
-		"english": "would"
-	},
-	{
-		"lang": "wollte",
-		"english": "wanted"
-	},
-	{
-		"lang": "weißt",
-		"english": "know"
-	},
-	{
-		"lang": "ok",
-		"english": "OK"
-	},
-	{
-		"lang": "sicher",
-		"english": "for sure"
-	},
-	{
-		"lang": "gesagt",
-		"english": "told"
-	},
-	{
-		"lang": "frau",
-		"english": "Mrs"
-	},
-	{
-		"lang": "nun",
-		"english": "now"
-	},
-	{
-		"lang": "bis",
-		"english": "to"
-	},
-	{
-		"lang": "wurde",
-		"english": "has been"
-	},
-	{
-		"lang": "leid",
-		"english": "suffering"
-	},
-	{
-		"lang": "na",
-		"english": "n / A"
-	},
-	{
-		"lang": "kannst",
-		"english": "can"
-	},
-	{
-		"lang": "macht",
-		"english": "makes"
-	},
-	{
-		"lang": "dieser",
-		"english": "this"
-	},
-	{
-		"lang": "zurück",
-		"english": "back"
-	},
-	{
-		"lang": "lassen",
-		"english": "to let"
-	},
-	{
-		"lang": "hallo",
-		"english": "Hello"
-	},
-	{
-		"lang": "meinen",
-		"english": "mean"
-	},
-	{
-		"lang": "gott",
-		"english": "God"
-	},
-	{
-		"lang": "seine",
-		"english": "his"
-	},
-	{
-		"lang": "hätte",
-		"english": "would have"
-	},
-	{
-		"lang": "zwei",
-		"english": "two"
-	},
-	{
-		"lang": "könnte",
-		"english": "could"
-	},
-	{
-		"lang": "genau",
-		"english": "I agree"
-	},
-	{
-		"lang": "waren",
-		"english": "were"
-	},
-	{
-		"lang": "zur",
-		"english": "to"
-	},
-	{
-		"lang": "lass",
-		"english": "let"
-	},
-	{
-		"lang": "klar",
-		"english": "clear"
-	},
-	{
-		"lang": "morgen",
-		"english": "tomorrow"
-	},
-	{
-		"lang": "leute",
-		"english": "People"
-	},
-	{
-		"lang": "vater",
-		"english": "father"
-	},
-	{
-		"lang": "schön",
-		"english": "beautiful"
-	},
-	{
-		"lang": "glaube",
-		"english": "faith"
-	},
-	{
-		"lang": "mr.",
-		"english": "mr."
-	},
-	{
-		"lang": "ab",
-		"english": "from"
-	},
-	{
-		"lang": "gerade",
-		"english": "just"
-	},
-	{
-		"lang": "tag",
-		"english": "Day"
-	},
-	{
-		"lang": "gesehen",
-		"english": "seen"
-	},
-	{
-		"lang": "reden",
-		"english": "talk"
-	},
-	{
-		"lang": "wohl",
-		"english": "well"
-	},
-	{
-		"lang": "liebe",
-		"english": "love"
-	},
-	{
-		"lang": "sollte",
-		"english": "should"
-	},
-	{
-		"lang": "sagte",
-		"english": "said"
-	},
-	{
-		"lang": "unsere",
-		"english": "our"
-	},
-	{
-		"lang": "jemand",
-		"english": "someone"
-	},
-	{
-		"lang": "geld",
-		"english": "money"
-	},
-	{
-		"lang": "durch",
-		"english": "by"
-	},
-	{
-		"lang": "ob",
-		"english": "if"
-	},
-	{
-		"lang": "keinen",
-		"english": "no"
-	},
-	{
-		"lang": "mutter",
-		"english": "mother"
-	},
-	{
-		"lang": "raus",
-		"english": "Out"
-	},
-	{
-		"lang": "gemacht",
-		"english": "made"
-	},
-	{
-		"lang": "paar",
-		"english": "pair"
-	},
-	{
-		"lang": "mach",
-		"english": "mach"
-	},
-	{
-		"lang": "passiert",
-		"english": "happens"
-	},
-	{
-		"lang": "dachte",
-		"english": "thought"
-	},
-	{
-		"lang": "besser",
-		"english": "better"
-	},
-	{
-		"lang": "musst",
-		"english": "must"
-	},
-	{
-		"lang": "wieso",
-		"english": "how so"
-	},
-	{
-		"lang": "sir",
-		"english": "sir"
-	},
-	{
-		"lang": "dieses",
-		"english": "this"
-	},
-	{
-		"lang": "selbst",
-		"english": "self"
-	},
-	{
-		"lang": "gehört",
-		"english": "belongs"
-	},
-	{
-		"lang": "möchte",
-		"english": "would like to"
-	},
-	{
-		"lang": "ohne",
-		"english": "without"
-	},
-	{
-		"lang": "hör",
-		"english": "hear"
-	},
-	{
-		"lang": "her",
-		"english": "here"
-	},
-	{
-		"lang": "sag",
-		"english": "say"
-	},
-	{
-		"lang": "meiner",
-		"english": "mine"
-	},
-	{
-		"lang": "anderen",
-		"english": "other"
-	},
-	{
-		"lang": "helfen",
-		"english": "help"
-	},
-	{
-		"lang": "nacht",
-		"english": "night"
-	},
-	{
-		"lang": "finden",
-		"english": "Find"
-	},
-	{
-		"lang": "diesen",
-		"english": "this"
-	},
-	{
-		"lang": "gute",
-		"english": "quality"
-	},
-	{
-		"lang": "wirst",
-		"english": "will"
-	},
-	{
-		"lang": "lange",
-		"english": "Long"
-	},
-	{
-		"lang": "natürlich",
-		"english": "Naturally"
-	},
-	{
-		"lang": "ach",
-		"english": "Oh"
-	},
-	{
-		"lang": "meinem",
-		"english": "my"
-	},
-	{
-		"lang": "gar",
-		"english": "at all"
-	},
-	{
-		"lang": "ins",
-		"english": "in the"
-	},
-	{
-		"lang": "sei",
-		"english": "be"
-	},
-	{
-		"lang": "dort",
-		"english": "There"
-	},
-	{
-		"lang": "weiter",
-		"english": "continue"
-	},
-	{
-		"lang": "geben",
-		"english": "give"
-	},
-	{
-		"lang": "seit",
-		"english": "since"
-	},
-	{
-		"lang": "gleich",
-		"english": "equal"
-	},
-	{
-		"lang": "sagt",
-		"english": "says"
-	},
-	{
-		"lang": "recht",
-		"english": "Law"
-	},
-	{
-		"lang": "ihren",
-		"english": "their"
-	},
-	{
-		"lang": "richtig",
-		"english": "correct"
-	},
-	{
-		"lang": "ordnung",
-		"english": "order"
-	},
-	{
-		"lang": "vom",
-		"english": "from"
-	},
-	{
-		"lang": "hören",
-		"english": "Listen"
-	},
-	{
-		"lang": "sieht",
-		"english": "looks"
-	},
-	{
-		"lang": "davon",
-		"english": "from that"
-	},
-	{
-		"lang": "dafür",
-		"english": "for this"
-	},
-	{
-		"lang": "geh",
-		"english": "go"
-	},
-	{
-		"lang": "diesem",
-		"english": "this"
-	},
-	{
-		"lang": "wegen",
-		"english": "because of"
-	},
-	{
-		"lang": "hause",
-		"english": "home"
-	},
-	{
-		"lang": "sollten",
-		"english": "should"
-	},
-	{
-		"lang": "mädchen",
-		"english": "girl"
-	},
-	{
-		"lang": "hin",
-		"english": "down"
-	},
-	{
-		"lang": "sollen",
-		"english": "should"
-	},
-	{
-		"lang": "abend",
-		"english": "Eve"
-	},
-	{
-		"lang": "haus",
-		"english": "House"
-	},
-	{
-		"lang": "denke",
-		"english": "think"
-	},
-	{
-		"lang": "viele",
-		"english": "lots"
-	},
-	{
-		"lang": "drei",
-		"english": "three"
-	},
-	{
-		"lang": "deinen",
-		"english": "your"
-	},
-	{
-		"lang": "freund",
-		"english": "friend"
-	},
-	{
-		"lang": "guten",
-		"english": "good"
-	},
-	{
-		"lang": "unser",
-		"english": "our"
-	},
-	{
-		"lang": "warte",
-		"english": "wait"
-	},
-	{
-		"lang": "machst",
-		"english": "doing"
-	},
-	{
-		"lang": "menschen",
-		"english": "People"
-	},
-	{
-		"lang": "essen",
-		"english": "eat"
-	},
-	{
-		"lang": "angst",
-		"english": "anxiety"
-	},
-	{
-		"lang": "bleiben",
-		"english": "stay"
-	},
-	{
-		"lang": "zusammen",
-		"english": "together"
-	},
-	{
-		"lang": "welt",
-		"english": "world"
-	},
-	{
-		"lang": "unter",
-		"english": "under"
-	},
-	{
-		"lang": "habt",
-		"english": "have"
-	},
-	{
-		"lang": "schnell",
-		"english": "fast"
-	},
-	{
-		"lang": "andere",
-		"english": "other"
-	},
-	{
-		"lang": "tot",
-		"english": "dead"
-	},
-	{
-		"lang": "getan",
-		"english": "done"
-	},
-	{
-		"lang": "darf",
-		"english": "may"
-	},
-	{
-		"lang": "erst",
-		"english": "first"
-	},
-	{
-		"lang": "rein",
-		"english": "purely"
-	},
-	{
-		"lang": "stimmt",
-		"english": "Right"
-	},
-	{
-		"lang": "nehmen",
-		"english": "to take"
-	},
-	{
-		"lang": "kinder",
-		"english": "children"
-	},
-	{
-		"lang": "eines",
-		"english": "one"
-	},
-	{
-		"lang": "glauben",
-		"english": "believe"
-	},
-	{
-		"lang": "bringen",
-		"english": "bring"
-	},
-	{
-		"lang": "ganze",
-		"english": "whole"
-	},
-	{
-		"lang": "genug",
-		"english": "enough"
-	},
-	{
-		"lang": "scheiße",
-		"english": "crap"
-	},
-	{
-		"lang": "brauchen",
-		"english": "need"
-	},
-	{
-		"lang": "gegen",
-		"english": "against"
-	},
-	{
-		"lang": "moment",
-		"english": "moment"
-	},
-	{
-		"lang": "junge",
-		"english": "Boy"
-	},
-	{
-		"lang": "steht",
-		"english": "stands"
-	},
-	{
-		"lang": "sonst",
-		"english": "otherwise"
-	},
-	{
-		"lang": "musik",
-		"english": "music"
-	},
-	{
-		"lang": "arbeit",
-		"english": "job"
-	},
-	{
-		"lang": "seid",
-		"english": "are"
-	},
-	{
-		"lang": "ihrer",
-		"english": "of their"
-	},
-	{
-		"lang": "fragen",
-		"english": "ask"
-	},
-	{
-		"lang": "herr",
-		"english": "Mr"
-	},
-	{
-		"lang": "dabei",
-		"english": "there"
-	},
-	{
-		"lang": "heißt",
-		"english": "is called"
-	},
-	{
-		"lang": "familie",
-		"english": "family"
-	},
-	{
-		"lang": "warten",
-		"english": "waiting"
-	},
-	{
-		"lang": "niemand",
-		"english": "nobody"
-	},
-	{
-		"lang": "sofort",
-		"english": "immediately"
-	},
-	{
-		"lang": "bevor",
-		"english": "before"
-	},
-	{
-		"lang": "jahre",
-		"english": "years"
-	},
-	{
-		"lang": "einmal",
-		"english": "once"
-	},
-	{
-		"lang": "problem",
-		"english": "problem"
-	},
-	{
-		"lang": "sohn",
-		"english": "son"
-	},
-	{
-		"lang": "wann",
-		"english": "when"
-	},
-	{
-		"lang": "brauche",
-		"english": "need"
-	},
-	{
-		"lang": "fertig",
-		"english": "finished"
-	},
-	{
-		"lang": "halt",
-		"english": "stop"
-	},
-	{
-		"lang": "allein",
-		"english": "alone"
-	},
-	{
-		"lang": "beim",
-		"english": "at the"
-	},
-	{
-		"lang": "sprechen",
-		"english": "speak"
-	},
-	{
-		"lang": "beide",
-		"english": "both"
-	},
-	{
-		"lang": "gefunden",
-		"english": "found"
-	},
-	{
-		"lang": "hatten",
-		"english": "had"
-	},
-	{
-		"lang": "sache",
-		"english": "Thing"
-	},
-	{
-		"lang": "hilfe",
-		"english": "Help"
-	},
-	{
-		"lang": "verdammt",
-		"english": "damned"
-	},
-	{
-		"lang": "ne",
-		"english": "ne"
-	},
-	{
-		"lang": "jeder",
-		"english": "everyone"
-	},
-	{
-		"lang": "warst",
-		"english": "were"
-	},
-	{
-		"lang": "gern",
-		"english": "gladly"
-	},
-	{
-		"lang": "konnte",
-		"english": "could"
-	},
-	{
-		"lang": "darüber",
-		"english": "about that"
-	},
-	{
-		"lang": "halten",
-		"english": "hold"
-	},
-	{
-		"lang": "siehst",
-		"english": "see"
-	},
-	{
-		"lang": "verstehe",
-		"english": "understand"
-	},
-	{
-		"lang": "jahren",
-		"english": "years"
-	},
-	{
-		"lang": "kam",
-		"english": "came"
-	},
-	{
-		"lang": "kind",
-		"english": "child"
-	},
-	{
-		"lang": "wusste",
-		"english": "knew"
-	},
-	{
-		"lang": "wahr",
-		"english": "true"
-	},
-	{
-		"lang": "seinen",
-		"english": "his"
-	},
-	{
-		"lang": "dazu",
-		"english": "to"
-	},
-	{
-		"lang": "bruder",
-		"english": "brothers"
-	},
-	{
-		"lang": "daran",
-		"english": "it"
-	},
-	{
-		"lang": "ihrem",
-		"english": "their"
-	},
-	{
-		"lang": "denken",
-		"english": "think"
-	},
-	{
-		"lang": "könnten",
-		"english": "could"
-	},
-	{
-		"lang": "dank",
-		"english": "thanks"
-	},
-	{
-		"lang": "würden",
-		"english": "would"
-	},
-	{
-		"lang": "lieber",
-		"english": "Dear"
-	},
-	{
-		"lang": "fall",
-		"english": "case"
-	},
-	{
-		"lang": "deiner",
-		"english": "yours"
-	},
-	{
-		"lang": "sehe",
-		"english": "see"
-	},
-	{
-		"lang": "egal",
-		"english": "no matter"
-	},
-	{
-		"lang": "kennen",
-		"english": "know"
-	},
-	{
-		"lang": "deinem",
-		"english": "your"
-	},
-	{
-		"lang": "vergessen",
-		"english": "to forget"
-	},
-	{
-		"lang": "frage",
-		"english": "question"
-	},
-	{
-		"lang": "mache",
-		"english": "make"
-	},
-	{
-		"lang": "komme",
-		"english": "get"
-	},
-	{
-		"lang": "sage",
-		"english": "legend"
-	},
-	{
-		"lang": "mag",
-		"english": "like"
-	},
-	{
-		"lang": "sieh",
-		"english": "look"
-	},
-	{
-		"lang": "echt",
-		"english": "real"
-	},
-	{
-		"lang": "gib",
-		"english": "give"
-	},
-	{
-		"lang": "eigentlich",
-		"english": "actually"
-	},
-	{
-		"lang": "jeden",
-		"english": "each"
-	},
-	{
-		"lang": "dad",
-		"english": "dad"
-	},
-	{
-		"lang": "gab",
-		"english": "gave"
-	},
-	{
-		"lang": "uhr",
-		"english": "Clock"
-	},
-	{
-		"lang": "stadt",
-		"english": "city"
-	},
-	{
-		"lang": "männer",
-		"english": "Men"
-	},
-	{
-		"lang": "baby",
-		"english": "infant"
-	},
-	{
-		"lang": "fahren",
-		"english": "drive"
-	},
-	{
-		"lang": "namen",
-		"english": "names"
-	},
-	{
-		"lang": "bekommen",
-		"english": "to get"
-	},
-	{
-		"lang": "kopf",
-		"english": "head"
-	},
-	{
-		"lang": "hi",
-		"english": "Hi"
-	},
-	{
-		"lang": "gehe",
-		"english": "go"
-	},
-	{
-		"lang": "kleine",
-		"english": "small"
-	},
-	{
-		"lang": "später",
-		"english": "later"
-	},
-	{
-		"lang": "glück",
-		"english": "luck"
-	},
-	{
-		"lang": "letzte",
-		"english": "latest"
-	},
-	{
-		"lang": "freunde",
-		"english": "friends"
-	},
-	{
-		"lang": "n",
-		"english": "n"
-	},
-	{
-		"lang": "all",
-		"english": "Alles"
-	},
-	{
-		"lang": "darauf",
-		"english": "thereon"
-	},
-	{
-		"lang": "ende",
-		"english": "end"
-	},
-	{
-		"lang": "dr.",
-		"english": "dr."
-	},
-	{
-		"lang": "bald",
-		"english": "soon"
-	},
-	{
-		"lang": "töten",
-		"english": "kill"
-	},
-	{
-		"lang": "dinge",
-		"english": "things"
-	},
-	{
-		"lang": "meinst",
-		"english": "mean"
-	},
-	{
-		"lang": "toll",
-		"english": "Great"
-	},
-	{
-		"lang": "eins",
-		"english": "one"
-	},
-	{
-		"lang": "minuten",
-		"english": "minutes"
-	},
-	{
-		"lang": "vielen",
-		"english": "a lot of"
-	},
-	{
-		"lang": "bereit",
-		"english": "ready"
-	},
-	{
-		"lang": "weit",
-		"english": "far"
-	},
-	{
-		"lang": "ahnung",
-		"english": "idea"
-	},
-	{
-		"lang": "seiner",
-		"english": "his"
-	},
-	{
-		"lang": "bisschen",
-		"english": "little"
-	},
-	{
-		"lang": "tür",
-		"english": "door"
-	},
-	{
-		"lang": "auto",
-		"english": "automobile"
-	},
-	{
-		"lang": "jungs",
-		"english": "guys"
-	},
-	{
-		"lang": "eure",
-		"english": "your"
-	},
-	{
-		"lang": "augen",
-		"english": "eyes"
-	},
-	{
-		"lang": "polizei",
-		"english": "police"
-	},
-	{
-		"lang": "stehen",
-		"english": "stand"
-	},
-	{
-		"lang": "sterben",
-		"english": "to die"
-	},
-	{
-		"lang": "hätten",
-		"english": "had"
-	},
-	{
-		"lang": "draußen",
-		"english": "outside"
-	},
-	{
-		"lang": "kenne",
-		"english": "know"
-	},
-	{
-		"lang": "fast",
-		"english": "nearly"
-	},
-	{
-		"lang": "runter",
-		"english": "down"
-	},
-	{
-		"lang": "vorbei",
-		"english": "past"
-	},
-	{
-		"lang": "treffen",
-		"english": "to meet"
-	},
-	{
-		"lang": "gerne",
-		"english": "with pleasure"
-	},
-	{
-		"lang": "dran",
-		"english": "tuned"
-	},
-	{
-		"lang": "wurden",
-		"english": "were"
-	},
-	{
-		"lang": "arbeiten",
-		"english": "work"
-	},
-	{
-		"lang": "mom",
-		"english": "mom"
-	},
-	{
-		"lang": "verrückt",
-		"english": "crazy"
-	},
-	{
-		"lang": "neue",
-		"english": "new"
-	},
-	{
-		"lang": "ging",
-		"english": "went"
-	},
-	{
-		"lang": "hinter",
-		"english": "Behind"
-	},
-	{
-		"lang": "sorgen",
-		"english": "to care"
-	},
-	{
-		"lang": "einzige",
-		"english": "single"
-	},
-	{
-		"lang": "jemanden",
-		"english": "someone"
-	},
-	{
-		"lang": "darum",
-		"english": "therefore"
-	},
-	{
-		"lang": "tochter",
-		"english": "daughter"
-	},
-	{
-		"lang": "braucht",
-		"english": "need"
-	},
-	{
-		"lang": "idee",
-		"english": "idea"
-	},
-	{
-		"lang": "schwester",
-		"english": "sister"
-	},
-	{
-		"lang": "drin",
-		"english": "in it"
-	},
-	{
-		"lang": "ruhig",
-		"english": "calm"
-	},
-	{
-		"lang": "sah",
-		"english": "saw"
-	},
-	{
-		"lang": "ganzen",
-		"english": "all"
-	},
-	{
-		"lang": "spät",
-		"english": "late"
-	},
-	{
-		"lang": "ziemlich",
-		"english": "quite"
-	},
-	{
-		"lang": "solltest",
-		"english": "should"
-	},
-	{
-		"lang": "name",
-		"english": "Surname"
-	},
-	{
-		"lang": "sogar",
-		"english": "even"
-	},
-	{
-		"lang": "kurz",
-		"english": "short"
-	},
-	{
-		"lang": "kerl",
-		"english": "Guy"
-	},
-	{
-		"lang": "frauen",
-		"english": "women"
-	},
-	{
-		"lang": "liegt",
-		"english": "lies"
-	},
-	{
-		"lang": "suchen",
-		"english": "search"
-	},
-	{
-		"lang": "finde",
-		"english": "find"
-	},
-	{
-		"lang": "je",
-		"english": "ever"
-	},
-	{
-		"lang": "woher",
-		"english": "from where"
-	},
-	{
-		"lang": "lang",
-		"english": "long"
-	},
-	{
-		"lang": "job",
-		"english": "job"
-	},
-	{
-		"lang": "keiner",
-		"english": "none"
-	},
-	{
-		"lang": "seinem",
-		"english": "his"
-	},
-	{
-		"lang": "hört",
-		"english": "hears"
-	},
-	{
-		"lang": "verstehen",
-		"english": "understand"
-	},
-	{
-		"lang": "spielen",
-		"english": "play"
-	},
-	{
-		"lang": "s.",
-		"english": "s."
-	},
-	{
-		"lang": "überhaupt",
-		"english": "at all"
-	},
-	{
-		"lang": "teufel",
-		"english": "devil"
-	},
-	{
-		"lang": "verstanden",
-		"english": "Understood"
-	},
-	{
-		"lang": "verloren",
-		"english": "lost"
-	},
-	{
-		"lang": "große",
-		"english": "size"
-	},
-	{
-		"lang": "hand",
-		"english": "hand"
-	},
-	{
-		"lang": "grund",
-		"english": "reason"
-	},
-	{
-		"lang": "jahr",
-		"english": "year"
-	},
-	{
-		"lang": "kommst",
-		"english": "coming"
-	},
-	{
-		"lang": "mama",
-		"english": "mummy"
-	},
-	{
-		"lang": "ruhe",
-		"english": "Quiet"
-	},
-	{
-		"lang": "gewesen",
-		"english": "been"
-	},
-	{
-		"lang": "tod",
-		"english": "death"
-	},
-	{
-		"lang": "stunden",
-		"english": "hours"
-	},
-	{
-		"lang": "hoffe",
-		"english": "hope"
-	},
-	{
-		"lang": "denkst",
-		"english": "think"
-	},
-	{
-		"lang": "oben",
-		"english": "above"
-	},
-	{
-		"lang": "gestern",
-		"english": "yesterday"
-	},
-	{
-		"lang": "versuchen",
-		"english": "to attempt"
-	},
-	{
-		"lang": "art",
-		"english": "kind"
-	},
-	{
-		"lang": "letzten",
-		"english": "last"
-	},
-	{
-		"lang": "schatz",
-		"english": "treasure"
-	},
-	{
-		"lang": "endlich",
-		"english": "at last"
-	},
-	{
-		"lang": "he",
-		"english": "hey"
-	},
-	{
-		"lang": "nimm",
-		"english": "take"
-	},
-	{
-		"lang": "etwa",
-		"english": "approximately"
-	},
-	{
-		"lang": "erzählt",
-		"english": "tells"
-	},
-	{
-		"lang": "läuft",
-		"english": "running"
-	},
-	{
-		"lang": "schwer",
-		"english": "heavy"
-	},
-	{
-		"lang": "anders",
-		"english": "different"
-	},
-	{
-		"lang": "miss",
-		"english": "ill"
-	},
-	{
-		"lang": "musste",
-		"english": "had to"
-	},
-	{
-		"lang": "fünf",
-		"english": "five"
-	},
-	{
-		"lang": "wasser",
-		"english": "water"
-	},
-	{
-		"lang": "lässt",
-		"english": "leaves"
-	},
-	{
-		"lang": "erste",
-		"english": "first"
-	},
-	{
-		"lang": "versucht",
-		"english": "tries"
-	},
-	{
-		"lang": "gekommen",
-		"english": "came"
-	},
-	{
-		"lang": "geschichte",
-		"english": "history"
-	},
-	{
-		"lang": "wenig",
-		"english": "little"
-	},
-	{
-		"lang": "holen",
-		"english": "to fetch"
-	},
-	{
-		"lang": "bedeutet",
-		"english": "means"
-	},
-	{
-		"lang": "nett",
-		"english": "kind"
-	}
-]
+﻿{
+	"word": [
+		{
+			"lang": "ich",
+			"english": "I"
+		},
+		{
+			"lang": "sie",
+			"english": "they"
+		},
+		{
+			"lang": "das",
+			"english": "the"
+		},
+		{
+			"lang": "ist",
+			"english": "is"
+		},
+		{
+			"lang": "du",
+			"english": "you"
+		},
+		{
+			"lang": "nicht",
+			"english": "Not"
+		},
+		{
+			"lang": "die",
+			"english": "the"
+		},
+		{
+			"lang": "es",
+			"english": "it"
+		},
+		{
+			"lang": "und",
+			"english": "and"
+		},
+		{
+			"lang": "der",
+			"english": "of the"
+		},
+		{
+			"lang": "wir",
+			"english": "we"
+		},
+		{
+			"lang": "was",
+			"english": "What"
+		},
+		{
+			"lang": "zu",
+			"english": "to"
+		},
+		{
+			"lang": "er",
+			"english": "he"
+		},
+		{
+			"lang": "ein",
+			"english": "a"
+		},
+		{
+			"lang": "in",
+			"english": "in"
+		},
+		{
+			"lang": "ja",
+			"english": "Yes"
+		},
+		{
+			"lang": "mir",
+			"english": "me"
+		},
+		{
+			"lang": "mit",
+			"english": "With"
+		},
+		{
+			"lang": "wie",
+			"english": "how"
+		},
+		{
+			"lang": "den",
+			"english": "the"
+		},
+		{
+			"lang": "mich",
+			"english": "me"
+		},
+		{
+			"lang": "auf",
+			"english": "on"
+		},
+		{
+			"lang": "dass",
+			"english": "that"
+		},
+		{
+			"lang": "aber",
+			"english": "but"
+		},
+		{
+			"lang": "eine",
+			"english": "a"
+		},
+		{
+			"lang": "so",
+			"english": "so"
+		},
+		{
+			"lang": "hat",
+			"english": "Has"
+		},
+		{
+			"lang": "hier",
+			"english": "here"
+		},
+		{
+			"lang": "haben",
+			"english": "to have"
+		},
+		{
+			"lang": "für",
+			"english": "For"
+		},
+		{
+			"lang": "sind",
+			"english": "are"
+		},
+		{
+			"lang": "war",
+			"english": "was"
+		},
+		{
+			"lang": "von",
+			"english": "of"
+		},
+		{
+			"lang": "wenn",
+			"english": "if"
+		},
+		{
+			"lang": "dich",
+			"english": "you"
+		},
+		{
+			"lang": "ihr",
+			"english": "you"
+		},
+		{
+			"lang": "nein",
+			"english": "No"
+		},
+		{
+			"lang": "habe",
+			"english": "have"
+		},
+		{
+			"lang": "an",
+			"english": "on"
+		},
+		{
+			"lang": "bin",
+			"english": "am"
+		},
+		{
+			"lang": "noch",
+			"english": "yet"
+		},
+		{
+			"lang": "nur",
+			"english": "just"
+		},
+		{
+			"lang": "da",
+			"english": "there"
+		},
+		{
+			"lang": "dir",
+			"english": "to you"
+		},
+		{
+			"lang": "sich",
+			"english": "yourself"
+		},
+		{
+			"lang": "einen",
+			"english": "one"
+		},
+		{
+			"lang": "uns",
+			"english": "us"
+		},
+		{
+			"lang": "hast",
+			"english": "have"
+		},
+		{
+			"lang": "dem",
+			"english": "the"
+		},
+		{
+			"lang": "kann",
+			"english": "can"
+		},
+		{
+			"lang": "gut",
+			"english": "Well"
+		},
+		{
+			"lang": "auch",
+			"english": "also"
+		},
+		{
+			"lang": "schon",
+			"english": "beautiful"
+		},
+		{
+			"lang": "als",
+			"english": "when"
+		},
+		{
+			"lang": "sein",
+			"english": "be"
+		},
+		{
+			"lang": "mal",
+			"english": "times"
+		},
+		{
+			"lang": "jetzt",
+			"english": "now"
+		},
+		{
+			"lang": "ihn",
+			"english": "him"
+		},
+		{
+			"lang": "dann",
+			"english": "then"
+		},
+		{
+			"lang": "aus",
+			"english": "out"
+		},
+		{
+			"lang": "meine",
+			"english": "my"
+		},
+		{
+			"lang": "um",
+			"english": "around"
+		},
+		{
+			"lang": "im",
+			"english": "in the"
+		},
+		{
+			"lang": "wird",
+			"english": "becomes"
+		},
+		{
+			"lang": "mein",
+			"english": "my"
+		},
+		{
+			"lang": "bist",
+			"english": "are"
+		},
+		{
+			"lang": "doch",
+			"english": "but"
+		},
+		{
+			"lang": "alles",
+			"english": "everything"
+		},
+		{
+			"lang": "weiß",
+			"english": "White"
+		},
+		{
+			"lang": "keine",
+			"english": "no"
+		},
+		{
+			"lang": "oder",
+			"english": "or"
+		},
+		{
+			"lang": "nach",
+			"english": "to"
+		},
+		{
+			"lang": "s",
+			"english": "s"
+		},
+		{
+			"lang": "nichts",
+			"english": "Nothing"
+		},
+		{
+			"lang": "man",
+			"english": "you"
+		},
+		{
+			"lang": "muss",
+			"english": "got to"
+		},
+		{
+			"lang": "werden",
+			"english": "will"
+		},
+		{
+			"lang": "will",
+			"english": "want"
+		},
+		{
+			"lang": "ihnen",
+			"english": "them"
+		},
+		{
+			"lang": "geht",
+			"english": "going"
+		},
+		{
+			"lang": "wo",
+			"english": "Where"
+		},
+		{
+			"lang": "etwas",
+			"english": "something"
+		},
+		{
+			"lang": "oh",
+			"english": "Oh"
+		},
+		{
+			"lang": "mehr",
+			"english": "more"
+		},
+		{
+			"lang": "bei",
+			"english": "at"
+		},
+		{
+			"lang": "also",
+			"english": "so"
+		},
+		{
+			"lang": "bitte",
+			"english": "You're welcome"
+		},
+		{
+			"lang": "immer",
+			"english": "always"
+		},
+		{
+			"lang": "hab",
+			"english": "hab"
+		},
+		{
+			"lang": "warum",
+			"english": "Why"
+		},
+		{
+			"lang": "vor",
+			"english": "in front"
+		},
+		{
+			"lang": "los",
+			"english": "Come on"
+		},
+		{
+			"lang": "können",
+			"english": "can"
+		},
+		{
+			"lang": "wieder",
+			"english": "again"
+		},
+		{
+			"lang": "sagen",
+			"english": "say"
+		},
+		{
+			"lang": "machen",
+			"english": "do"
+		},
+		{
+			"lang": "danke",
+			"english": "Thank you"
+		},
+		{
+			"lang": "sehr",
+			"english": "very"
+		},
+		{
+			"lang": "alle",
+			"english": "all"
+		},
+		{
+			"lang": "denn",
+			"english": "because"
+		},
+		{
+			"lang": "mann",
+			"english": "man"
+		},
+		{
+			"lang": "tun",
+			"english": "to do"
+		},
+		{
+			"lang": "ihm",
+			"english": "him"
+		},
+		{
+			"lang": "zum",
+			"english": "to the"
+		},
+		{
+			"lang": "gehen",
+			"english": "go"
+		},
+		{
+			"lang": "sehen",
+			"english": "see"
+		},
+		{
+			"lang": "vielleicht",
+			"english": "maybe"
+		},
+		{
+			"lang": "einem",
+			"english": "one"
+		},
+		{
+			"lang": "wer",
+			"english": "who"
+		},
+		{
+			"lang": "ihre",
+			"english": "your"
+		},
+		{
+			"lang": "diese",
+			"english": "these"
+		},
+		{
+			"lang": "euch",
+			"english": "to you"
+		},
+		{
+			"lang": "einer",
+			"english": "one"
+		},
+		{
+			"lang": "komm",
+			"english": "come over"
+		},
+		{
+			"lang": "über",
+			"english": "above"
+		},
+		{
+			"lang": "gibt",
+			"english": "gives"
+		},
+		{
+			"lang": "okay",
+			"english": "OK"
+		},
+		{
+			"lang": "wissen",
+			"english": "knowledge"
+		},
+		{
+			"lang": "deine",
+			"english": "yours"
+		},
+		{
+			"lang": "müssen",
+			"english": "have to"
+		},
+		{
+			"lang": "soll",
+			"english": "should"
+		},
+		{
+			"lang": "werde",
+			"english": "will"
+		},
+		{
+			"lang": "nie",
+			"english": "never"
+		},
+		{
+			"lang": "wirklich",
+			"english": "really"
+		},
+		{
+			"lang": "hey",
+			"english": "hey"
+		},
+		{
+			"lang": "kein",
+			"english": "no"
+		},
+		{
+			"lang": "viel",
+			"english": "much"
+		},
+		{
+			"lang": "weg",
+			"english": "path"
+		},
+		{
+			"lang": "würde",
+			"english": "would"
+		},
+		{
+			"lang": "tut",
+			"english": "does"
+		},
+		{
+			"lang": "am",
+			"english": "at the"
+		},
+		{
+			"lang": "des",
+			"english": "of"
+		},
+		{
+			"lang": "einfach",
+			"english": "easy"
+		},
+		{
+			"lang": "leben",
+			"english": "Life"
+		},
+		{
+			"lang": "hatte",
+			"english": "would have"
+		},
+		{
+			"lang": "zeit",
+			"english": "time"
+		},
+		{
+			"lang": "weil",
+			"english": "because"
+		},
+		{
+			"lang": "willst",
+			"english": "want"
+		},
+		{
+			"lang": "kommen",
+			"english": "come"
+		},
+		{
+			"lang": "dein",
+			"english": "your"
+		},
+		{
+			"lang": "heute",
+			"english": "today"
+		},
+		{
+			"lang": "kommt",
+			"english": "coming"
+		},
+		{
+			"lang": "wollen",
+			"english": "want"
+		},
+		{
+			"lang": "damit",
+			"english": "in order to"
+		},
+		{
+			"lang": "ganz",
+			"english": "all"
+		},
+		{
+			"lang": "wäre",
+			"english": "would"
+		},
+		{
+			"lang": "wollte",
+			"english": "wanted"
+		},
+		{
+			"lang": "weißt",
+			"english": "know"
+		},
+		{
+			"lang": "ok",
+			"english": "OK"
+		},
+		{
+			"lang": "sicher",
+			"english": "for sure"
+		},
+		{
+			"lang": "gesagt",
+			"english": "told"
+		},
+		{
+			"lang": "frau",
+			"english": "Mrs"
+		},
+		{
+			"lang": "nun",
+			"english": "now"
+		},
+		{
+			"lang": "bis",
+			"english": "to"
+		},
+		{
+			"lang": "wurde",
+			"english": "has been"
+		},
+		{
+			"lang": "leid",
+			"english": "suffering"
+		},
+		{
+			"lang": "na",
+			"english": "n / A"
+		},
+		{
+			"lang": "kannst",
+			"english": "can"
+		},
+		{
+			"lang": "macht",
+			"english": "makes"
+		},
+		{
+			"lang": "dieser",
+			"english": "this"
+		},
+		{
+			"lang": "zurück",
+			"english": "back"
+		},
+		{
+			"lang": "lassen",
+			"english": "to let"
+		},
+		{
+			"lang": "hallo",
+			"english": "Hello"
+		},
+		{
+			"lang": "meinen",
+			"english": "mean"
+		},
+		{
+			"lang": "gott",
+			"english": "God"
+		},
+		{
+			"lang": "seine",
+			"english": "his"
+		},
+		{
+			"lang": "hätte",
+			"english": "would have"
+		},
+		{
+			"lang": "zwei",
+			"english": "two"
+		},
+		{
+			"lang": "könnte",
+			"english": "could"
+		},
+		{
+			"lang": "genau",
+			"english": "I agree"
+		},
+		{
+			"lang": "waren",
+			"english": "were"
+		},
+		{
+			"lang": "zur",
+			"english": "to"
+		},
+		{
+			"lang": "lass",
+			"english": "let"
+		},
+		{
+			"lang": "klar",
+			"english": "clear"
+		},
+		{
+			"lang": "morgen",
+			"english": "tomorrow"
+		},
+		{
+			"lang": "leute",
+			"english": "People"
+		},
+		{
+			"lang": "vater",
+			"english": "father"
+		},
+		{
+			"lang": "schön",
+			"english": "beautiful"
+		},
+		{
+			"lang": "glaube",
+			"english": "faith"
+		},
+		{
+			"lang": "mr.",
+			"english": "mr."
+		},
+		{
+			"lang": "ab",
+			"english": "from"
+		},
+		{
+			"lang": "gerade",
+			"english": "just"
+		},
+		{
+			"lang": "tag",
+			"english": "Day"
+		},
+		{
+			"lang": "gesehen",
+			"english": "seen"
+		},
+		{
+			"lang": "reden",
+			"english": "talk"
+		},
+		{
+			"lang": "wohl",
+			"english": "well"
+		},
+		{
+			"lang": "liebe",
+			"english": "love"
+		},
+		{
+			"lang": "sollte",
+			"english": "should"
+		},
+		{
+			"lang": "sagte",
+			"english": "said"
+		},
+		{
+			"lang": "unsere",
+			"english": "our"
+		},
+		{
+			"lang": "jemand",
+			"english": "someone"
+		},
+		{
+			"lang": "geld",
+			"english": "money"
+		},
+		{
+			"lang": "durch",
+			"english": "by"
+		},
+		{
+			"lang": "ob",
+			"english": "if"
+		},
+		{
+			"lang": "keinen",
+			"english": "no"
+		},
+		{
+			"lang": "mutter",
+			"english": "mother"
+		},
+		{
+			"lang": "raus",
+			"english": "Out"
+		},
+		{
+			"lang": "gemacht",
+			"english": "made"
+		},
+		{
+			"lang": "paar",
+			"english": "pair"
+		},
+		{
+			"lang": "mach",
+			"english": "mach"
+		},
+		{
+			"lang": "passiert",
+			"english": "happens"
+		},
+		{
+			"lang": "dachte",
+			"english": "thought"
+		},
+		{
+			"lang": "besser",
+			"english": "better"
+		},
+		{
+			"lang": "musst",
+			"english": "must"
+		},
+		{
+			"lang": "wieso",
+			"english": "how so"
+		},
+		{
+			"lang": "sir",
+			"english": "sir"
+		},
+		{
+			"lang": "dieses",
+			"english": "this"
+		},
+		{
+			"lang": "selbst",
+			"english": "self"
+		},
+		{
+			"lang": "gehört",
+			"english": "belongs"
+		},
+		{
+			"lang": "möchte",
+			"english": "would like to"
+		},
+		{
+			"lang": "ohne",
+			"english": "without"
+		},
+		{
+			"lang": "hör",
+			"english": "hear"
+		},
+		{
+			"lang": "her",
+			"english": "here"
+		},
+		{
+			"lang": "sag",
+			"english": "say"
+		},
+		{
+			"lang": "meiner",
+			"english": "mine"
+		},
+		{
+			"lang": "anderen",
+			"english": "other"
+		},
+		{
+			"lang": "helfen",
+			"english": "help"
+		},
+		{
+			"lang": "nacht",
+			"english": "night"
+		},
+		{
+			"lang": "finden",
+			"english": "Find"
+		},
+		{
+			"lang": "diesen",
+			"english": "this"
+		},
+		{
+			"lang": "gute",
+			"english": "quality"
+		},
+		{
+			"lang": "wirst",
+			"english": "will"
+		},
+		{
+			"lang": "lange",
+			"english": "Long"
+		},
+		{
+			"lang": "natürlich",
+			"english": "Naturally"
+		},
+		{
+			"lang": "ach",
+			"english": "Oh"
+		},
+		{
+			"lang": "meinem",
+			"english": "my"
+		},
+		{
+			"lang": "gar",
+			"english": "at all"
+		},
+		{
+			"lang": "ins",
+			"english": "in the"
+		},
+		{
+			"lang": "sei",
+			"english": "be"
+		},
+		{
+			"lang": "dort",
+			"english": "There"
+		},
+		{
+			"lang": "weiter",
+			"english": "continue"
+		},
+		{
+			"lang": "geben",
+			"english": "give"
+		},
+		{
+			"lang": "seit",
+			"english": "since"
+		},
+		{
+			"lang": "gleich",
+			"english": "equal"
+		},
+		{
+			"lang": "sagt",
+			"english": "says"
+		},
+		{
+			"lang": "recht",
+			"english": "Law"
+		},
+		{
+			"lang": "ihren",
+			"english": "their"
+		},
+		{
+			"lang": "richtig",
+			"english": "correct"
+		},
+		{
+			"lang": "ordnung",
+			"english": "order"
+		},
+		{
+			"lang": "vom",
+			"english": "from"
+		},
+		{
+			"lang": "hören",
+			"english": "Listen"
+		},
+		{
+			"lang": "sieht",
+			"english": "looks"
+		},
+		{
+			"lang": "davon",
+			"english": "from that"
+		},
+		{
+			"lang": "dafür",
+			"english": "for this"
+		},
+		{
+			"lang": "geh",
+			"english": "go"
+		},
+		{
+			"lang": "diesem",
+			"english": "this"
+		},
+		{
+			"lang": "wegen",
+			"english": "because of"
+		},
+		{
+			"lang": "hause",
+			"english": "home"
+		},
+		{
+			"lang": "sollten",
+			"english": "should"
+		},
+		{
+			"lang": "mädchen",
+			"english": "girl"
+		},
+		{
+			"lang": "hin",
+			"english": "down"
+		},
+		{
+			"lang": "sollen",
+			"english": "should"
+		},
+		{
+			"lang": "abend",
+			"english": "Eve"
+		},
+		{
+			"lang": "haus",
+			"english": "House"
+		},
+		{
+			"lang": "denke",
+			"english": "think"
+		},
+		{
+			"lang": "viele",
+			"english": "lots"
+		},
+		{
+			"lang": "drei",
+			"english": "three"
+		},
+		{
+			"lang": "deinen",
+			"english": "your"
+		},
+		{
+			"lang": "freund",
+			"english": "friend"
+		},
+		{
+			"lang": "guten",
+			"english": "good"
+		},
+		{
+			"lang": "unser",
+			"english": "our"
+		},
+		{
+			"lang": "warte",
+			"english": "wait"
+		},
+		{
+			"lang": "machst",
+			"english": "doing"
+		},
+		{
+			"lang": "menschen",
+			"english": "People"
+		},
+		{
+			"lang": "essen",
+			"english": "eat"
+		},
+		{
+			"lang": "angst",
+			"english": "anxiety"
+		},
+		{
+			"lang": "bleiben",
+			"english": "stay"
+		},
+		{
+			"lang": "zusammen",
+			"english": "together"
+		},
+		{
+			"lang": "welt",
+			"english": "world"
+		},
+		{
+			"lang": "unter",
+			"english": "under"
+		},
+		{
+			"lang": "habt",
+			"english": "have"
+		},
+		{
+			"lang": "schnell",
+			"english": "fast"
+		},
+		{
+			"lang": "andere",
+			"english": "other"
+		},
+		{
+			"lang": "tot",
+			"english": "dead"
+		},
+		{
+			"lang": "getan",
+			"english": "done"
+		},
+		{
+			"lang": "darf",
+			"english": "may"
+		},
+		{
+			"lang": "erst",
+			"english": "first"
+		},
+		{
+			"lang": "rein",
+			"english": "purely"
+		},
+		{
+			"lang": "stimmt",
+			"english": "Right"
+		},
+		{
+			"lang": "nehmen",
+			"english": "to take"
+		},
+		{
+			"lang": "kinder",
+			"english": "children"
+		},
+		{
+			"lang": "eines",
+			"english": "one"
+		},
+		{
+			"lang": "glauben",
+			"english": "believe"
+		},
+		{
+			"lang": "bringen",
+			"english": "bring"
+		},
+		{
+			"lang": "ganze",
+			"english": "whole"
+		},
+		{
+			"lang": "genug",
+			"english": "enough"
+		},
+		{
+			"lang": "scheiße",
+			"english": "crap"
+		},
+		{
+			"lang": "brauchen",
+			"english": "need"
+		},
+		{
+			"lang": "gegen",
+			"english": "against"
+		},
+		{
+			"lang": "moment",
+			"english": "moment"
+		},
+		{
+			"lang": "junge",
+			"english": "Boy"
+		},
+		{
+			"lang": "steht",
+			"english": "stands"
+		},
+		{
+			"lang": "sonst",
+			"english": "otherwise"
+		},
+		{
+			"lang": "musik",
+			"english": "music"
+		},
+		{
+			"lang": "arbeit",
+			"english": "job"
+		},
+		{
+			"lang": "seid",
+			"english": "are"
+		},
+		{
+			"lang": "ihrer",
+			"english": "of their"
+		},
+		{
+			"lang": "fragen",
+			"english": "ask"
+		},
+		{
+			"lang": "herr",
+			"english": "Mr"
+		},
+		{
+			"lang": "dabei",
+			"english": "there"
+		},
+		{
+			"lang": "heißt",
+			"english": "is called"
+		},
+		{
+			"lang": "familie",
+			"english": "family"
+		},
+		{
+			"lang": "warten",
+			"english": "waiting"
+		},
+		{
+			"lang": "niemand",
+			"english": "nobody"
+		},
+		{
+			"lang": "sofort",
+			"english": "immediately"
+		},
+		{
+			"lang": "bevor",
+			"english": "before"
+		},
+		{
+			"lang": "jahre",
+			"english": "years"
+		},
+		{
+			"lang": "einmal",
+			"english": "once"
+		},
+		{
+			"lang": "problem",
+			"english": "problem"
+		},
+		{
+			"lang": "sohn",
+			"english": "son"
+		},
+		{
+			"lang": "wann",
+			"english": "when"
+		},
+		{
+			"lang": "brauche",
+			"english": "need"
+		},
+		{
+			"lang": "fertig",
+			"english": "finished"
+		},
+		{
+			"lang": "halt",
+			"english": "stop"
+		},
+		{
+			"lang": "allein",
+			"english": "alone"
+		},
+		{
+			"lang": "beim",
+			"english": "at the"
+		},
+		{
+			"lang": "sprechen",
+			"english": "speak"
+		},
+		{
+			"lang": "beide",
+			"english": "both"
+		},
+		{
+			"lang": "gefunden",
+			"english": "found"
+		},
+		{
+			"lang": "hatten",
+			"english": "had"
+		},
+		{
+			"lang": "sache",
+			"english": "Thing"
+		},
+		{
+			"lang": "hilfe",
+			"english": "Help"
+		},
+		{
+			"lang": "verdammt",
+			"english": "damned"
+		},
+		{
+			"lang": "ne",
+			"english": "ne"
+		},
+		{
+			"lang": "jeder",
+			"english": "everyone"
+		},
+		{
+			"lang": "warst",
+			"english": "were"
+		},
+		{
+			"lang": "gern",
+			"english": "gladly"
+		},
+		{
+			"lang": "konnte",
+			"english": "could"
+		},
+		{
+			"lang": "darüber",
+			"english": "about that"
+		},
+		{
+			"lang": "halten",
+			"english": "hold"
+		},
+		{
+			"lang": "siehst",
+			"english": "see"
+		},
+		{
+			"lang": "verstehe",
+			"english": "understand"
+		},
+		{
+			"lang": "jahren",
+			"english": "years"
+		},
+		{
+			"lang": "kam",
+			"english": "came"
+		},
+		{
+			"lang": "kind",
+			"english": "child"
+		},
+		{
+			"lang": "wusste",
+			"english": "knew"
+		},
+		{
+			"lang": "wahr",
+			"english": "true"
+		},
+		{
+			"lang": "seinen",
+			"english": "his"
+		},
+		{
+			"lang": "dazu",
+			"english": "to"
+		},
+		{
+			"lang": "bruder",
+			"english": "brothers"
+		},
+		{
+			"lang": "daran",
+			"english": "it"
+		},
+		{
+			"lang": "ihrem",
+			"english": "their"
+		},
+		{
+			"lang": "denken",
+			"english": "think"
+		},
+		{
+			"lang": "könnten",
+			"english": "could"
+		},
+		{
+			"lang": "dank",
+			"english": "thanks"
+		},
+		{
+			"lang": "würden",
+			"english": "would"
+		},
+		{
+			"lang": "lieber",
+			"english": "Dear"
+		},
+		{
+			"lang": "fall",
+			"english": "case"
+		},
+		{
+			"lang": "deiner",
+			"english": "yours"
+		},
+		{
+			"lang": "sehe",
+			"english": "see"
+		},
+		{
+			"lang": "egal",
+			"english": "no matter"
+		},
+		{
+			"lang": "kennen",
+			"english": "know"
+		},
+		{
+			"lang": "deinem",
+			"english": "your"
+		},
+		{
+			"lang": "vergessen",
+			"english": "to forget"
+		},
+		{
+			"lang": "frage",
+			"english": "question"
+		},
+		{
+			"lang": "mache",
+			"english": "make"
+		},
+		{
+			"lang": "komme",
+			"english": "get"
+		},
+		{
+			"lang": "sage",
+			"english": "legend"
+		},
+		{
+			"lang": "mag",
+			"english": "like"
+		},
+		{
+			"lang": "sieh",
+			"english": "look"
+		},
+		{
+			"lang": "echt",
+			"english": "real"
+		},
+		{
+			"lang": "gib",
+			"english": "give"
+		},
+		{
+			"lang": "eigentlich",
+			"english": "actually"
+		},
+		{
+			"lang": "jeden",
+			"english": "each"
+		},
+		{
+			"lang": "dad",
+			"english": "dad"
+		},
+		{
+			"lang": "gab",
+			"english": "gave"
+		},
+		{
+			"lang": "uhr",
+			"english": "Clock"
+		},
+		{
+			"lang": "stadt",
+			"english": "city"
+		},
+		{
+			"lang": "männer",
+			"english": "Men"
+		},
+		{
+			"lang": "baby",
+			"english": "infant"
+		},
+		{
+			"lang": "fahren",
+			"english": "drive"
+		},
+		{
+			"lang": "namen",
+			"english": "names"
+		},
+		{
+			"lang": "bekommen",
+			"english": "to get"
+		},
+		{
+			"lang": "kopf",
+			"english": "head"
+		},
+		{
+			"lang": "hi",
+			"english": "Hi"
+		},
+		{
+			"lang": "gehe",
+			"english": "go"
+		},
+		{
+			"lang": "kleine",
+			"english": "small"
+		},
+		{
+			"lang": "später",
+			"english": "later"
+		},
+		{
+			"lang": "glück",
+			"english": "luck"
+		},
+		{
+			"lang": "letzte",
+			"english": "latest"
+		},
+		{
+			"lang": "freunde",
+			"english": "friends"
+		},
+		{
+			"lang": "n",
+			"english": "n"
+		},
+		{
+			"lang": "all",
+			"english": "Alles"
+		},
+		{
+			"lang": "darauf",
+			"english": "thereon"
+		},
+		{
+			"lang": "ende",
+			"english": "end"
+		},
+		{
+			"lang": "dr.",
+			"english": "dr."
+		},
+		{
+			"lang": "bald",
+			"english": "soon"
+		},
+		{
+			"lang": "töten",
+			"english": "kill"
+		},
+		{
+			"lang": "dinge",
+			"english": "things"
+		},
+		{
+			"lang": "meinst",
+			"english": "mean"
+		},
+		{
+			"lang": "toll",
+			"english": "Great"
+		},
+		{
+			"lang": "eins",
+			"english": "one"
+		},
+		{
+			"lang": "minuten",
+			"english": "minutes"
+		},
+		{
+			"lang": "vielen",
+			"english": "a lot of"
+		},
+		{
+			"lang": "bereit",
+			"english": "ready"
+		},
+		{
+			"lang": "weit",
+			"english": "far"
+		},
+		{
+			"lang": "ahnung",
+			"english": "idea"
+		},
+		{
+			"lang": "seiner",
+			"english": "his"
+		},
+		{
+			"lang": "bisschen",
+			"english": "little"
+		},
+		{
+			"lang": "tür",
+			"english": "door"
+		},
+		{
+			"lang": "auto",
+			"english": "automobile"
+		},
+		{
+			"lang": "jungs",
+			"english": "guys"
+		},
+		{
+			"lang": "eure",
+			"english": "your"
+		},
+		{
+			"lang": "augen",
+			"english": "eyes"
+		},
+		{
+			"lang": "polizei",
+			"english": "police"
+		},
+		{
+			"lang": "stehen",
+			"english": "stand"
+		},
+		{
+			"lang": "sterben",
+			"english": "to die"
+		},
+		{
+			"lang": "hätten",
+			"english": "had"
+		},
+		{
+			"lang": "draußen",
+			"english": "outside"
+		},
+		{
+			"lang": "kenne",
+			"english": "know"
+		},
+		{
+			"lang": "fast",
+			"english": "nearly"
+		},
+		{
+			"lang": "runter",
+			"english": "down"
+		},
+		{
+			"lang": "vorbei",
+			"english": "past"
+		},
+		{
+			"lang": "treffen",
+			"english": "to meet"
+		},
+		{
+			"lang": "gerne",
+			"english": "with pleasure"
+		},
+		{
+			"lang": "dran",
+			"english": "tuned"
+		},
+		{
+			"lang": "wurden",
+			"english": "were"
+		},
+		{
+			"lang": "arbeiten",
+			"english": "work"
+		},
+		{
+			"lang": "mom",
+			"english": "mom"
+		},
+		{
+			"lang": "verrückt",
+			"english": "crazy"
+		},
+		{
+			"lang": "neue",
+			"english": "new"
+		},
+		{
+			"lang": "ging",
+			"english": "went"
+		},
+		{
+			"lang": "hinter",
+			"english": "Behind"
+		},
+		{
+			"lang": "sorgen",
+			"english": "to care"
+		},
+		{
+			"lang": "einzige",
+			"english": "single"
+		},
+		{
+			"lang": "jemanden",
+			"english": "someone"
+		},
+		{
+			"lang": "darum",
+			"english": "therefore"
+		},
+		{
+			"lang": "tochter",
+			"english": "daughter"
+		},
+		{
+			"lang": "braucht",
+			"english": "need"
+		},
+		{
+			"lang": "idee",
+			"english": "idea"
+		},
+		{
+			"lang": "schwester",
+			"english": "sister"
+		},
+		{
+			"lang": "drin",
+			"english": "in it"
+		},
+		{
+			"lang": "ruhig",
+			"english": "calm"
+		},
+		{
+			"lang": "sah",
+			"english": "saw"
+		},
+		{
+			"lang": "ganzen",
+			"english": "all"
+		},
+		{
+			"lang": "spät",
+			"english": "late"
+		},
+		{
+			"lang": "ziemlich",
+			"english": "quite"
+		},
+		{
+			"lang": "solltest",
+			"english": "should"
+		},
+		{
+			"lang": "name",
+			"english": "Surname"
+		},
+		{
+			"lang": "sogar",
+			"english": "even"
+		},
+		{
+			"lang": "kurz",
+			"english": "short"
+		},
+		{
+			"lang": "kerl",
+			"english": "Guy"
+		},
+		{
+			"lang": "frauen",
+			"english": "women"
+		},
+		{
+			"lang": "liegt",
+			"english": "lies"
+		},
+		{
+			"lang": "suchen",
+			"english": "search"
+		},
+		{
+			"lang": "finde",
+			"english": "find"
+		},
+		{
+			"lang": "je",
+			"english": "ever"
+		},
+		{
+			"lang": "woher",
+			"english": "from where"
+		},
+		{
+			"lang": "lang",
+			"english": "long"
+		},
+		{
+			"lang": "job",
+			"english": "job"
+		},
+		{
+			"lang": "keiner",
+			"english": "none"
+		},
+		{
+			"lang": "seinem",
+			"english": "his"
+		},
+		{
+			"lang": "hört",
+			"english": "hears"
+		},
+		{
+			"lang": "verstehen",
+			"english": "understand"
+		},
+		{
+			"lang": "spielen",
+			"english": "play"
+		},
+		{
+			"lang": "s.",
+			"english": "s."
+		},
+		{
+			"lang": "überhaupt",
+			"english": "at all"
+		},
+		{
+			"lang": "teufel",
+			"english": "devil"
+		},
+		{
+			"lang": "verstanden",
+			"english": "Understood"
+		},
+		{
+			"lang": "verloren",
+			"english": "lost"
+		},
+		{
+			"lang": "große",
+			"english": "size"
+		},
+		{
+			"lang": "hand",
+			"english": "hand"
+		},
+		{
+			"lang": "grund",
+			"english": "reason"
+		},
+		{
+			"lang": "jahr",
+			"english": "year"
+		},
+		{
+			"lang": "kommst",
+			"english": "coming"
+		},
+		{
+			"lang": "mama",
+			"english": "mummy"
+		},
+		{
+			"lang": "ruhe",
+			"english": "Quiet"
+		},
+		{
+			"lang": "gewesen",
+			"english": "been"
+		},
+		{
+			"lang": "tod",
+			"english": "death"
+		},
+		{
+			"lang": "stunden",
+			"english": "hours"
+		},
+		{
+			"lang": "hoffe",
+			"english": "hope"
+		},
+		{
+			"lang": "denkst",
+			"english": "think"
+		},
+		{
+			"lang": "oben",
+			"english": "above"
+		},
+		{
+			"lang": "gestern",
+			"english": "yesterday"
+		},
+		{
+			"lang": "versuchen",
+			"english": "to attempt"
+		},
+		{
+			"lang": "art",
+			"english": "kind"
+		},
+		{
+			"lang": "letzten",
+			"english": "last"
+		},
+		{
+			"lang": "schatz",
+			"english": "treasure"
+		},
+		{
+			"lang": "endlich",
+			"english": "at last"
+		},
+		{
+			"lang": "he",
+			"english": "hey"
+		},
+		{
+			"lang": "nimm",
+			"english": "take"
+		},
+		{
+			"lang": "etwa",
+			"english": "approximately"
+		},
+		{
+			"lang": "erzählt",
+			"english": "tells"
+		},
+		{
+			"lang": "läuft",
+			"english": "running"
+		},
+		{
+			"lang": "schwer",
+			"english": "heavy"
+		},
+		{
+			"lang": "anders",
+			"english": "different"
+		},
+		{
+			"lang": "miss",
+			"english": "ill"
+		},
+		{
+			"lang": "musste",
+			"english": "had to"
+		},
+		{
+			"lang": "fünf",
+			"english": "five"
+		},
+		{
+			"lang": "wasser",
+			"english": "water"
+		},
+		{
+			"lang": "lässt",
+			"english": "leaves"
+		},
+		{
+			"lang": "erste",
+			"english": "first"
+		},
+		{
+			"lang": "versucht",
+			"english": "tries"
+		},
+		{
+			"lang": "gekommen",
+			"english": "came"
+		},
+		{
+			"lang": "geschichte",
+			"english": "history"
+		},
+		{
+			"lang": "wenig",
+			"english": "little"
+		},
+		{
+			"lang": "holen",
+			"english": "to fetch"
+		},
+		{
+			"lang": "bedeutet",
+			"english": "means"
+		},
+		{
+			"lang": "nett",
+			"english": "kind"
+		}
+	]
+}
