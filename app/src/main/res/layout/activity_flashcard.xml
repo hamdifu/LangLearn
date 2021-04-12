@@ -42,7 +42,7 @@
     <RelativeLayout
         android:id="@+id/flip_card"
         android:background="@drawable/card_bg"
-        android:backgroundTint="#f7b801"
+        android:backgroundTint="@color/yellow"
         android:layout_width="match_parent"
         android:layout_height="500dp"
         app:layout_constraintBottom_toTopOf="@+id/button"
@@ -99,11 +99,30 @@
 
     </RelativeLayout>
 
+    <ImageButton
+        android:id="@+id/back"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:backgroundTint="#0000"
+        android:scaleType="centerCrop"
+        android:src="@drawable/backbut"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.97"
+        app:layout_constraintHorizontal_bias="0.07"
+        android:clickable="true"
+        android:onClick="prev_card"/>
+
+
+
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginHorizontal="29dp"
+        android:layout_marginRight="29dp"
+        android:layout_marginLeft="100dp"
         android:background="@drawable/card_bg"
         android:backgroundTint="#ddd"
         android:fontFamily="sans-serif-condensed-medium"
@@ -114,6 +133,49 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.95"
-        android:onClick="flip"/>
+        android:onClick="flip" />
+
+    <RelativeLayout
+        android:id="@+id/done"
+        android:layout_width="match_parent"
+        android:layout_height="640dp"
+        app:layout_constraintVertical_bias="0.85"
+        android:background="@drawable/card_bg"
+        android:backgroundTint="#eeeeee"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/animation"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="-150dp"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="data.json"
+            app:lottie_loop="true" />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="confetti.json" />
+
+        <!--        android:visibility="invisible"-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="155dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Yay!! Goal for today completed!!"
+            android:textAlignment="center"
+            android:textColor="#635AAA"
+            android:textSize="35dp" />
+    </RelativeLayout>
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

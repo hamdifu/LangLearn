@@ -1,6 +1,7 @@
 package com.example.langlearn;
 
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
@@ -42,6 +43,8 @@ public class SignupTabFragment extends Fragment {
         signup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                MediaPlayer m = MediaPlayer.create(getContext(), R.raw.button);
+                m.start();
                 String semail = email.getText().toString().trim();
                 String spass = pass.getText().toString().trim();
                 if(TextUtils.isEmpty(semail)){
